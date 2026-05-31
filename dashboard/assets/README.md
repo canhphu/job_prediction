@@ -1,0 +1,3 @@
+# dashboard/assets
+
+Folder overview.

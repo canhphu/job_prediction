@@ -1,0 +1,3 @@
+# data/interim
+
+Folder overview.
