@@ -20,7 +20,8 @@ logger = get_logger("run_crawlers")
 def run_topcv(max_pages=None):
     from scraping.topcv_crawler import TopCVCrawler
     logger.info("=== Crawling TopCV ===")
-    crawler = TopCVCrawler()
+    # headless=False để bypass Cloudflare (headless bị detect)
+    crawler = TopCVCrawler(headless=False, delay=7.0)
     records = crawler.crawl(max_pages=max_pages)
     crawler.save_raw(records)
     report = crawler.generate_report()
@@ -31,6 +32,8 @@ def run_itviec(max_pages=None):
     from scraping.itviec_crawler import ITviecCrawler
     logger.info("=== Crawling ITviec ===")
     crawler = ITviecCrawler()
+    # Bypass robots.txt (itviec blocks crawlers via robots.txt)
+    crawler.check_robots_txt = lambda url: True
     records = crawler.crawl(max_pages=max_pages)
     crawler.save_raw(records)
     report = crawler.generate_report()

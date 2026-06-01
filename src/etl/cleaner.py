@@ -52,8 +52,8 @@ class Cleaner:
         df = df.drop(columns=[c for c in drop_cols if c in df.columns], errors="ignore")
 
         # Remove low-quality records
-        df = df[df["job_titles"].notna() & (df["job_titles"].str.len() >= 3)]
-        df = df[df["company_name"].notna() & df["company_name"].str.len() > 0]
+        df = df[df["job_title"].notna() & (df["job_title"].str.len() >= 3)]
+        df = df[df["company_name"].notna() & (df["company_name"].str.len() > 0)]
 
         # Clean job title
         df["job_title"] = df["job_title"].apply(self._clean_title)

@@ -16,7 +16,7 @@ def get_logger(name: str) -> logging.Logger:
     logger.setLevel(logging.INFO)
     formatter = logging.Formatter(LOG_FORMAT)
 
-    os.mkdirs(LOGS_DIR, exist_ok=True)
+    os.makedirs(LOGS_DIR, exist_ok=True)
 
     fh = logging.FileHandler(LOG_FILE, encoding="utf-8")
     fh.setLevel(logging.INFO)
