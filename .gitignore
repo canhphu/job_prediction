@@ -1,0 +1,60 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# === Virtual environments ===
+.venv/
+venv/
+env/
+ENV/
+
+# === Jupyter Notebook ===
+.ipynb_checkpoints/
+
+# === Model artifacts ===
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+*.onnx
+models/
+
+# === Reports outputs ===
+reports/figures/*
+reports/tables/*
+!reports/**/README.md
+
+# === Environment & secrets ===
+.env
+.env.*
+*.secret
+credentials/
+
+# === IDE & editors ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# === OS files ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Logs ===
+*.log
+logs/
+
+# === Package managers ===
+node_modules/
+package-lock.json
+
