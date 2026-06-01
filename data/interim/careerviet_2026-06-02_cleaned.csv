@@ -1,0 +1,241 @@
+job_title,company_name,location,posted_date,salary_min,salary_max,salary_currency,job_type,job_level,experience_required,skills,source,salary_missing
+IT Manager,Công Ty Cổ Phần A25 Hotel,Hanoi,2026-06-01,30000000.0,60000000.0,VND,Full-time,,5.0,,careerviet,False
+Frontend Developer,Công Ty Cổ Phần Giải Pháp Cơ Điện MES,Other,2026-06-01,12000000.0,15000000.0,VND,Full-time,,,,careerviet,False
+Other,Công ty Cổ phần Zodiac Clarity,Hanoi,2026-06-01,15000000.0,20000000.0,VND,Full-time,,2.0,,careerviet,False
+IT Manager,CÔNG TY TNHH GALAXY DIGITAL HOLDINGS,Ho Chi Minh City,2026-06-01,,,,Full-time,,5.0,,careerviet,True
+Data Engineer,Ngân Hàng TMCP Quốc Dân (NCB),Hanoi,2026-06-01,,,,Full-time,,5.0,,careerviet,True
+UI/UX Designer,CÔNG TY CỔ PHẦN CÔNG NGHỆ CITEK,Ho Chi Minh City,2026-06-01,,,,Full-time,,5.0,,careerviet,True
+IT Manager,AI Education,Ho Chi Minh City,2026-06-01,,,,Full-time,,2.0,,careerviet,True
+Business Analyst,Ngân Hàng TMCP Quốc Dân (NCB),Hanoi,2026-06-01,,,,Full-time,,1.0,,careerviet,True
+Security Engineer,Công ty TNHH Chứng khoán Ngân hàng TMCP Ngoại thương Việt Nam (VCBS - Vietcombank Securities),Hanoi,2026-06-01,,,,Full-time,,2.0,,careerviet,True
+Fullstack/Software Engineer,Công ty TNHH Chứng khoán Ngân hàng TMCP Ngoại thương Việt Nam (VCBS - Vietcombank Securities),Hanoi,2026-06-01,,,,Full-time,,2.0,devops,careerviet,True
+Database Administrator,Indovina Bank Ltd.,Ho Chi Minh City,2026-06-01,,,,Full-time,,3.0,"oracle, mysql, PostgreSQL",careerviet,True
+System/Network Admin,Tổng công ty Cổ phần Bia - Rượu - Nước giải khát Hà Nội (HABECO - Bia Hà Nội),Hanoi,2026-05-31,15000000.0,25000000.0,VND,Full-time,,2.0,"sap, erp",careerviet,False
+Cloud Engineer,"Un-Available LTD Co.,",Ho Chi Minh City,2026-05-31,,,,Full-time,,2.0,Azure,careerviet,True
+IT Manager,NGÂN HÀNG TMCP NGOẠI THƯƠNG VIỆT NAM (VIETCOMBANK),Hanoi,2026-05-30,,,,Full-time,,1.0,,careerviet,True
+Solution Architect,Công ty TNHH Viettel - CHT,Hanoi,2026-05-29,,,,Full-time,,5.0,,careerviet,True
+Security Engineer,NGÂN HÀNG TMCP NGOẠI THƯƠNG VIỆT NAM (VIETCOMBANK),Hanoi,2026-05-29,,,,Full-time,,2.0,,careerviet,True
+Project Manager,Tập đoàn ROX (ROX Group),Hanoi,2026-05-29,,,,Full-time,,2.0,,careerviet,True
+System/Network Admin,CÔNG TY TNHH CÔNG NGHỆ HUAWEI VIỆT NAM,Hanoi,2026-05-28,,,,Full-time,,2.0,,careerviet,True
+Business Analyst,Công Ty Cổ Phần Giải Pháp Thanh Toán Việt Nam (VNPAY),Hanoi,2026-05-28,,,,Full-time,,3.0,,careerviet,True
+System/Network Admin,CHI NHÁNH CÔNG TY CỔ PHẦN CÔNG NGHIỆP NHỰA PHÚ LÂM,Other,2026-05-28,10000000.0,15000000.0,VND,Full-time,,,,careerviet,False
+Other,Công Ty Cổ Phần Thời Trang & Mỹ Phẩm Duy Anh (DAFC),Ho Chi Minh City,2026-05-27,,,,Full-time,,2.0,,careerviet,True
+QA/Tester,CÔNG TY CỔ PHẦN GIẢI PHÁP GENE - GENE SOLUTIONS,Ho Chi Minh City,2026-05-27,,,,Full-time,,1.0,,careerviet,True
+IT Manager,CÔNG TY TNHH PHÁT TRIỂN CÔNG NGHỆ MIỀN NAM,Ho Chi Minh City,2026-05-27,,,,Full-time,,3.0,,careerviet,True
+Business Analyst,Tập đoàn ROX (ROX Group),Hanoi,2026-05-27,,,,Full-time,,3.0,,careerviet,True
+Fullstack/Software Engineer,CÔNG TY TNHH SKYLAB INNOGRAM VIỆT NAM,Ho Chi Minh City,2026-05-27,,,,Full-time,,3.0,php,careerviet,True
+Product Manager/Owner,Tập đoàn Giáo dục Đại Trường Phát,Ho Chi Minh City,2026-05-26,,,,Full-time,,3.0,,careerviet,True
+Fullstack/Software Engineer,BellSystem24 Việt Nam,Hanoi,2026-05-26,14000000.0,17000000.0,VND,Full-time,,2.0,,careerviet,False
+Project Manager,Ngân hàng Thương mại Cổ phần Hàng Hải Việt Nam (MSB),Hanoi,2026-05-26,,,,Full-time,,5.0,,careerviet,True
+Other,Công ty Cổ phần Casla,Hanoi,2026-05-26,,,,Full-time,,3.0,,careerviet,True
+Data Analyst,Chương trình Học viện Công nghệ BKACAD,Hanoi,2026-05-26,25000000.0,35000000.0,VND,Full-time,,2.0,,careerviet,False
+System/Network Admin,"DP Systems Electronic Mechanical Technology Vietnam Co., Ltd",Other,2026-05-26,,,,Full-time,,2.0,,careerviet,True
+System/Network Admin,FE CREDIT,Ho Chi Minh City,2026-05-25,,,,Full-time,,1.0,,careerviet,True
+Project Manager,Ngân Hàng TMCP Quốc Dân (NCB),Hanoi,2026-05-25,,,,Full-time,,7.0,,careerviet,True
+Security Engineer,Công Ty Cổ Phần Vacxin Việt Nam,Ho Chi Minh City,2026-05-25,,,,Full-time,,2.0,,careerviet,True
+System/Network Admin,CÔNG TY CỔ PHẦN PHÁT TRIỂN DỊCH VỤ VÀ THƯƠNG MẠI QUỐC AN,Hanoi,2026-05-25,18000000.0,25000000.0,VND,Full-time,,3.0,,careerviet,False
+Other,NGÂN HÀNG TMCP NGOẠI THƯƠNG VIỆT NAM (VIETCOMBANK),Hanoi,2026-05-25,,,,Full-time,,2.0,,careerviet,True
+Sales/Presales,CÔNG TY CP CÔNG NGHỆ QI,Ho Chi Minh City,2026-05-25,20000000.0,30000000.0,VND,Full-time,,3.0,,careerviet,False
+System/Network Admin,NGÂN HÀNG TRÁCH NHIỆM HỮU HẠN MỘT THÀNH VIÊN VIỆT NAM HIỆN ĐẠI,Hanoi,2026-05-23,,,,Full-time,,3.0,,careerviet,True
+Data Analyst,"Rochdale Spears Co., Ltd.",Other,2026-05-23,,,,Full-time,,3.0,,careerviet,True
+UI/UX Designer,NGÂN HÀNG TMCP NGOẠI THƯƠNG VIỆT NAM (VIETCOMBANK),Hanoi,2026-05-22,,,,Full-time,,3.0,,careerviet,True
+Product Manager/Owner,Ngân Hàng TMCP Tiên Phong (TPBank),Hanoi,2026-05-20,18000000.0,40000000.0,VND,Full-time,,1.0,"php, JavaScript, Jquery",careerviet,False
+AI/ML Engineer,Ngân Hàng TMCP Tiên Phong (TPBank),Hanoi,2026-05-19,10000000.0,15000000.0,VND,Full-time,,2.0,,careerviet,False
+AI/ML Engineer,CÔNG TY TNHH CÔNG NGHỆ HAIPER-X,Ho Chi Minh City,2026-05-19,35000000.0,70000000.0,VND,Full-time,,3.0,,careerviet,False
+System/Network Admin,Công ty Cổ phần Viễn thông - Tin học Bưu điện,Hanoi,2026-05-17,,35000000.0,VND,Full-time,,1.0,,careerviet,False
+Data Engineer,Tập đoàn ROX (ROX Group),Hanoi,2026-05-17,30000000.0,50000000.0,VND,Full-time,,4.0,,careerviet,False
+Sales/Presales,Công ty Cổ phần IPOS.vn,Hanoi,2026-05-15,15000000.0,30000000.0,VND,Full-time,,,,careerviet,False
+System/Network Admin,NGÂN HÀNG TMCP NGOẠI THƯƠNG VIỆT NAM (VIETCOMBANK),Hanoi,2026-05-14,,,,Full-time,,3.0,,careerviet,True
+Fullstack/Software Engineer,CÔNG TY TNHH SORIMACHI VIỆT NAM,Hanoi,2026-05-13,,,,Full-time,,2.0,,careerviet,True
+Other,CÔNG TY CỔ PHẦN CÔNG NGHỆ DOCCEN,Hanoi,2026-05-12,,,,Full-time,,,,careerviet,True
+Fullstack/Software Engineer,Công Ty Cổ Phần Xây Dựng CDC,Hanoi,2026-05-10,,,,Full-time,,2.0,,careerviet,True
+Fullstack/Software Engineer,Tổng Công Ty Chuyển Phát Nhanh Bưu Điện,Hanoi,,,,,Full-time,,1.0,,careerviet,True
+AI/ML Engineer,CÔNG TY TNHH ALCHERA VIỆT NAM,Ho Chi Minh City,2026-05-04,6800000.0,10000000.0,VND,Full-time,,,,careerviet,False
+Data Analyst,Tổng Công Ty Chuyển Phát Nhanh Bưu Điện,Hanoi,2026-05-03,,,,Full-time,,,,careerviet,True
+Consultant,QTSC - CÔNG TY TNHH MTV PHÁT TRIỂN CÔNG VIÊN PHẦN MỀM QUANG TRUNG,Ho Chi Minh City,2026-06-01,,,,Full-time,,,,careerviet,True
+Backend Developer,"HD SAISON Finance Co., Ltd",Ho Chi Minh City,2026-06-01,,,,Full-time,,4.0,,careerviet,True
+IT Manager,CareerViet,Ho Chi Minh City,2026-06-01,,,,Full-time,,7.0,,careerviet,True
+IT Manager,Công ty Cổ phần Dược phẩm Cửu Long,Ho Chi Minh City,2026-06-01,,,,Full-time,,5.0,,careerviet,True
+AI/ML Engineer,CareerViet,Ho Chi Minh City,2026-06-01,,,,Full-time,,1.0,,careerviet,True
+System/Network Admin,CareerViet,Ho Chi Minh City,2026-06-01,,,,Full-time,,3.0,,careerviet,True
+ERP/CRM Specialist,CÔNG TY CỔ PHẦN CÔNG NGHỆ CITEK,Hanoi,2026-06-01,,,,Full-time,,,SAP,careerviet,True
+Solution Architect,CÔNG TY TNHH APVN SEALING,Ho Chi Minh City,2026-05-31,,,,Full-time,,5.0,,careerviet,True
+Security Engineer,Công ty CP Giáo dục Quốc tế Việt Úc,Ho Chi Minh City,2026-05-30,,,,Full-time,,,,careerviet,True
+Backend Developer,Công Ty Cổ Phần Tập Đoàn Trường Hải,Ho Chi Minh City,2026-05-30,,,,Full-time,,2.0,,careerviet,True
+AI/ML Engineer,CÔNG TY TNHH TƯ VẤN GANESHAID,Hanoi,2026-05-29,,,,Full-time,,3.0,AI,careerviet,True
+Business Analyst,Công ty Cổ phần CANIFA,Hanoi,2026-05-29,15000000.0,23000000.0,VND,Full-time,,1.0,,careerviet,False
+ERP/CRM Specialist,Công ty Cổ phần CANIFA,Hanoi,2026-05-29,10000000.0,16000000.0,VND,Full-time,,1.0,ERP,careerviet,False
+Data Analyst,Công ty Cổ phần CANIFA,Hanoi,2026-05-29,15000000.0,25000000.0,VND,Full-time,,2.0,,careerviet,False
+AI/ML Engineer,Công ty Cổ phần CANIFA,Hanoi,2026-05-29,16000000.0,35000000.0,VND,Full-time,,1.0,,careerviet,False
+DevOps/Infra Engineer,Concung.com - Con Cung Joint Stock Company,Ho Chi Minh City,2026-05-29,,,,Full-time,,2.0,,careerviet,True
+Other,CHI NHÁNH CÔNG TY CỔ PHẦN CÔNG NGHIỆP NHỰA PHÚ LÂM,Other,2026-05-29,10000000.0,15000000.0,VND,Full-time,,,,careerviet,False
+Data Analyst,Concung.com - Con Cung Joint Stock Company,Ho Chi Minh City,2026-05-28,,,,Full-time,,3.0,BI,careerviet,True
+Fullstack/Software Engineer,CÔNG TY TNHH BỆNH VIỆN ĐKTN AN SINH - PHÚC TRƯỜNG MINH,Hanoi,,15000000.0,20000000.0,VND,Full-time,,1.0,,careerviet,False
+Project Manager,Công ty TNHH Viettel - CHT,Hanoi,2026-05-26,,,,Full-time,,2.0,,careerviet,True
+System/Network Admin,Ngân hàng TMCP Đại Chúng Việt Nam - PVcomBank,Hanoi,2026-05-25,,,,Full-time,,3.0,,careerviet,True
+IT Manager,Ngân hàng TMCP Đại Chúng Việt Nam - PVcomBank,Hanoi,2026-05-25,,,,Full-time,,5.0,,careerviet,True
+Solution Architect,Ngân hàng TMCP Đại Chúng Việt Nam - PVcomBank,Hanoi,2026-05-25,,,,Full-time,,5.0,,careerviet,True
+Backend Developer,"Un-Available LTD Co.,",Ho Chi Minh City,2026-05-25,,,,Full-time,,2.0,,careerviet,True
+Fullstack/Software Engineer,CÔNG TY TNHH APVN SEALING,Ho Chi Minh City,2026-05-25,,,,Full-time,,1.0,php,careerviet,True
+Backend Developer,Công ty Cổ phần Masscom Việt Nam,Hanoi,2026-05-24,15000000.0,22000000.0,VND,Full-time,,2.0,,careerviet,False
+System/Network Admin,Techtronic Industries Vietnam Manufacturing Company Limited,Other,2026-05-22,,,,Full-time,,3.0,,careerviet,True
+Data Analyst,Công Ty Cổ Phần Vacxin Việt Nam,Ho Chi Minh City,2026-05-07,,,,Full-time,,2.0,,careerviet,True
+Business Analyst,Công Ty Cổ Phần Vacxin Việt Nam,Ho Chi Minh City,2026-05-04,,,,Full-time,,2.0,,careerviet,True
+Other,CÔNG TY CỔ PHẦN VNETWORK,Ho Chi Minh City,2026-06-01,,,,Full-time,,,,careerviet,True
+IT Manager,Công Ty Tài Chính TNHH Một Thành Viên Quốc Tế Việt Nam JACCS,Ho Chi Minh City,2026-06-01,20000000.0,25000000.0,VND,Full-time,,2.0,,careerviet,False
+Other,Anheuser-Busch InBev (AB InBev),Ho Chi Minh City,2026-06-01,,,,Full-time,,1.0,,careerviet,True
+Other,Công ty Easia Travel,Hanoi,2026-06-01,,,,Full-time,,1.0,,careerviet,True
+Consultant,CÔNG TY CỔ PHẦN CÔNG NGHỆ 3S TOÀN CẦU,Hanoi,2026-06-01,,,,Full-time,,3.0,,careerviet,True
+Sales/Presales,CÔNG TY CỔ PHẦN CÔNG NGHỆ 3S TOÀN CẦU,Hanoi,2026-06-01,,,,Full-time,,3.0,,careerviet,True
+Other,CÔNG TY CỔ PHẦN VIOT ENERGY EFFICIENCY PLATFORM,Ho Chi Minh City,2026-06-01,,,,Full-time,,1.0,,careerviet,True
+Sales/Presales,Vietmap - Công ty Cổ phần Ứng Dụng Bản Đồ Việt,Ho Chi Minh City,2026-06-01,12000000.0,30000000.0,VND,Full-time,,1.0,,careerviet,False
+Data Analyst,NGÂN HÀNG TMCP KỸ THƯƠNG VIỆT NAM (TECHCOMBANK),Hanoi,2026-06-01,,,,Full-time,,5.0,,careerviet,True
+Solution Architect,CÔNG TY CỔ PHẦN TƯ VẤN VÀ QUẢN LÝ XÂY DỰNG BTECH SOLUTIONS,Ho Chi Minh City,2026-06-01,,,,Full-time,,5.0,,careerviet,True
+Fullstack/Software Engineer,Công Ty Cổ Phần Tập Đoàn TH,Hanoi,2026-06-01,20000000.0,35000000.0,VND,Full-time,,2.0,,careerviet,False
+Sales/Presales,CÔNG TY CỔ PHẦN PHÁT TRIỂN CÔNG NGHỆ TECHPRO,Hanoi,2026-06-01,15000000.0,30000000.0,VND,Full-time,,1.0,,careerviet,False
+Data Analyst,CÔNG TY TNHH MTV STRIDE,Ho Chi Minh City,2026-06-01,30000000.0,40000000.0,VND,Full-time,,3.0,,careerviet,False
+Cloud Engineer,TDCX Malaysia (Teledirect Telecommerce Sdn Bhd),Other,2026-06-01,60000000.0,80000000.0,VND,Full-time,,1.0,,careerviet,False
+AI/ML Engineer,Công ty Easia Travel,Hanoi,,,,,Full-time,,1.0,,careerviet,True
+Sales/Presales,Công Ty TNHH Tín Bảo Lan,Ho Chi Minh City,2026-06-01,,,,Full-time,,2.0,,careerviet,True
+Consultant,Công Ty TNHH Tín Bảo Lan,Ho Chi Minh City,2026-06-01,,,,Full-time,,2.0,,careerviet,True
+System/Network Admin,Ngân Hàng TMCP Quốc Dân (NCB),Hanoi,2026-06-01,,,,Full-time,,3.0,,careerviet,True
+Other,Ngân Hàng TMCP Quốc Dân (NCB),Hanoi,2026-06-01,,,,Full-time,,3.0,,careerviet,True
+Fullstack/Software Engineer,PCB GraphTech Việt Nam,Ho Chi Minh City,2026-06-01,,,,Full-time,,5.0,,careerviet,True
+Consultant,CÔNG TY CỔ PHẦN GIẢI PHÁP CÔNG NGHỆ HQG,Hanoi,2026-06-01,,,,Full-time,,1.0,,careerviet,True
+Business Analyst,CÔNG TY CỔ PHẦN PHÁT TRIỂN BẤT ĐỘNG SẢN VĂN PHÚ,Hanoi,2026-06-01,,,,Full-time,,5.0,,careerviet,True
+Project Manager,NGÂN HÀNG TMCP KỸ THƯƠNG VIỆT NAM (TECHCOMBANK),Hanoi,2026-06-01,,,,Full-time,,8.0,,careerviet,True
+Fullstack/Software Engineer,CÔNG TY CỔ PHẦN CÔNG NGHỆ FOXAI,Hanoi,2026-06-01,,100000000.0,VND,Full-time,,2.0,,careerviet,False
+Sales/Presales,Công Ty Cổ phần Hệ thống Công Nghệ Hoàng Hải,Ho Chi Minh City,2026-06-01,,,,Full-time,,2.0,,careerviet,True
+Fullstack/Software Engineer,OMN1 Solution,Ho Chi Minh City,2026-06-01,12000000.0,25000000.0,VND,Full-time,,3.0,,careerviet,False
+Embedded Engineer,CÔNG TY TNHH CRAZIGOODS,Other,2026-06-01,,,,Full-time,,5.0,,careerviet,True
+IT Manager,Ngân Hàng TMCP Việt Nam Thịnh Vượng - VPBANK,Hanoi,2026-06-01,,,,Full-time,,2.0,,careerviet,True
+Data Engineer,Ngân Hàng TMCP Việt Nam Thịnh Vượng - VPBANK,Ho Chi Minh City,2026-06-01,,,,Full-time,,2.0,,careerviet,True
+Sales/Presales,CÔNG TY TNHH TM DV KỸ THUẬT NHÂN VIỆT,Ho Chi Minh City,2026-06-01,8000000.0,15000000.0,VND,Full-time,,1.0,,careerviet,False
+Business Analyst,Ngân Hàng TMCP Việt Nam Thịnh Vượng - VPBANK,Hanoi,2026-06-01,,,,Full-time,,6.0,,careerviet,True
+Product Manager/Owner,NGÂN HÀNG TMCP KỸ THƯƠNG VIỆT NAM (TECHCOMBANK),Hanoi,2026-06-01,,,,Full-time,,5.0,,careerviet,True
+Other,NGÂN HÀNG TMCP KỸ THƯƠNG VIỆT NAM (TECHCOMBANK),Hanoi,2026-06-01,,,,Full-time,,4.0,,careerviet,True
+IT Manager,NGÂN HÀNG TMCP KỸ THƯƠNG VIỆT NAM (TECHCOMBANK),Hanoi,2026-06-01,,,,Full-time,,10.0,,careerviet,True
+Security Engineer,Công ty Cổ phần Đầu tư Kỹ thuật Số Việt (VDI),Hanoi,2026-06-01,,35000000.0,VND,Full-time,,1.0,,careerviet,False
+System/Network Admin,Ngân Hàng TMCP Tiên Phong (TPBank),Hanoi,,35000000.0,65000000.0,VND,Full-time,,6.0,,careerviet,False
+Sales/Presales,CÔNG TY CỔ PHẦN DƯỢC PHẨM FPT LONG CHÂU,Ho Chi Minh City,,,,,Full-time,,5.0,,careerviet,True
+Fullstack/Software Engineer,Hệ thống Phòng khám 315,Ho Chi Minh City,2026-05-31,,,,Full-time,,3.0,,careerviet,True
+Product Manager/Owner,Hệ thống Phòng khám 315,Ho Chi Minh City,2026-05-31,,,,Full-time,,3.0,,careerviet,True
+System/Network Admin,BIM Group,Hanoi,2026-05-31,,,,Full-time,,2.0,,careerviet,True
+Other,Tập Đoàn Tân Á Đại Thành,Other,2026-05-31,8000000.0,15000000.0,VND,Full-time,,2.0,,careerviet,False
+Backend Developer,BV DA LIỄU TW,Hanoi,2026-05-29,25000000.0,40000000.0,VND,Full-time,,3.0,,careerviet,False
+Data Engineer,CÔNG TY CỔ PHẦN DƯỢC PHẨM FPT LONG CHÂU,Ho Chi Minh City,2026-05-28,,,,Full-time,,3.0,,careerviet,True
+AI/ML Engineer,Ngân Hàng TMCP Quân Đội,Hanoi,2026-05-28,,,,Full-time,,2.0,,careerviet,True
+Product Manager/Owner,CÔNG TY CỔ PHẦN DƯỢC PHẨM FPT LONG CHÂU,Ho Chi Minh City,,,,,Full-time,,1.0,,careerviet,True
+Project Manager,Công ty Cố phần giải pháp công nghệ ITE,Hanoi,2026-05-28,25000000.0,30000000.0,VND,Full-time,,3.0,,careerviet,False
+Other,Ngân hàng Thương mại Cổ phần Hàng Hải Việt Nam (MSB),Hanoi,2026-05-27,,,,Full-time,,3.0,,careerviet,True
+System/Network Admin,Công Ty TNHH Snet Việt Nam,Hanoi,2026-05-27,,25000000.0,VND,Full-time,,5.0,,careerviet,False
+Product Manager/Owner,Công ty TNHH PNK,Hanoi,2026-05-26,30000000.0,40000000.0,VND,Full-time,,3.0,,careerviet,False
+Fullstack/Software Engineer,CÔNG TY CỔ PHẦN ĐẦU TƯ THIÊN ÂN,Hanoi,2026-05-26,15000000.0,20000000.0,VND,Full-time,,2.0,"SQL Server, .NET",careerviet,False
+IT Manager,CÔNG TY TÀI CHÍNH TNHH NGÂN HÀNG TMCP SÀI GÒN - HÀ NỘI (SHBFinance),Hanoi,2026-05-26,,,,Full-time,,2.0,,careerviet,True
+Other,Công Ty Cổ phần Hệ thống Công Nghệ Hoàng Hải,Ho Chi Minh City,2026-05-26,,,,Full-time,,2.0,,careerviet,True
+Fullstack/Software Engineer,Công Ty TNHH Maruei Vietnam Precision,Other,2026-05-26,,,,Full-time,,,,careerviet,True
+System/Network Admin,Ngân Hàng TMCP Phương Đông - OCB,Ho Chi Minh City,2026-05-26,,,,Full-time,,1.0,,careerviet,True
+Other,Công ty TNHH Giáo dục Khai Nguyên,Ho Chi Minh City,2026-05-26,10000000.0,12000000.0,VND,Full-time,,2.0,,careerviet,False
+Sales/Presales,Công ty TNHH Viettel - CHT,Hanoi,2026-05-26,,,,Full-time,,1.0,,careerviet,True
+ERP/CRM Specialist,Công Ty Cổ Phần Thời Trang & Mỹ Phẩm Duy Anh (DAFC),Ho Chi Minh City,2026-05-26,,,,Full-time,,1.0,CRM,careerviet,True
+Other,BETRIMEX - Công Ty Cổ Phần Xuất Nhập Khẩu Bến Tre,Ho Chi Minh City,2026-05-26,,,,Full-time,,2.0,SAP,careerviet,True
+Fullstack/Software Engineer,"RGF HR Agent Vietnam Co., LTD",Other,2026-05-25,20000000.0,40000000.0,VND,Full-time,,4.0,,careerviet,False
+Sales/Presales,CÔNG TY TNHH PHÁT TRIỂN CÔNG NGHỆ MIỀN NAM,Ho Chi Minh City,2026-05-25,,,,Full-time,,1.0,,careerviet,True
+Product Manager/Owner,CÔNG TY CỔ PHẦN KINH DOANH F88,Ho Chi Minh City,2026-05-25,,,,Full-time,,4.0,,careerviet,True
+ERP/CRM Specialist,Công Ty Cổ Phần Chuỗi Thực Phẩm TH,Hanoi,2026-05-25,30000000.0,50000000.0,VND,Full-time,,2.0,"ERP, CRM",careerviet,False
+Business Analyst,CÔNG TY CỔ PHẦN DƯỢC PHẨM FPT LONG CHÂU,Ho Chi Minh City,2026-05-25,,,,Full-time,,5.0,,careerviet,True
+System/Network Admin,Công ty TNHH PNK,Hanoi,2026-05-25,,,,Full-time,,,,careerviet,True
+QA/Tester,Công ty TNHH OTANI U.P.,Hanoi,2026-05-25,11500000.0,18500000.0,VND,Full-time,,,,careerviet,False
+Sales/Presales,CÔNG TY CỔ PHẦN GIẢI PHÁP CÔNG NGHỆ HQG,Hanoi,2026-05-25,,,,Full-time,,2.0,,careerviet,True
+Security Engineer,Dai-ichi Life Việt Nam,Ho Chi Minh City,2026-05-24,,,,Full-time,,3.0,,careerviet,True
+System/Network Admin,CÔNG TY TNHH POLYTEX FAR EASTERN (VIỆT NAM),Other,2026-05-24,12000000.0,18000000.0,VND,Full-time,,,,careerviet,False
+AI/ML Engineer,Dai-ichi Life Việt Nam,Ho Chi Minh City,2026-05-24,,,,Full-time,,3.0,,careerviet,True
+IT Manager,FE CREDIT,Ho Chi Minh City,2026-05-24,,,,Full-time,,2.0,,careerviet,True
+AI/ML Engineer,DIGI-TEXX Vietnam,Ho Chi Minh City,,,,,Full-time,,5.0,,careerviet,True
+Fullstack/Software Engineer,Tổng Công ty Cổ phần Bảo hiểm Ngân hàng Đầu tư và Phát triển Việt Nam (BIC),Hanoi,2026-05-24,20000000.0,40000000.0,VND,Full-time,,1.0,,careerviet,False
+System/Network Admin,CÔNG TY CỔ PHẦN DƯỢC PHẨM FPT LONG CHÂU,Ho Chi Minh City,2026-05-24,,,,Full-time,,2.0,,careerviet,True
+Data Engineer,Công ty TNHH Japfa Comfeed Việt Nam,Other,2026-05-23,10000000.0,25000000.0,VND,Full-time,,1.0,english,careerviet,False
+Other,CÔNG TY CỔ PHẦN ONEFIN VIỆT NAM,Ho Chi Minh City,2026-05-22,18000000.0,20000000.0,VND,Full-time,,3.0,,careerviet,False
+QA/Tester,Chi nhánh CÔNG TY TNHH INTERTEK VIỆT NAM,Hanoi,2026-05-22,,,,Full-time,,1.0,,careerviet,True
+Sales/Presales,Công Ty TNHH EVIT,Da Nang,2026-05-21,13000000.0,13000000.0,VND,Full-time,,2.0,,careerviet,False
+Other,"RGF HR Agent Vietnam Co., LTD",Hanoi,2026-05-21,20000000.0,45000000.0,VND,Full-time,,2.0,,careerviet,False
+Sales/Presales,Công ty Cổ phần DGV Digital,Ho Chi Minh City,2026-05-21,,,,Full-time,,5.0,,careerviet,True
+Other,Công ty TNHH Chứng khoán Ngân hàng TMCP Ngoại thương Việt Nam (VCBS - Vietcombank Securities),Hanoi,2026-05-21,,,,Full-time,,2.0,,careerviet,True
+System/Network Admin,Công Ty TNHH YKK Việt Nam,Other,2026-05-21,,,,Full-time,,,,careerviet,True
+System/Network Admin,CÔNG TY TNHH THANG MÁY TOSHIBA VIỆT NAM,Ho Chi Minh City,2026-05-21,9000000.0,12000000.0,VND,Full-time,,,,careerviet,False
+ERP/CRM Specialist,Công ty TNHH Cadena Việt Nam,Ho Chi Minh City,2026-05-20,,,,Full-time,,6.0,ERP,careerviet,True
+Fullstack/Software Engineer,CÔNG TY CỔ PHẦN ĐẦU TƯ CÔNG NGHỆ THIÊN ÂN,Ho Chi Minh City,2026-05-19,,,,Full-time,,3.0,,careerviet,True
+Other,Công ty TNHH Bao Bì Nước Giải Khát Crown Vũng Tàu,Other,2026-05-19,,,,Full-time,,,,careerviet,True
+IT Manager,Công ty TNHH PNK,Hanoi,2026-05-18,,,,Full-time,,3.0,,careerviet,True
+AI/ML Engineer,CÔNG TY CỔ PHẦN CÔNG NGHỆ FOXAI,Hanoi,2026-05-17,,30000000.0,VND,Full-time,,2.0,,careerviet,False
+Mobile Developer,Chương trình Học viện Công nghệ BKACAD,Hanoi,2026-05-17,10000000.0,20000000.0,VND,Full-time,,2.0,,careerviet,False
+Sales/Presales,CÔNG TY TNHH SALARY.COM (VIỆT NAM),Ho Chi Minh City,2026-05-17,20000000.0,20000000.0,VND,Full-time,,3.0,,careerviet,False
+Business Analyst,Masan Consumer,Ho Chi Minh City,2026-05-17,,,,Full-time,,3.0,,careerviet,True
+System/Network Admin,"OZEOL - VCOS CO., LTD - CÔNG TY TNHH VIETNAM CLOSEOUT SOLUTIONS",Ho Chi Minh City,2026-05-17,,,,Full-time,,3.0,,careerviet,True
+IT Manager,CÔNG TY CỔ PHẦN MŨ XANH - BLUE HAT,Ho Chi Minh City,2026-05-17,,,,Full-time,,5.0,,careerviet,True
+IT Manager,Ngân Hàng Thương mại cổ phần Bắc Á- BAC A BANK,Hanoi,2026-05-16,,,,Full-time,,3.0,,careerviet,True
+System/Network Admin,Ngân Hàng Thương mại cổ phần Bắc Á- BAC A BANK,Hanoi,2026-05-16,,,,Full-time,,3.0,,careerviet,True
+Security Engineer,Ngân Hàng Thương mại cổ phần Bắc Á- BAC A BANK,Hanoi,2026-05-16,,,,Full-time,,3.0,,careerviet,True
+DevOps/Infra Engineer,Ngân Hàng Thương mại cổ phần Bắc Á- BAC A BANK,Hanoi,2026-05-16,,,,Full-time,,3.0,,careerviet,True
+Backend Developer,CÔNG TY TRÁCH NHIỆM HỮU HẠN SÀI GÒN PRECISION,Ho Chi Minh City,2026-05-16,,,,Full-time,,1.0,,careerviet,True
+AI/ML Engineer,Công ty Cổ phần Tập đoàn Meey Land,Hanoi,2026-05-15,70000000.0,90000000.0,VND,Full-time,,10.0,"Machine Learning, Deep Learning",careerviet,False
+System/Network Admin,CÔNG TY CỔ PHẦN TẬP ĐOÀN CƠ KHÍ CÔNG NGHỆ CAO SIBA,Other,2026-05-15,,,,Full-time,,3.0,"ERP, CRM",careerviet,True
+Business Analyst,TẬP ĐOÀN HOÀN CẦU,Ho Chi Minh City,2026-05-15,,,,Full-time,,5.0,,careerviet,True
+Data Analyst,BVBank - Ngân hàng Bản Việt,Ho Chi Minh City,2026-05-14,,,,Full-time,,2.0,,careerviet,True
+IT Manager,BVBank - Ngân hàng Bản Việt,Ho Chi Minh City,2026-05-14,,,,Full-time,,2.0,,careerviet,True
+Data Engineer,BVBank - Ngân hàng Bản Việt,Ho Chi Minh City,2026-05-14,,,,Full-time,,5.0,,careerviet,True
+Consultant,Công ty TNHH PNK,Hanoi,2026-05-14,30000000.0,40000000.0,VND,Full-time,,2.0,,careerviet,False
+Business Analyst,BVBank - Ngân hàng Bản Việt,Ho Chi Minh City,2026-05-14,,,,Full-time,,2.0,,careerviet,True
+Fullstack/Software Engineer,Phu Hung Assurance Corporation,Ho Chi Minh City,2026-05-14,,,,Full-time,,2.0,,careerviet,True
+UI/UX Designer,"RGF HR Agent Vietnam Co., LTD",Ho Chi Minh City,2026-05-13,,35000000.0,VND,Full-time,,3.0,,careerviet,False
+Sales/Presales,"RGF HR Agent Vietnam Co., LTD",Ho Chi Minh City,2026-05-13,,30000000.0,VND,Full-time,,5.0,,careerviet,False
+AI/ML Engineer,CÔNG TY CỔ PHẦN DƯỢC PHẨM FPT LONG CHÂU,Ho Chi Minh City,2026-05-13,,,,Full-time,,5.0,,careerviet,True
+Other,CÔNG TY TNHH WORLD WAVE CULTURE TECHNOLOGY,Ho Chi Minh City,2026-05-13,30000000.0,50000000.0,VND,Full-time,,3.0,,careerviet,False
+IT Manager,"RGF HR Agent Vietnam Co., LTD",Ho Chi Minh City,2026-05-13,,,,Full-time,,3.0,,careerviet,True
+System/Network Admin,CÔNG TY CỔ PHẦN CÔNG NGHỆ 3S TOÀN CẦU,Hanoi,2026-05-13,,,,Full-time,,3.0,,careerviet,True
+Cloud Engineer,Công ty TNHH Viettel - CHT,Hanoi,2026-05-12,,,,Full-time,,2.0,,careerviet,True
+Other,Văn phòng đại diện Tổ chức Hợp tác Quốc tế Đức GIZ tại Hà Nội,Hanoi,2026-05-12,,,,Full-time,,,,careerviet,True
+Product Manager/Owner,Công ty TNHH Acer Việt Nam,Ho Chi Minh City,2026-05-12,,,,Full-time,,1.0,,careerviet,True
+Backend Developer,Công ty TNHH OTANI U.P.,Hanoi,2026-05-12,11500000.0,18500000.0,VND,Full-time,,,,careerviet,False
+System/Network Admin,Hệ thống Phòng khám 315,Ho Chi Minh City,2026-05-12,10000000.0,10000000.0,VND,Full-time,,1.0,,careerviet,False
+Fullstack/Software Engineer,Tập Đoàn Kim Tín,Ho Chi Minh City,2026-05-12,,,,Full-time,,1.0,,careerviet,True
+IT Support,Teamwork Vietnam Ltd,Ho Chi Minh City,2026-05-11,11000000.0,16000000.0,VND,Full-time,,,,careerviet,False
+Fullstack/Software Engineer,CÔNG TY CỔ PHẦN CHỨNG KHOÁN ASEAN,Hanoi,2026-05-10,,,,Full-time,,5.0,,careerviet,True
+Project Manager,CÔNG TY CỔ PHẦN CHỨNG KHOÁN ASEAN,Hanoi,2026-05-10,,,,Full-time,,1.0,,careerviet,True
+IT Manager,CÔNG TY CỔ PHẦN CHỨNG KHOÁN ASEAN,Hanoi,2026-05-10,,,,Full-time,,5.0,,careerviet,True
+AI/ML Engineer,Công ty Cổ phần Viễn thông - Tin học Bưu điện,Hanoi,2026-05-09,,,,Full-time,,5.0,,careerviet,True
+System/Network Admin,"RGF HR Agent Vietnam Co., LTD",Hanoi,2026-05-09,14000000.0,20000000.0,VND,Full-time,,2.0,,careerviet,False
+AI/ML Engineer,Công ty TNHH Viettel - CHT,Hanoi,2026-05-09,,,,Full-time,,3.0,"AI, Computer Vision, NLP",careerviet,True
+Security Engineer,Công ty Cổ phần Viễn thông - Tin học Bưu điện,Hanoi,2026-05-09,,,,Full-time,,3.0,,careerviet,True
+Other,Công Ty TNHH Apparel Far Eastern (Việt Nam),Other,2026-05-09,15000000.0,20000000.0,VND,Full-time,,1.0,,careerviet,False
+Database Administrator,Công Ty Cổ Phần Giải Pháp Thanh Toán Việt Nam (VNPAY),Hanoi,2026-05-08,,,,Full-time,,3.0,,careerviet,True
+UI/UX Designer,CÔNG TY CỔ PHẦN HỌC VIỆN MINH TRÍ THÀNH,Hanoi,2026-05-08,12000000.0,18000000.0,VND,Full-time,,2.0,,careerviet,False
+Business Analyst,Văn phòng đại diện Tổ chức Hợp tác Quốc tế Đức GIZ tại Hà Nội,Hanoi,2026-05-08,,,,Full-time,,,,careerviet,True
+System/Network Admin,Công Ty TNHH Reeracoen Việt Nam,Other,2026-05-07,15000000.0,20000000.0,VND,Full-time,,4.0,,careerviet,False
+DevOps/Infra Engineer,LOTTE FINANCE VIETNAM,Hanoi,2026-05-06,,,,Full-time,,3.0,,careerviet,True
+IT Manager,Ngân Hàng TMCP Tiên Phong (TPBank),Hanoi,2026-05-06,30000000.0,60000000.0,VND,Full-time,,3.0,,careerviet,False
+Data Analyst,Ngân Hàng TMCP Tiên Phong (TPBank),Hanoi,2026-05-06,30000000.0,60000000.0,VND,Full-time,,3.0,,careerviet,False
+Fullstack/Software Engineer,CÔNG TY TNHH CS BEARING VIỆT NAM,Ho Chi Minh City,2026-05-06,13000000.0,15000000.0,VND,Full-time,,2.0,,careerviet,False
+Data Analyst,UrBox - Công ty Cổ phần Tiếp Thị Số Tô Quà,Ho Chi Minh City,2026-05-06,,,,Full-time,,3.0,,careerviet,True
+Business Analyst,Công ty TNHH Quản lý tài sản Premier Việt Nam,Ho Chi Minh City,2026-05-06,,,,Full-time,,3.0,,careerviet,True
+Fullstack/Software Engineer,Công Ty TNHH Reeracoen Việt Nam,Ho Chi Minh City,2026-05-05,20000000.0,30000000.0,VND,Full-time,,2.0,,careerviet,False
+Fullstack/Software Engineer,Công ty TNHH Dịch vụ và Thương Mại Tân Nam Chinh,Ho Chi Minh City,2026-05-05,15000000.0,20000000.0,VND,Full-time,,5.0,,careerviet,False
+Fullstack/Software Engineer,Tổng Công ty Sản xuất thiết bị Viettel - Tập đoàn Công nghiệp - Viễn thông Quân đội (VIETTEL),Hanoi,2026-05-04,,,,Full-time,,,,careerviet,True
+Other,Sonion Vietnam,Ho Chi Minh City,2026-05-04,,,,Full-time,,1.0,,careerviet,True
+QA/Tester,Công ty Cổ phần Vietsol,Hanoi,2026-05-04,15000000.0,25000000.0,VND,Full-time,,3.0,,careerviet,False
+Blockchain Developer,Nexsoft Technology,Ho Chi Minh City,2026-05-04,,,,Full-time,,5.0,,careerviet,True
+System/Network Admin,Tổng Công ty Cổ phần Công trình Viettel,Hanoi,2026-05-03,,,,Full-time,,2.0,,careerviet,True
+Data Analyst,Công Ty Cổ Phần TEECOM,Ho Chi Minh City,2026-06-01,3000000.0,3000000.0,VND,Full-time,,,,careerviet,False
+Other,Starbucks Vietnam,Ho Chi Minh City,2026-06-01,,,,Full-time,,,,careerviet,True
+AI/ML Engineer,Công ty TNHH Sài Gòn Stec,Other,2026-06-01,15000000.0,23000000.0,VND,Full-time,,1.0,,careerviet,False
+AI/ML Engineer,TTT Corporation,Ho Chi Minh City,2026-06-01,,,,Full-time,,2.0,,careerviet,True
+System/Network Admin,Công Ty Cổ Phần Kiến Trúc Tư Vấn Quản Lý Đông Dương,Ho Chi Minh City,2026-06-01,,,,Full-time,,3.0,,careerviet,True
+ERP/CRM Specialist,CÔNG TY CỔ PHẦN PHÁT TRIỂN CƠ ĐIỆN LẠNH HOÀNG ĐẠT,Hanoi,2026-06-01,40000000.0,60000000.0,VND,Full-time,,3.0,,careerviet,False
+Embedded Engineer,Tập Đoàn Karofi Holding,Hanoi,2026-06-01,,,,Full-time,,3.0,,careerviet,True
+System/Network Admin,Ngân Hàng TMCP Sài Gòn - Hà Nội ( SHB ),Hanoi,2026-06-01,,,,Full-time,,3.0,,careerviet,True
+ERP/CRM Specialist,Tập Đoàn Lộc Trời,Ho Chi Minh City,2026-06-01,,,,Full-time,,3.0,,careerviet,True
+Frontend Developer,Công ty TNHH Cadena Việt Nam,Ho Chi Minh City,2026-06-01,,,,Full-time,,3.0,,careerviet,True
+Security Engineer,Ngân Hàng TMCP Sài Gòn - Hà Nội ( SHB ),Hanoi,2026-06-01,,,,Full-time,,2.0,,careerviet,True
+Frontend Developer,CÔNG TY TNHH PIXEL PERFECT,Ho Chi Minh City,2026-06-01,30000000.0,45000000.0,VND,Full-time,,4.0,"Java, php, iOS, JavaScript, Node.js",careerviet,False
+DevOps/Infra Engineer,Ngân Hàng TMCP Quân Đội,Hanoi,2026-06-01,,,,Full-time,,,,careerviet,True
+IT Manager,Ngân Hàng TMCP Quân Đội,Hanoi,2026-06-01,,,,Full-time,,,,careerviet,True

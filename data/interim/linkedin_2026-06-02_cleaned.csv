@@ -1,0 +1,48 @@
+job_title,company_name,location,posted_date,salary_min,salary_max,salary_currency,job_type,job_level,experience_required,skills,source,salary_missing
+IT Support,CMC Technology & Solution (CMC TS),Ho Chi Minh City,2026-05-29,,,,Full-time,Mid,1.0,"Windows Server, Active Directory",linkedin,True
+System/Network Admin,VTI,Ho Chi Minh City,2026-06-01,,,,Full-time,Mid,1.0,"AWS, Linux, VMware, Security",linkedin,True
+System/Network Admin,CMC Technology & Solution (CMC TS),Other,2026-05-27,,,,Full-time,Mid,,Networking,linkedin,True
+Other,Emirates,Ho Chi Minh City,2026-05-19,,,,Full-time,Junior,,"Excel, Security",linkedin,True
+Other,Duy Anh Fashion And Cosmetic (DAFC),Ho Chi Minh City,2026-05-29,,,,Full-time,Mid,,"SQL, Power BI",linkedin,True
+QA/Tester,Getz Group,Other,2026-03-04,,,,Full-time,Mid,,"REST, iOS",linkedin,True
+Frontend Developer,Getz Group,Other,2026-05-29,,,,Full-time,Mid,2.0,"Java, JavaScript, Scala, React, Angular, Vue, Agile, Scrum, REST, HTML, Excel",linkedin,True
+DevOps/Infra Engineer,Xspera,Other,2025-10-05,,,,Full-time,Mid,5.0,"Python, Perl, Azure, SQL, Excel, ITIL, Active Directory, Firewall, Security",linkedin,True
+System/Network Admin,Công Ty CP Thiết Kế - Xây Dựng Kiến Trúc Việt,Ho Chi Minh City,2026-05-03,,,,Full-time,Mid,,,linkedin,True
+Other,Aviation JobSearch Europa,Other,2026-05-12,,,,Contract,Mid,,Excel,linkedin,True
+System/Network Admin,Cty TNHH MTV Toyota Phú Mỹ Hưng,Other,2026-05-03,,,,Full-time,Mid,,,linkedin,True
+IT Manager,IHG Hotels & Resorts,Other,2026-05-26,,,,Full-time,Mid,3.0,"Firewall, Security, Cybersecurity",linkedin,True
+System/Network Admin,CNK Consulting Vietnam,Other,2026-02-02,,,,Full-time,Mid,,"Java, SQL, Windows Server, Firewall, VPN",linkedin,True
+System/Network Admin,Work & Wonders - Kiến Tạo & Kiệt Tác,Hanoi,2026-04-03,,,,Full-time,Mid,,,linkedin,True
+Other,GMO-Z.com RUNSYSTEM JSC.,Da Nang,2025-09-05,,,,Full-time,Mid,,".NET, Unix, VPN",linkedin,True
+System/Network Admin,Công Ty Cổ Phần Bảo Chánh,Ho Chi Minh City,2026-04-03,,,,Full-time,Mid,,,linkedin,True
+Other,CEO Group,Other,1 year ago,,,,Full-time,Mid,,"Linux, Firewall",linkedin,True
+IT Manager,Hyatt Regency,Other,2026-05-26,,,,Full-time,Mid,2.0,Networking,linkedin,True
+System/Network Admin,Golden Gate Restaurant Group,Hanoi,2026-04-03,,,,Full-time,Mid,,Linux,linkedin,True
+System/Network Admin,Boyd,Other,2026-05-03,,,,Full-time,Mid,4.0,Security,linkedin,True
+Business Analyst,"KMS Technology, Inc.",Ho Chi Minh City,2026-06-01,,,,Full-time,Intern,,"Rust, Agile, Scrum, AI, Excel",linkedin,True
+System/Network Admin,UrBox - Digital Rewards & Loyalty Solution,Ho Chi Minh City,2026-03-04,,,,Full-time,Mid,5.0,"Linux, AI, Security",linkedin,True
+Fullstack/Software Engineer,Công ty Cổ phần Viễn thông 3G,Hanoi,1 year ago,,,,Full-time,Mid,,"Python, Java, JavaScript, SQL",linkedin,True
+Cloud Engineer,GoTymeX,Ho Chi Minh City,2026-05-03,,,,Full-time,Intern,,"Azure, Agile, Jira, Confluence, Networking, Security",linkedin,True
+System/Network Admin,Công Ty TNHH Thiết Bị Minh Tâm,Ho Chi Minh City,2026-04-03,,,,Full-time,Mid,,,linkedin,True
+Other,Reboot Monkey,Da Nang,2026-04-03,,,,Full-time,Junior,,"Linux, Excel, Networking, Firewall, Security",linkedin,True
+Fullstack/Software Engineer,Rapid Systemz,Da Nang,2026-01-03,,,,Full-time,Mid,,"Adobe, VPN",linkedin,True
+Security Engineer,The Grand Ho Tram,Ho Chi Minh City,2026-05-29,,,,Full-time,Mid,2.0,"AWS, Azure, GCP, Linux, VMware, Firewall, Security, Cybersecurity",linkedin,True
+IT Manager,CNK Consulting Vietnam,Hanoi,2026-05-12,,,,Full-time,Mid,7.0,"Security, Cybersecurity",linkedin,True
+System/Network Admin,SCC Vietnam,Ho Chi Minh City,2026-05-19,,,,Full-time,Junior,,"Rust, Scala, ServiceNow, Security",linkedin,True
+DevOps/Infra Engineer,adidas,Ho Chi Minh City,2026-05-26,,,,Full-time,Mid,1.0,"Scala, Express, ITIL",linkedin,True
+IT Manager,Jabil,Ho Chi Minh City,2026-04-03,,,,Full-time,Mid,5.0,"Windows Server, Excel, Active Directory, Firewall, Security",linkedin,True
+Project Manager,CMC Global Company Limited.,Ho Chi Minh City,2026-06-01,,,,Full-time,Senior,9.0,"Agile, Scrum, Excel",linkedin,True
+DevOps/Infra Engineer,VINASEED,Hanoi,2026-05-03,,,,Full-time,Mid,,"Linux, AI, Firewall, VPN",linkedin,True
+AI/ML Engineer,MCI,Other,2025-11-04,,,,Full-time,Mid,2.0,"Python, Go, Scala, Express, Docker, Kubernetes, AWS, Azure, GCP, Terraform, Ansible, Jenkins, CI/CD, DevOps, Linux, Unix, Machine Learning, AI, TensorFlow, PyTorch, Excel, Networking, Security",linkedin,True
+Other,BizLink Group,Other,2026-05-19,,,,Full-time,Mid,,"Excel, Security",linkedin,True
+System/Network Admin,Big C Việt Nam,Hanoi,1 year ago,,,,Full-time,Mid,,,linkedin,True
+IT Support,Telnyx,Hanoi,2026-05-19,,,,Full-time,Junior,,"Python, Scala, Perl, React, Linux, Windows Server, Jira, Active Directory, Networking, Firewall, Security, Cybersecurity",linkedin,True
+IT Support,Bouygues Construction IT Vietnam,Ho Chi Minh City,2026-05-19,,,,Full-time,Mid,,"Rust, Agile, Active Directory, VPN",linkedin,True
+System/Network Admin,GEM Corporation,Hanoi,2026-04-03,,,,Full-time,Mid,,DevOps,linkedin,True
+QA/Tester,CoverGo | Insurtech,Ho Chi Minh City,2026-06-01,,,,Internship,Mid,,"Python, Java, JavaScript, Express, SQL, Git, CI/CD, Agile, Jira, Selenium, Cypress",linkedin,True
+Other,Crossing Hurdles,Other,2026-05-26,,,,Contract,Junior,,SQL,linkedin,True
+IT Support,HYXI,Other,2026-05-12,,,,Full-time,Mid,,,linkedin,True
+Other,GoTymeX,Ho Chi Minh City,2026-05-12,,,,Full-time,Intern,,"Agile, AI, Jira, Confluence, ITIL",linkedin,True
+Fullstack/Software Engineer,SOCOTEC,Hanoi,2026-05-30,,,,Full-time,Manager+,,"Java, JavaScript, SQL",linkedin,True
+Security Engineer,Life at Viettel Cyber Security,Ho Chi Minh City,2026-05-03,,,,Full-time,Mid,1.0,"Java, JavaScript, PHP, Jenkins, REST, AI, Excel, Security, Cybersecurity",linkedin,True
+IT Support,tesa,Hanoi,2026-05-30,,,,Full-time,Junior,5.0,"REST, AI, Excel",linkedin,True

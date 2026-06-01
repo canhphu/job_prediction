@@ -1,0 +1,9 @@
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Web scraping
+requests>=2.31
+beautifulsoup4>=4.12
+selenium>=4.15
+nodriver>=0.38
