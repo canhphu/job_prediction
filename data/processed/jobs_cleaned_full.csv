@@ -1,4 +1,168 @@
 job_title,company_name,location,posted_date,salary_min,salary_max,salary_currency,job_type,job_level,experience_required,skills,source,salary_missing
+UI/UX Designer,Công Ty Cổ Phần Decox,Ho Chi Minh City,2026-06-08,,,,Full-time,,2.0,,careerviet,True
+System/Network Admin,Công ty CP Giáo dục Quốc tế Việt Úc,Ho Chi Minh City,2026-06-08,,,,Full-time,,1.0,,careerviet,True
+ERP/CRM Specialist,Công ty Cổ phần Tập đoàn Hoa Sen,Ho Chi Minh City,2026-06-08,,,,Full-time,,3.0,,careerviet,True
+System/Network Admin,Công Ty Cổ Phần Phúc Sinh,Ho Chi Minh City,2026-06-08,14000000.0,16000000.0,VND,Full-time,,3.0,,careerviet,False
+IT Manager,Ngân Hàng TMCP Sài Gòn - Hà Nội ( SHB ),Hanoi,2026-06-08,,,,Full-time,,3.0,,careerviet,True
+System/Network Admin,Công ty Cổ phần Tập đoàn Leeon Group,Hanoi,2026-06-08,10000000.0,15000000.0,VND,Full-time,,2.0,,careerviet,False
+ERP/CRM Specialist,Pacific Technology,Ho Chi Minh City,2026-06-08,,,,Full-time,Senior,3.1,"Project Management, ERP",itviec,True
+Backend Developer,SHINHAN DS,Ho Chi Minh City,2026-06-08,,,,Full-time,Senior,3.1,"Java, API, Spring Boot, Oracle",itviec,True
+IT Support,MTI Technology,Ho Chi Minh City,2026-06-08,,,,Full-time,Junior,1.0,"Networking, Security",linkedin,True
+Mobile Developer,Công ty cổ phần Tasco,Hanoi,2026-06-08,,,,Full-time,,2.0,,topcv,True
+UI/UX Designer,CÔNG TY CỔ PHẦN ANH TUẤN GROUP VIỆT NAM,Hanoi,2026-06-08,,,,Full-time,,1.0,,topcv,True
+QA/Tester,CÔNG TY TNHH I-KONECT GLOBAL,Ho Chi Minh City,2026-06-08,,,,Full-time,,5.0,,topcv,True
+Frontend Developer,CÔNG TY TNHH THƯƠNG MẠI QUỐC TẾ BLUESTARS VIỆT NAM,Hanoi,2026-06-08,,,,Full-time,,1.0,"Elasticsearch, PostgreSQL, Python, React, Next.js",topcv,True
+Backend Developer,CÔNG TY CỔ PHẦN CÔNG NGHỆ VCS VIỆT NAM,Hanoi,2026-06-08,,,,Full-time,,2.0,".NET, ASP.NET, C#",topcv,True
+Backend Developer,Công ty cổ phần Dev FromVietnam,Hanoi,2026-06-08,,,,Full-time,,3.0,".NET, Agile",topcv,True
+Frontend Developer,CÔNG TY TNHH ALCHEMY TECHNOLOGIES,Ho Chi Minh City,2026-06-08,,,,Full-time,,1.0,,topcv,True
+Mobile Developer,CÔNG TY CỔ PHẦN CÔNG NGHỆ FDS,Hanoi,2026-06-08,,,,Full-time,,2.0,"Git, HTML5, React Native, CSS3, TypeScript, Vite, Vue, Websocket, webpack, Java, Node.js",topcv,True
+Other,CÔNG TY TNHH TECHTRONIC PRODUCTS (VIỆT NAM),Ho Chi Minh City,2026-06-08,,,,Full-time,,1.0,,topcv,True
+AI/ML Engineer,TỔNG CÔNG TY MẠNG LƯỚI VIETTEL-CHI NHÁNH TẬP ĐOÀN CÔNG NGHIỆP-VIỄN THÔNG QUÂN ĐỘI,Hanoi,2026-06-08,,,,Full-time,,1.0,,topcv,True
+Backend Developer,CÔNG TY CỔ PHẦN CÔNG NGHỆ FDS,Hanoi,2026-06-08,,,,Full-time,,2.0,"Git, Linux, OOP, Docker, Spring Boot, REST, Websocket, kafka, Vue, React",topcv,True
+Fullstack/Software Engineer,CÔNG TY TNHH INPA VIỆT NAM,Ho Chi Minh City,2026-06-08,,,,Full-time,,5.0,,topcv,True
+Other,CÔNG TY TNHH CYBERCORE VIỆT NAM,Ho Chi Minh City,2026-06-08,,,,Full-time,,1.0,,topcv,True
+Business Analyst,CÔNG TY CỔ PHẦN TẬP ĐOÀN TRUYỀN THÔNG HALOTIMES,Ho Chi Minh City,2026-06-08,,,,Full-time,,1.0,,topcv,True
+System/Network Admin,CÔNG TY CỔ PHẦN SABRE VIỆT NAM,Hanoi,2026-06-08,,,,Full-time,,0.0,,topcv,True
+UI/UX Designer,CÔNG TY TNHH BAO BÌ NEXTGO,Ho Chi Minh City,2026-06-08,,,,Full-time,,1.0,,topcv,True
+Data Engineer,VIETTEL DIGITAL SERVICES CORPORATION - BRANCH OF VIETTEL GROUP,Hanoi,2026-06-08,,,,Full-time,,1.0,,topcv,True
+AI/ML Engineer,CÔNG TY TNHH NHA KHOA TRẺ,Hanoi,2026-06-08,,,,Full-time,,1.0,,topcv,True
+ERP/CRM Specialist,CÔNG TY CỔ PHẦN THƯƠNG MẠI VIỆT NỮ,Ho Chi Minh City,2026-06-08,,,,Full-time,,3.0,,topcv,True
+Sales/Presales,Công ty TNHH NTT DATA VIỆT NAM,Hanoi,2026-06-08,,,,Full-time,,3.0,,topcv,True
+UI/UX Designer,CÔNG TY TNHH TM & SX THUỐC THÚ Y NAPHA,Ho Chi Minh City,2026-06-08,,,,Full-time,,3.0,,topcv,True
+AI/ML Engineer,CÔNG TY CỔ PHẦN NHẬT MINH TT,Ho Chi Minh City,2026-06-08,,,,Full-time,,2.0,,topcv,True
+Backend Developer,FINOTECH VIỆT NAM,Hanoi,2026-06-08,,,,Full-time,,4.0,"C#, Git, PostgreSQL, Redis, Docker, CI/CD, Microservices, MongoDB, Kubernetes, TypeScript, JWT",topcv,True
+AI/ML Engineer,VIETTEL DIGITAL SERVICES CORPORATION - BRANCH OF VIETTEL GROUP,Hanoi,2026-06-08,,,,Full-time,,2.0,,topcv,True
+Backend Developer,TRUNG TÂM DỊCH VỤ DỮ LIỆU VÀ TRÍ TUỆ NHÂN TẠO VIETTEL - CHI NHÁNH TẬP ĐOÀN CÔNG NGHIỆP - VIỄN THÔNG QUÂN ĐỘI,Hanoi,2026-06-08,,,,Full-time,,3.0,,topcv,True
+System/Network Admin,CÔNG TY CỔ PHẦN VINSCHOOL,Other,2026-06-08,,,,Full-time,,2.0,,topcv,True
+Fullstack/Software Engineer,Công ty TNHH Một thành viên Ứng dụng Kỹ thuật và Sản xuất – Chi nhánh Hà Nội,Hanoi,2026-06-08,,,,Full-time,,1.0,,topcv,True
+UI/UX Designer,CÔNG TY TNHH I-KONECT GLOBAL,Ho Chi Minh City,2026-06-08,,,,Full-time,,2.0,,topcv,True
+System/Network Admin,Công ty TNHH NTT DATA VIỆT NAM,Hanoi,2026-06-08,,,,Full-time,,3.0,,topcv,True
+Business Analyst,"TECAPRO-IT.,JSC",Hanoi,2026-06-08,,,,Full-time,,2.0,,topcv,True
+Cloud Engineer,TỔNG CÔNG TY MẠNG LƯỚI VIETTEL-CHI NHÁNH TẬP ĐOÀN CÔNG NGHIỆP-VIỄN THÔNG QUÂN ĐỘI,Hanoi,2026-06-08,,,,Full-time,,2.0,,topcv,True
+System/Network Admin,CÔNG TY CỔ PHẦN PHÁT TRIỂN TRẠM SẠC TOÀN CẦU V-GREEN,Hanoi,2026-06-08,,,,Full-time,,1.0,,topcv,True
+Fullstack/Software Engineer,CÔNG TY CỔ PHẦN CÔNG NGHỆ DỊCH VỤ MITEK,Ho Chi Minh City,2026-06-08,,,,Full-time,,1.0,"Agile, Git, MongoDB, MySQL, PostgreSQL, Redis, SCRUM, CI/CD, Nestjs, React, Node.js, Websocket, Docker, CRM, kafka, RabbitMQ, JWT",topcv,True
+QA/Tester,Công ty TNHH NTT DATA VIỆT NAM,Hanoi,2026-06-08,,,,Full-time,,3.0,,topcv,True
+Fullstack/Software Engineer,CÔNG TY TNHH TOPSEC VIỆT NAM,Ho Chi Minh City,2026-06-08,,,,Full-time,,1.0,,topcv,True
+UI/UX Designer,CÔNG TY CỔ PHẦN ULT (VIỆT NAM),Hanoi,2026-06-08,,,,Full-time,,2.0,,topcv,True
+AI/ML Engineer,Công ty cổ phần Tasco,Hanoi,2026-06-08,,,,Full-time,,3.0,,topcv,True
+Backend Developer,CÔNG TY TNHH GIẢI PHÁP CÔNG NGHỆ TRIPLAYZ,Hanoi,2026-06-08,,,,Full-time,,2.0,"Git, Linux, MySQL, Python, Docker, AWS, Kubernetes, azure, Agile, C#, Javascript, Devops, Nestjs",topcv,True
+Game Developer,CÔNG TY TNHH CÔNG NGHỆ GX,Hanoi,2026-06-08,,,,Full-time,,1.0,C#,topcv,True
+Sales/Presales,Công ty Cổ phần Ứng dụng Bản đồ Việt,Ho Chi Minh City,2026-06-08,,,,Full-time,,2.0,,topcv,True
+Project Manager,CÔNG TY CỔ PHẦN TƯ VẤN VÀ ĐẦU TƯ AQ HÀ TĨNH,Other,2026-06-08,,,,Full-time,,1.0,Excel,topcv,True
+Blockchain Developer,VIETTEL DIGITAL SERVICES CORPORATION - BRANCH OF VIETTEL GROUP,Hanoi,2026-06-08,,,,Full-time,,5.0,,topcv,True
+Consultant,TRUNG TÂM DỊCH VỤ DỮ LIỆU VÀ TRÍ TUỆ NHÂN TẠO VIETTEL - CHI NHÁNH TẬP ĐOÀN CÔNG NGHIỆP - VIỄN THÔNG QUÂN ĐỘI,Hanoi,2026-06-08,,,,Full-time,,3.0,,topcv,True
+Project Manager,CÔNG TY CỔ PHẦN TẬP ĐOÀN TRUYỀN THÔNG HALOTIMES,Ho Chi Minh City,2026-06-08,,,,Full-time,,5.0,PMP,topcv,True
+Fullstack/Software Engineer,CÔNG TY TNHH SOFT WORLD VIỆT NAM,Ho Chi Minh City,2026-06-08,,,,Full-time,,1.0,,topcv,True
+Sales/Presales,VIETTEL DIGITAL SERVICES CORPORATION - BRANCH OF VIETTEL GROUP,Hanoi,2026-06-08,,,,Full-time,,3.0,,topcv,True
+Business Analyst,Công ty TNHH NEWEZ Việt Nam,Hanoi,2026-06-08,,,,Full-time,,3.0,,topcv,True
+System/Network Admin,Công ty TNHH MTV HN DOTNET,Other,2026-06-08,,,,Full-time,,2.0,,topcv,True
+Other,Công ty cổ phần thương mại Máy Chủ Hà Nội,Hanoi,2026-06-08,,,,Full-time,,1.0,,topcv,True
+Fullstack/Software Engineer,Công ty TNHH Sản xuất Thương Mại Đức Hợp,Hanoi,2026-06-08,,,,Full-time,,1.0,,topcv,True
+Project Manager,CÔNG TY TNHH GIẢI PHÁP CÔNG NGHỆ TRIPLAYZ,Hanoi,2026-06-08,,,,Full-time,,2.0,Figma,topcv,True
+IT Manager,Công ty Cổ phần MISA,Hanoi,2026-06-08,,,,Full-time,,1.0,,topcv,True
+AI/ML Engineer,CÔNG TY CỔ PHẦN TẬP ĐOÀN SSAVIGROUP,Other,2026-06-08,,,,Full-time,,0.0,,topcv,True
+Data Engineer,CÔNG TY TNHH MỘT THÀNH VIÊN AN NINH MẠNG VIETTEL,Hanoi,2026-06-08,,,,Full-time,,4.0,"Java, Python, Scala, AI",topcv,True
+Data Engineer,CÔNG TY TNHH I-KONECT GLOBAL,Ho Chi Minh City,2026-06-08,,,,Full-time,,5.0,"Python, Hadoop",topcv,True
+Data Engineer,Công ty cổ phần XNK Đầu tư và Công nghệ HD Việt Nam,Hanoi,2026-06-08,,,,Full-time,,3.0,,topcv,True
+Data Engineer,CÔNG TY CỔ PHẦN TƯ VẤN CÔNG NGHỆ NGS,Hanoi,2026-06-08,,,,Full-time,,3.0,,topcv,True
+Data Engineer,Công ty Cổ phần Tập đoàn Công nghệ Thiên Hoàng,Hanoi,2026-06-08,,,,Full-time,,3.0,"Python, Airflow",topcv,True
+Product Manager/Owner,CÔNG TY CỔ PHẦN ĐẦU TƯ CÔNG NGHỆ VÀ THƯƠNG MẠI SOFTDREAMS,Hanoi,2026-06-08,,,,Full-time,,2.0,Agile,topcv,True
+System/Network Admin,Ngân hàng SHB,Hanoi,2026-06-08,,,,Full-time,,3.0,,topcv,True
+Backend Developer,Công ty cổ phần công nghệ ứng dụng Arabica Việt Nam,Hanoi,2026-06-08,,,,Full-time,,2.0,,topcv,True
+System/Network Admin,CÔNG TY TNHH CTI VN,Ho Chi Minh City,2026-06-08,,,,Full-time,,0.0,,topcv,True
+UI/UX Designer,CÔNG TY TNHH MICHEE SUPPLY,Ho Chi Minh City,2026-06-08,,,,Full-time,,2.0,"Photoshop, AI",topcv,True
+Other,CÔNG TY CỔ PHẦN OMINEXT,Hanoi,2026-06-08,,,,Full-time,,1.0,,topcv,True
+Data Engineer,Công ty TNHH Raffles Việt Nam,Hanoi,2026-06-08,,,,Full-time,,3.0,"NoSQL, SQL",topcv,True
+Data Analyst,CÔNG TY CỔ PHẦN TƯ VẤN CÔNG NGHỆ NGS,Hanoi,2026-06-08,,,,Full-time,,3.0,"SQL, SQL Server, Power BI",topcv,True
+Fullstack/Software Engineer,Công ty Cổ phần Công nghệ thông tin Đông Nam Á,Hanoi,2026-06-08,,,,Full-time,,1.0,,topcv,True
+Backend Developer,CÔNG TY CỔ PHẦN PARALINE SOFTWARE,Hanoi,2026-06-08,,,,Full-time,,2.0,,topcv,True
+System/Network Admin,CÔNG TY TNHH THƯƠNG MẠI DƯƠNG ANH VIỆT NAM,Hanoi,2026-06-08,,,,Full-time,,1.0,,topcv,True
+Fullstack/Software Engineer,CÔNG TY CỔ PHẦN CÔNG NGHỆ KIOTVIET,Other,2026-06-08,,,,Full-time,,1.0,,topcv,True
+Project Manager,SVTECH,Hanoi,2026-06-08,,,,Full-time,,2.0,,topcv,True
+Fullstack/Software Engineer,SVTECH,Hanoi,2026-06-08,,,,Full-time,,2.0,,topcv,True
+Project Manager,CÔNG TY CỔ PHẦN LYNKID,Hanoi,2026-06-08,,,,Full-time,,2.0,,topcv,True
+Product Manager/Owner,CÔNG TY CỔ PHẦN IKAME GLOBAL,Hanoi,2026-06-08,,,,Full-time,,3.0,,topcv,True
+Business Analyst,Công Ty Cổ Phần Aggregatori Capaci,Hanoi,2026-06-08,,,,Full-time,,4.0,"API, CRM",topcv,True
+Business Analyst,Công ty TNHH Raffles Việt Nam,Hanoi,2026-06-08,,,,Full-time,,3.0,,topcv,True
+UI/UX Designer,CÔNG TY CỔ PHẦN TRUYỀN THÔNG VÀ DỊCH VỤ JMB VIỆT NAM,Hanoi,2026-06-08,,,,Full-time,,1.0,,topcv,True
+Backend Developer,CTY TNHH R TECHNO VIỆT NAM,Other,2026-06-08,,,,Full-time,,2.0,,topcv,True
+Frontend Developer,Open Reach Tech Hanoi,Hanoi,2026-06-08,,,,Full-time,,2.0,"CSS, Git, HTML, Javascript, Nuxt, Vue",topcv,True
+QA/Tester,CÔNG TY CỔ PHẦN CÔNG NGHỆ TRINITY,Hanoi,2026-06-08,,,,Full-time,,4.0,Microservices,topcv,True
+Backend Developer,TỔNG CÔNG TY CỔ PHẦN BƯU CHÍNH VIETTEL,Hanoi,2026-06-08,,,,Full-time,,2.0,"Java, Oracle, Spring",topcv,True
+Business Analyst,Công ty TNHH Aziworld,Ho Chi Minh City,2026-06-08,,,,Full-time,,2.0,"CRM, API",topcv,True
+DevOps/Infra Engineer,Công ty Cổ phần Ứng dụng Phần mềm Mobio Việt Nam,Hanoi,2026-06-08,,,,Full-time,,1.0,,topcv,True
+Other,Công ty TNHH TM ACS Việt Nam,Ho Chi Minh City,2026-06-08,,,,Full-time,,2.0,,topcv,True
+Business Analyst,Công ty CPDV Trực tuyến Cộng Đồng Việt (VietUnion),Ho Chi Minh City,2026-06-08,,,,Full-time,,2.0,,topcv,True
+Fullstack/Software Engineer,CÔNG TY TNHH BẢO HIỂM NHÂN THỌ CATHAY - VIỆT NAM,Ho Chi Minh City,2026-06-08,,,,Full-time,,1.0,Java,topcv,True
+Backend Developer,CÔNG TY CỔ PHẦN TẬP ĐOÀN SAVYINT,Hanoi,2026-06-08,,,,Full-time,,2.0,,topcv,True
+Other,CÔNG TY TNHH ALCHERA VIỆT NAM,Ho Chi Minh City,2026-06-08,,,,Full-time,,0.0,,topcv,True
+Mobile Developer,CÔNG TY TNHH CÔNG NGHỆ SLI,Hanoi,2026-06-08,,,,Full-time,,4.0,"Flutter, Dart",topcv,True
+AI/ML Engineer,CÔNG TY TNHH TM DV DU LỊCH NGỌC MAI,Ho Chi Minh City,2026-06-08,,,,Full-time,,1.0,SQL Server,topcv,True
+UI/UX Designer,CÔNG TY TNHH PEONY VIETNAM,Ho Chi Minh City,2026-06-08,,,,Full-time,,2.0,"Photoshop, AI",topcv,True
+System/Network Admin,Công ty Cổ phần Quản lý và Khai thác Tài sản Dầu Khí (PSA),Hanoi,2026-06-08,,,,Full-time,,2.0,,topcv,True
+ERP/CRM Specialist,CÔNG TY TNHH CÔNG NGHỆ & DỊCH VỤ ĐẤT VIỆT,Ho Chi Minh City,2026-06-08,,,,Full-time,,1.0,,topcv,True
+UI/UX Designer,Công ty TNHH Tây Bắc Beauty,Ho Chi Minh City,2026-06-08,,,,Full-time,,1.0,,topcv,True
+Other,CÔNG TY TNHH SHINWON HÀ NỘI,Hanoi,2026-06-08,,,,Full-time,,3.0,,topcv,True
+Fullstack/Software Engineer,Ngân Hàng TMCP Tiên Phong (TPBank),Hanoi,2026-06-07,,,,Full-time,,1.0,,careerviet,True
+Other,CÔNG TY CP NGUYÊN LIỆU Á CHÂU (AIG),Ho Chi Minh City,2026-06-07,,,,Full-time,,2.0,,careerviet,True
+IT Support,Cty TNHH Giải Pháp và Kỹ Thuật Quốc Việt,Ho Chi Minh City,2026-06-07,,,,Full-time,,,,careerviet,True
+System/Network Admin,Tổng Công Ty Cổ Phần Bảo Hiểm Ngân Hàng TMCP Công Thương Việt Nam,Hanoi,2026-06-07,,,,Full-time,,1.0,,careerviet,True
+ERP/CRM Specialist,Công Ty Cổ Phần GreenFeed Việt Nam,Ho Chi Minh City,2026-06-07,,,,Full-time,,5.0,,careerviet,True
+Business Analyst,VPBank,Hanoi,2026-06-06,,,,Full-time,,3.1,,itviec,True
+Backend Developer,VPBank,Hanoi,2026-06-06,,,,Full-time,Senior,3.1,"Java, MongoDB, MySQL, Oracle, Spring Boot, Spring",itviec,True
+AI/ML Engineer,VPBank,Hanoi,2026-06-06,,,,Full-time,Senior,3.1,"AI, GCP, Azure, AWS, Python",itviec,True
+Security Engineer,Opes Insurance,Hanoi,2026-06-06,,,,Full-time,,0.8,"Cybersecurity, VMware, Firewall, Security",itviec,True
+Backend Developer,soxes AG,Ho Chi Minh City,2026-06-06,,,,Full-time,Senior,3.1,".NET, CI/CD, DevOps, C#, API, Angular",itviec,True
+Data Engineer,SHS | Chứng khoán Sài Gòn - Hà Nội,Hanoi,2026-06-06,,,,Full-time,,0.8,"Java, Python, SQL",itviec,True
+IT Manager,EVNFinance,Hanoi,2026-06-06,,,,Full-time,,0.8,,itviec,True
+Project Manager,TJ Tech,Hanoi,2026-06-06,,,,Full-time,Manager+,3.1,"Japanese, Project Management, Agile, English",itviec,True
+IT Manager,CÔNG TY TÀI CHÍNH TNHH NGÂN HÀNG TMCP SÀI GÒN - HÀ NỘI (SHBFinance),Hanoi,2026-06-05,,,,Full-time,,2.0,,careerviet,True
+System/Network Admin,NHÂN VIÊN LẬP TRÌNH (LÀM VIỆC TẠI PHÚ QUỐC),Other,2026-06-05,,,,Full-time,,1.0,,careerviet,True
+AI/ML Engineer,CÔNG TY CỔ PHẦN DƯỢC PHẨM REVO,Hanoi,2026-06-05,10000000.0,15000000.0,VND,Full-time,,,,careerviet,False
+Business Analyst,CÔNG TY TNHH CÔNG NGHỆ B2B,Ho Chi Minh City,2026-06-05,,,,Full-time,,1.0,,careerviet,True
+Business Analyst,CÔNG TY CỔ PHẦN PHÁT TRIỂN CƠ ĐIỆN LẠNH HOÀNG ĐẠT,Hanoi,2026-06-05,20000000.0,30000000.0,VND,Full-time,,3.0,,careerviet,False
+System/Network Admin,Công Ty Quản Lý Nợ Và Khai Thác Tài Sản - Ngân Hàng TMCP Quân Đội,Hanoi,2026-06-05,15000000.0,30000000.0,VND,Full-time,,2.0,,careerviet,False
+System/Network Admin,Công Ty Cổ Phần Bất Động Sản Tiến Phước,Ho Chi Minh City,2026-06-05,,,,Full-time,,3.0,,careerviet,True
+Fullstack/Software Engineer,Công Ty TNHH Reeracoen Việt Nam,Hanoi,2026-06-05,30000000.0,33000000.0,VND,Full-time,,4.0,,careerviet,False
+AI/ML Engineer,Saigon Technology,Ho Chi Minh City,2026-06-05,,,,Full-time,,0.8,"AI, LLM, Git, Computer Vision, NLP",itviec,True
+QA/Tester,Fullerton Health,Ho Chi Minh City,2026-06-05,,,,Full-time,Senior,3.1,"Azure, Jira, Postman, English",itviec,True
+Backend Developer,Motorola Solutions,Ho Chi Minh City,2026-06-05,,,,Full-time,,0.8,"Python, Networking, PowerShell, C#, Linux",itviec,True
+DevOps/Infra Engineer,SSTech,Ho Chi Minh City,2026-06-05,,,,Full-time,Senior,3.1,"Azure, English, Docker, Terraform, DevOps, CI/CD",itviec,True
+UI/UX Designer,"NEYU Ltd.,",Ho Chi Minh City,2026-06-05,,,,Full-time,,0.8,Figma,itviec,True
+Other,Blue Sapphire Company Limited,Other,2026-06-05,,,,Full-time,Junior,,,linkedin,True
+AI/ML Engineer,CÔNG TY TNHH HỆ THỐNG THÔNG TIN ĐẠI DƯƠNG MỚI,Ho Chi Minh City,2026-06-04,,,,Full-time,,2.0,,careerviet,True
+Fullstack/Software Engineer,CÔNG TY TNHH RIDDLERS VN,Ho Chi Minh City,2026-06-04,,,,Full-time,,5.0,,careerviet,True
+Other,Công ty TNHH SX TM ĐT Nhôm AN LẬP PHÁT,Ho Chi Minh City,2026-06-04,,,,Full-time,,1.0,,careerviet,True
+AI/ML Engineer,Công Ty TNHH Muse Medical,Ho Chi Minh City,2026-06-04,,,,Full-time,,2.0,,careerviet,True
+Game Developer,CÔNG TY TNHH RIDDLERS VN,Ho Chi Minh City,2026-06-04,,,,Full-time,,3.0,,careerviet,True
+IT Support,CÔNG TY CỔ PHẦN UPPINGHAM SCHOOL VIỆT NAM - HƯNG YÊN,Hanoi,2026-06-04,,,,Full-time,,2.0,,careerviet,True
+Sales/Presales,CÔNG TY CỔ PHẦN GIẢI PHÁP TÍCH HỢP NIS,Ho Chi Minh City,2026-06-04,15000000.0,25000000.0,VND,Full-time,,,,careerviet,False
+Backend Developer,ROWBOAT SOFTWARE,Ho Chi Minh City,2026-06-04,,,,Full-time,,3.1,"AWS, DynamoDB, GraphQL, TypeScript",itviec,True
+Frontend Developer,ROWBOAT SOFTWARE,Ho Chi Minh City,2026-06-04,,,,Full-time,,3.1,"CSS, Figma, HTML5, React, Vue",itviec,True
+Other,OrgScale Recruitment,Hanoi,2026-06-04,,,,Full-time,,0.8,"Spark, DBT, Tableau, AWS",itviec,True
+Backend Developer,LG CNS Việt Nam,Hanoi,2026-06-04,,,,Full-time,,3.1,"Java, AWS",itviec,True
+Business Analyst,Saigon Technology,Ho Chi Minh City,2026-06-04,,,,Full-time,,3.1,"Agile, English",itviec,True
+Fullstack/Software Engineer,One Mount Group,Hanoi,2026-06-04,,,,Full-time,Manager+,3.1,"AI, Java, Docker, Kafka, Microservices",itviec,True
+Fullstack/Software Engineer,CÔNG TY TNHH DỊCH VỤ BÁCH GIA,Ho Chi Minh City,2026-06-04,,,,Full-time,,0.8,"Lua, C++",itviec,True
+Fullstack/Software Engineer,Cloud Technology,Ho Chi Minh City,2026-06-04,,,,Full-time,Senior,3.1,English,itviec,True
+Cloud Engineer,LG CNS Việt Nam,Hanoi,2026-06-04,,,,Full-time,,0.8,AWS,itviec,True
+Project Manager,Cloud Technology,Ho Chi Minh City,2026-06-04,,,,Full-time,,3.1,"Scrum, Jira, English, Agile",itviec,True
+Database Administrator,LG CNS Việt Nam,Hanoi,2026-06-04,,,,Full-time,,0.8,AWS,itviec,True
+Frontend Developer,GrapeCity,Hanoi,2026-06-04,30000000.0,50000000.0,VND,Full-time,,3.1,"ASP.NET, Vue, React, C#, .NET, SQL",itviec,False
+Project Manager,Công ty Cổ phần Chứng khoán VPBank,Hanoi,2026-06-04,,,,Full-time,Manager+,5.1,Project Management,itviec,True
+Cloud Engineer,Công ty Cổ phần Chứng khoán VPBank,Hanoi,2026-06-04,,,,Full-time,,0.8,"GCP, Azure, AWS",itviec,True
+Backend Developer,VinSmart Future,Hanoi,2026-06-04,,,,Full-time,Senior,3.1,"Spring Boot, Go",itviec,True
+Project Manager,One Mount Group,Hanoi,2026-06-04,,,,Full-time,Manager+,5.1,"Agile, Project Management, ERP, CRM",itviec,True
+Data Analyst,F88,Hanoi,2026-06-04,30000000.0,45000000.0,VND,Full-time,Senior,3.1,"SQL, Python, Tableau, Power BI",itviec,False
+Other,Wilmar CLV (Cambodia Laos Vietnam),Ho Chi Minh City,2026-06-04,,,,Full-time,,0.8,"English, IoT, ERP, Project Management",itviec,True
+Fullstack/Software Engineer,SVTEK TECHNOLOGY CORPORATION,Ho Chi Minh City,2026-06-04,,,,Full-time,,3.1,"TypeScript, AWS, Rust, SQL, React, Kubernetes",itviec,True
+Data Analyst,Ahamove,Ho Chi Minh City,2026-06-04,,,,Full-time,Senior,3.1,"SQL, Python",itviec,True
+Other,Techtronic Industries Vietnam Manufacturing Company Limited,Ho Chi Minh City,2026-06-03,,,,Full-time,,1.0,ERP,careerviet,True
+QA/Tester,Hệ thống Phòng khám 315,Ho Chi Minh City,2026-06-03,,,,Full-time,,3.0,Automation Test,careerviet,True
+ERP/CRM Specialist,"Un-Available LTD Co.,",Ho Chi Minh City,2026-06-03,,,,Full-time,,5.0,,careerviet,True
+Other,CÔNG TY CỔ PHẦN GIẢI PHÁP CÔNG NGHỆ NETLINE,Hanoi,2026-06-03,10000000.0,15000000.0,VND,Full-time,,1.0,,careerviet,False
+Sales/Presales,Công Ty Cổ Phần Công Nghệ OLLI,Ho Chi Minh City,2026-06-03,,,,Full-time,,4.0,,careerviet,True
+System/Network Admin,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT TẦM NHÌN,Ho Chi Minh City,2026-06-03,15000000.0,20000000.0,VND,Full-time,,3.0,,careerviet,False
 Cloud Engineer,PVcomBank,Hanoi,2026-06-02,,,,Full-time,,3.1,"Windows Server, VMware",itviec,True
 System/Network Admin,PVcomBank,Hanoi,2026-06-02,,,,Full-time,,3.1,Security,itviec,True
 Frontend Developer,CÔNG TY TNHH PIXEL PERFECT,Ho Chi Minh City,2026-06-02,,,,Full-time,,4.0,,topcv,True
