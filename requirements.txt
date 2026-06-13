@@ -2,6 +2,10 @@
 pandas>=2.0.0
 numpy>=1.24.0
 
+# Dashboard
+streamlit>=1.35
+plotly>=5.20
+
 # Web scraping
 requests>=2.31
 beautifulsoup4>=4.12
