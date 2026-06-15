@@ -1,0 +1,108 @@
+job_title,company_name,location,posted_date,salary_min,salary_max,salary_currency,job_type,job_level,experience_required,skills,source,salary_missing
+Backend Developer,ELCA,Ho Chi Minh City,2026-06-15,,,,Full-time,Senior,3.1,"Java, JavaScript, SQL, OOP",itviec,True
+Mobile Developer,RONTECH,Ho Chi Minh City,2026-06-15,,,,Full-time,,3.1,"Go, Java",itviec,True
+QA/Tester,Capgemini Vietnam,Ho Chi Minh City,2026-06-15,,,,Full-time,Senior,0.8,"Automation Test, Java",itviec,True
+AI/ML Engineer,"MONEY FORWARD VIETNAM CO.,LTD",Hanoi,2026-06-15,,,,Full-time,Senior,3.1,"Automation Test, AI, English",itviec,True
+Product Manager/Owner,"MONEY FORWARD VIETNAM CO.,LTD",Hanoi,2026-06-15,,,,Full-time,Manager+,3.1,"English, Japanese",itviec,True
+Business Analyst,ISOFH,Hanoi,2026-06-15,,,,Full-time,,0.8,"API, Figma, SQL",itviec,True
+Other,MB Bank,Hanoi,2026-06-15,,,,Full-time,,3.1,"VBA, SQL",itviec,True
+QA/Tester,Rexy Technology,Ho Chi Minh City,2026-06-14,,,,Full-time,,0.8,"API, Scrum, Agile",itviec,True
+Mobile Developer,GoTymeX,Ho Chi Minh City,2026-06-14,,,,Full-time,,3.1,"Android, Kotlin",itviec,True
+DevOps/Infra Engineer,SSTech,Ho Chi Minh City,2026-06-14,,,,Full-time,Senior,3.1,"Azure, English, Docker, Terraform, DevOps, CI/CD",itviec,True
+AI/ML Engineer,MB Bank,Hanoi,2026-06-14,,,,Full-time,,0.8,"Matlab, Deep Learning, Machine Learning",itviec,True
+Data Analyst,MB Bank,Hanoi,2026-06-14,,,,Full-time,,0.8,"Power BI, Tableau, SQL",itviec,True
+Security Engineer,MB Bank,Hanoi,2026-06-14,,,,Full-time,Senior,3.1,Security,itviec,True
+Database Administrator,LG CNS Việt Nam,Hanoi,2026-06-14,,,,Full-time,,0.8,AWS,itviec,True
+Cloud Engineer,LG CNS Việt Nam,Hanoi,2026-06-14,,,,Full-time,,0.8,AWS,itviec,True
+Cloud Engineer,Công ty Cổ phần Chứng khoán VPBank,Hanoi,2026-06-14,,,,Full-time,,0.8,"GCP, Azure, AWS",itviec,True
+Project Manager,One Mount Group,Hanoi,2026-06-14,,,,Full-time,Manager+,5.1,"Agile, Project Management, ERP, CRM",itviec,True
+Data Analyst,F88,Hanoi,2026-06-14,30000000.0,45000000.0,VND,Full-time,Senior,3.1,"SQL, Python, Tableau, Power BI",itviec,False
+DevOps/Infra Engineer,Gradion,Ho Chi Minh City,2026-06-14,,,,Full-time,Senior,3.1,"Kubernetes, CI/CD, Python, GCP, AWS",itviec,True
+Embedded Engineer,VEANIX Ltd,Hanoi,2026-06-14,,,,Full-time,,0.8,"Embedded, IoT",itviec,True
+AI/ML Engineer,VEANIX Ltd,Hanoi,2026-06-14,,,,Full-time,,0.8,AI,itviec,True
+Cloud Engineer,MEGAZONE,Hanoi,2026-06-14,,,,Full-time,Senior,0.8,AWS,itviec,True
+Project Manager,FPT IS,Hanoi,2026-06-14,,,,Full-time,Manager+,3.1,"English, Project Management",itviec,True
+Security Engineer,"New Era Securities Co., Ltd",Hanoi,2026-06-14,,,,Full-time,,0.8,"Security, Firewall, Networking",itviec,True
+Database Administrator,Indovina Bank,Ho Chi Minh City,2026-06-14,,,,Full-time,,3.1,"PostgreSQL, Unix, Linux, Oracle",itviec,True
+Business Analyst,GiMASYS,Hanoi,2026-06-14,,,,Full-time,,3.1,,itviec,True
+Other,Techcombank,Hanoi,2026-06-14,,,,Full-time,Senior,3.1,SQL,itviec,True
+AI/ML Engineer,Techcombank,Hanoi,2026-06-14,,,,Full-time,Senior,3.1,"AI, AWS, PyTorch, Machine Learning, Python",itviec,True
+Data Engineer,Techcombank,Hanoi,2026-06-14,,,,Full-time,Senior,3.1,"Agile, SQL, Microservices, Scala",itviec,True
+Solution Architect,Techcombank,Hanoi,2026-06-14,,,,Full-time,Senior,3.1,"Agile, Java, DevOps",itviec,True
+DevOps/Infra Engineer,Techcombank,Hanoi,2026-06-14,,,,Full-time,,3.1,DevOps,itviec,True
+Backend Developer,VietSwiss,Ho Chi Minh City,2026-06-14,,,,Full-time,Senior,0.8,"Next.js, PHP, Node.js, English",itviec,True
+IT Manager,Motorola Solutions,Ho Chi Minh City,2026-06-14,,,,Full-time,Manager+,5.1,"Linux, Unix",itviec,True
+Fullstack/Software Engineer,Motorola Solutions,Ho Chi Minh City,2026-06-13,,,,Full-time,,0.8,"Linux, English",itviec,True
+Project Manager,ONE Tech Stop Vietnam Company Ltd,Da Nang,2026-06-13,,,,Full-time,,0.8,"Scrum, Agile, English",itviec,True
+Other,Ngân hàng TMCP Thịnh vượng và Phát triển (PGBank),Hanoi,2026-06-13,,,,Full-time,,3.1,"Cybersecurity, Security",itviec,True
+DevOps/Infra Engineer,KMS Technology,Ho Chi Minh City,2026-06-13,,,,Full-time,Senior,3.1,"Terraform, AWS, DevOps, English",itviec,True
+DevOps/Infra Engineer,NAB Innovation Centre Vietnam,Hanoi,2026-06-13,,,,Full-time,Senior,3.1,"DevOps, CI/CD, Terraform, Kubernetes, AWS",itviec,True
+QA/Tester,NAB Innovation Centre Vietnam,Ho Chi Minh City,2026-06-13,,,,Full-time,Senior,3.1,,itviec,True
+QA/Tester,Hitachi Digital Services,Ho Chi Minh City,2026-06-13,,,,Full-time,Senior,3.1,"Postman, English, Japanese",itviec,True
+IT Support,Blogic Systems,Ho Chi Minh City,2026-06-13,,,,Full-time,,0.8,Networking,itviec,True
+Fullstack/Software Engineer,Thien Hoang Solutions JSC,Hanoi,2026-06-13,,,,Full-time,,3.1,"Java, HTML, Spring Boot, Oracle, JavaScript, CSS",itviec,True
+IT Manager,MYMIND,Ho Chi Minh City,2026-06-13,,,,Full-time,,5.1,,itviec,True
+Data Engineer,Viettel Group,Hanoi,2026-06-13,,,,Full-time,,0.8,"Hadoop, Spark, SQL",itviec,True
+Frontend Developer,CODE LEAP,Ho Chi Minh City,2026-06-13,,,,Full-time,Senior,3.1,"C#, Azure, English, React",itviec,True
+Backend Developer,Gradion,Hanoi,2026-06-13,,,,Full-time,Senior,3.1,"PHP, English, NestJS, Node.js, Symfony",itviec,True
+System/Network Admin,LG CNS Việt Nam,Hanoi,2026-06-13,,,,Full-time,Intern,0.8,,itviec,True
+Business Analyst,Blue Technology,Hanoi,2026-06-13,,,,Full-time,,3.1,"ERP, AI, Jira, Agile",itviec,True
+DevOps/Infra Engineer,VIETTEL CUSTOMER SERVICE,Hanoi,2026-06-13,,,,Full-time,,0.8,"Security, CI/CD, Linux, AWS",itviec,True
+Mobile Developer,Motorist Pte Ltd,Ho Chi Minh City,2026-06-13,,,,Full-time,Junior,,"Android, Java, OOP, Kotlin, English",itviec,True
+Security Engineer,One Mount Group,Hanoi,2026-06-13,,,,Full-time,,3.1,Security,itviec,True
+AI/ML Engineer,"ARSEN Kawaijuku Tech Vietnam Co.,Ltd",Ho Chi Minh City,2026-06-13,,,,Full-time,Senior,3.1,"AI, LLM, Machine Learning, Python, NLP",itviec,True
+Project Manager,TJ Tech,Hanoi,2026-06-13,,,,Full-time,Manager+,3.1,"Agile, English, Japanese, Project Management",itviec,True
+Frontend Developer,Offspring Digital Viet Nam,Hanoi,2026-06-13,,,,Full-time,,0.8,"Node.js, React, NestJS, Next.js, AWS",itviec,True
+QA/Tester,Offspring Digital Viet Nam,Hanoi,2026-06-13,,,,Full-time,,0.8,,itviec,True
+Mobile Developer,Bolt Tech,Hanoi,2026-06-12,,,,Full-time,,0.8,"SQL, Agile",itviec,True
+Backend Developer,FPT Software,Ho Chi Minh City,2026-06-12,,,,Full-time,,0.8,".NET, Git, Microservices, SQL, C#, English",itviec,True
+Backend Developer,Bolt Tech,Hanoi,2026-06-12,,,,Full-time,Senior,0.8,"Java, SQL, Spring",itviec,True
+Fullstack/Software Engineer,Crossian,Hanoi,2026-06-12,,,,Full-time,Senior,3.1,"Python, Node.js, JavaScript, TypeScript",itviec,True
+Data Engineer,VietinBank,Hanoi,2026-06-12,,,,Full-time,,3.1,"Oracle, SQL",itviec,True
+System/Network Admin,Saigon Technology,Ho Chi Minh City,2026-06-12,,,,Full-time,,0.8,"Docker, PowerShell, VMware, AWS",itviec,True
+Data Engineer,Amigo,Hanoi,2026-06-12,,,,Full-time,Senior,3.1,Git,itviec,True
+AI/ML Engineer,Bolt Tech,Hanoi,2026-06-12,,,,Full-time,,0.8,"AI, Docker, FastAPI, TypeScript, SQL, Python",itviec,True
+QA/Tester,ONE Tech Stop Vietnam Company Ltd,Ho Chi Minh City,2026-06-12,,,,Full-time,,3.1,"Scrum, Salesforce, Agile, English",itviec,True
+Embedded Engineer,LG Electronics Development Vietnam (LGEDV),Hanoi,2026-06-12,,,,Full-time,,0.8,RTOS,itviec,True
+Data Engineer,ITviec Recruitment Consulting,Ho Chi Minh City,2026-06-12,,,,Full-time,Senior,3.1,"Python, Pandas, OOP, C++, NumPy",itviec,True
+Game Developer,NEXON DEV VINA,Ho Chi Minh City,2026-06-12,,,,Full-time,Intern,,"C#, C++, English",itviec,True
+QA/Tester,Công ty cổ phần Tập đoàn Công nghệ Quảng Ích (QIG),Hanoi,2026-06-12,,,,Full-time,,0.8,,itviec,True
+Project Manager,NEC Vietnam,Da Nang,2026-06-12,,,,Full-time,Manager+,3.1,"Angular, Java, Japanese, Project Management",itviec,True
+Fullstack/Software Engineer,Aletech Technology Solutions Company,Hanoi,2026-06-12,,,,Full-time,,3.1,"Next.js, SQL, .NET, JavaScript",itviec,True
+Backend Developer,KMS Technology,Ho Chi Minh City,2026-06-12,,,,Full-time,Senior,0.8,"Java, Azure, AWS, Spring, English",itviec,True
+QA/Tester,Vinamilk,Ho Chi Minh City,2026-06-12,,,,Full-time,,0.8,SQL,itviec,True
+DevOps/Infra Engineer,Zen8Labs,Hanoi,2026-06-12,,,,Full-time,,0.8,"DevOps, Python, Linux, Terraform, CI/CD, AWS",itviec,True
+Backend Developer,Central Retail,Ho Chi Minh City,2026-06-12,,,,Full-time,Manager+,5.1,"CI/CD, .NET, C#",itviec,True
+Backend Developer,Sendo.vn,Ho Chi Minh City,2026-06-12,,,,Full-time,,3.1,"Kubernetes, MySQL, Microservices, Kafka, API",itviec,True
+Fullstack/Software Engineer,Simpson Strong-Tie Vietnam,Ho Chi Minh City,2026-06-12,,,,Full-time,,0.8,"AI, Selenium, Python, Automation Test",itviec,True
+Fullstack/Software Engineer,NGS,Hanoi,2026-06-12,,,,Full-time,,0.8,"Python, HTML, Kafka",itviec,True
+Data Engineer,GoTymeX,Ho Chi Minh City,2026-06-12,,,,Full-time,Senior,3.1,"Python, AWS, Databricks, SQL",itviec,True
+Fullstack/Software Engineer,GoTymeX,Ho Chi Minh City,2026-06-12,,,,Full-time,Senior,3.1,"AWS, CI/CD, SQL, Python, Databricks",itviec,True
+Backend Developer,ROWBOAT SOFTWARE,Ho Chi Minh City,2026-06-12,,,,Full-time,,3.1,"AWS, DynamoDB, GraphQL, TypeScript",itviec,True
+Game Developer,GoTymeX,Ho Chi Minh City,2026-06-12,,,,Full-time,,3.1,"iOS, Flutter, React Native, Android",itviec,True
+Fullstack/Software Engineer,Hitachi Digital Services,Hanoi,2026-06-11,,,,Full-time,Senior,3.1,"JavaScript, Spring Boot, Java",itviec,True
+DevOps/Infra Engineer,MB Bank,Hanoi,2026-06-11,,,,Full-time,,0.8,"CI/CD, Docker, DevOps, Oracle, SQL",itviec,True
+Frontend Developer,ROWBOAT SOFTWARE,Ho Chi Minh City,2026-06-11,,,,Full-time,,3.1,"CSS, Figma, HTML5, React, Vue",itviec,True
+Fullstack/Software Engineer,FUJIFILM Business Innovation Việt Nam,Ho Chi Minh City,2026-06-11,,,,Full-time,,3.1,"C++, JavaScript, Japanese",itviec,True
+ERP/CRM Specialist,SAVILLS VIETNAM,Ho Chi Minh City,2026-06-11,,,,Full-time,Senior,3.1,"CRM, .NET, C#",itviec,True
+Mobile Developer,Vietpay Corporation,Ho Chi Minh City,2026-06-11,,,,Full-time,,3.1,"English, Figma",itviec,True
+UI/UX Designer,"Abilive Vietnam Co., Ltd.",Hanoi,2026-06-11,,,,Full-time,,3.1,"Japanese, Figma, CSS, HTML5",itviec,True
+QA/Tester,PropNex,Ho Chi Minh City,2026-06-11,,,,Full-time,Senior,3.1,"Postman, Scrum, Agile, Jira, Automation Test",itviec,True
+Backend Developer,LG CNS Việt Nam,Hanoi,2026-06-11,,,,Full-time,,3.1,"Java, AWS",itviec,True
+QA/Tester,DTS Software Vietnam,Hanoi,2026-06-11,,,,Full-time,,3.1,SQL,itviec,True
+Other,DTS Software Vietnam,Hanoi,2026-06-11,,,,Full-time,Senior,3.1,"C++, Project Management, JavaScript",itviec,True
+Project Manager,Central Retail,Ho Chi Minh City,2026-06-11,,,,Full-time,Manager+,3.1,"Project Management, English",itviec,True
+DevOps/Infra Engineer,LG CNS Việt Nam,Hanoi,2026-06-11,,,,Full-time,Junior,,AWS,itviec,True
+Frontend Developer,GrapeCity,Hanoi,2026-06-11,30000000.0,50000000.0,VND,Full-time,,3.1,"ASP.NET, Vue, React, C#, .NET, SQL",itviec,False
+Backend Developer,VCAPTECH,Ho Chi Minh City,2026-06-11,,,,Full-time,,3.1,"AWS, DevOps, .NET, C#, Python, English",itviec,True
+Product Manager/Owner,Earth Venture,Ho Chi Minh City,2026-06-11,,,,Full-time,,0.8,,itviec,True
+Backend Developer,VinSmart Future,Hanoi,2026-06-11,,,,Full-time,Senior,3.1,"Spring Boot, Go",itviec,True
+UI/UX Designer,Central Retail,Ho Chi Minh City,2026-06-11,,,,Full-time,,3.1,"NoSQL, SQL, Oracle, Linux, PostgreSQL",itviec,True
+Fullstack/Software Engineer,Endava Việt Nam,Ho Chi Minh City,2026-06-11,,,,Full-time,Junior,0.8,"C++, Networking, Microservices, Linux, Python",itviec,True
+Fullstack/Software Engineer,IncepIT,Ho Chi Minh City,2026-06-11,,,,Full-time,,0.8,"Java, Docker, AWS, CSS, HTML5, JavaScript",itviec,True
+Security Engineer,Parcel Perform,Ho Chi Minh City,2026-06-11,,,,Full-time,,3.1,"Security, AI, AWS",itviec,True
+Mobile Developer,KMS Technology,Ho Chi Minh City,2026-06-11,,,,Full-time,Manager+,3.1,"React Native, GraphQL, JavaScript, English",itviec,True
+Security Engineer,SAVIS Vietnam,Hanoi,2026-06-11,,,,Full-time,Senior,3.1,"Linux, Kubernetes, API, SQL, Security",itviec,True
+System/Network Admin,SSI Securities Corporation,Ho Chi Minh City,2026-06-11,,,,Full-time,,3.1,"Networking, Linux, Python, DevOps",itviec,True
+QA/Tester,ITviec Recruitment Consulting,Hanoi,2026-06-11,,,,Full-time,,3.1,"JavaScript, Automation Test, API, Postman, Java",itviec,True
+QA/Tester,NAVER VIETNAM,Ho Chi Minh City,2026-06-11,,,,Full-time,,3.1,"Automation Test, Java, JavaScript, Python",itviec,True

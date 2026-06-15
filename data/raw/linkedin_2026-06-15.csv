@@ -1,0 +1,2633 @@
+job_title,company_name,company_size,location,salary_min,salary_max,salary_currency,experience_required,skills,job_type,job_level,posted_date,deadline,job_description,benefits,source
+IT Administrator,SUN.STUDIO,,"Ho Chi Minh City, Ho Chi Minh City, Vietnam",,,,,"['Python', 'Git', 'AI', 'Firewall', 'VPN', 'Security']",Full-time,Not Applicable,2026-06-12,,"SUN.STUDIO là game studio Việt Nam phát triển các sản phẩm
+Casual & Puzzle
+cho thị trường toàn cầu. Chúng tôi đang tìm kiếm một IT Administrator chịu trách nhiệm vận hành hạ tầng IT nội bộ, hỗ trợ nhân viên và xây dựng môi trường làm việc ổn định, bảo mật và hiệu quả cho toàn công ty.
+Trách nhiệm chính
+Quản lý & mua sắm thiết bị
+Quản lý vòng đời toàn bộ thiết bị đa nền tảng: máy Apple (MacBook, Mac Mini, Mac Studio) chiếm :80% và máy Windows (desktop/laptop) chiếm :20%, cùng điện thoại, thiết bị ngoại vi và phụ kiện — từ khâu mua sắm, cấp phát, theo dõi tồn kho đến thu hồi/thanh lý
+Lập kế hoạch và thực hiện mua sắm: khảo sát nhà cung cấp, so sánh báo giá, đàm phán, theo dõi bảo hành và tối ưu chi phí
+Xây dựng và duy trì hệ thống quản lý tài sản (asset/inventory management): mã hóa thiết bị, gán người dùng, lịch sử cấp phát và bảo trì
+Hỗ trợ kỹ thuật (IT helpdesk/support) cho nhân viên: cài đặt, cấu hình, xử lý sự cố phần cứng và phần mềm
+Quản trị mạng nội bộ
+Thiết kế, triển khai và quản trị hệ thống mạng nội bộ (LAN/Wi-Fi/VLAN), router, switch, firewall, access point
+Quản trị môi trường đa nền tảng ở quy mô tổ chức: cấu hình, cập nhật, giám sát hiệu năng và độ ổn định của cả máy macOS lẫn máy Windows
+Quản trị máy Windows: triển khai thiết bị, quản lý cập nhật, phân quyền người dùng và tích hợp với Microsoft Entra ID/Intune hoặc các giải pháp tương đương
+Quản lý hệ thống lưu trữ, máy chủ build, NAS và các dịch vụ nội bộ phục vụ đội phát triển game
+Giám sát mạng (network monitoring), bảo trì định kỳ, lập kế hoạch dự phòng và khôi phục khi có sự cố
+Xây dựng hệ thống IT đạt chuẩn & quản lý tập trung
+Đưa toàn bộ thiết bị (cả Apple và Windows) vào một Network Organization tập trung để quản lý, cấu hình và áp policy đồng nhất
+Triển khai zero-touch deployment trên cả hai nền tảng: thiết bị mới được tự động đăng ký, cấu hình và áp chính sách bảo mật ngay khi khởi động
+Xây dựng quy trình, chính sách IT và tài liệu vận hành (IT policy, SOP, runbook)
+Quản lý danh tính và truy cập tập trung (identity & access management, SSO, phân quyền theo vai trò)
+Bảo mật dữ liệu & kiểm soát rò rỉ (DLP)
+Kiểm soát luồng ""packages"" ra/vào công ty: quản lý phần mềm được phép cài đặt, kiểm soát thiết bị ngoại vi (USB), cổng kết nối và các kênh truyền dữ liệu
+Triển khai giải pháp chống rò rỉ dữ liệu (DLP) để bảo vệ source code và tài sản trí tuệ khỏi bị mang ra ngoài
+Quản lý mã hóa thiết bị (FileVault cho Mac, BitLocker cho Windows), sao lưu, phân quyền truy cập repository (Git) và kiểm soát quyền trên hệ thống lưu trữ
+Thiết lập VPN, remote access an toàn, xác thực đa yếu tố (MFA) cho làm việc từ xa
+Giám sát an ninh, phản ứng sự cố (incident response), quản lý endpoint security (antivirus/EDR) và đào tạo nhận thức bảo mật cho nhân viên
+Yêu cầu năng lực & kinh nghiệm
+4+ năm kinh nghiệm IT administration, system/network admin hoặc IT infrastructure
+Kinh nghiệm quản trị môi trường Apple/macOS trong môi trường tổ chức
+Có khả năng quản trị Windows (desktop/laptop)
+Có kinh nghiệm quản trị mạng
+Có hiểu biết hoặc từng làm việc với Apple Business Manager, MDM/UEM solutions (Jamf, Mosyle, Kandji, Intune hoặc tương đương
+Có hiểu biết về bảo mật thông tin: endpoint security, mã hóa, IAM/MFA, kiểm soát truy cập, DLP
+Kinh nghiệm quản lý tài sản thiết bị và quy trình mua sắm
+Có kinh nghiệm hỗ trợ người dùng
+Có tinh thần trách nhiệm trong công việc
+Ưu tiên
+Kinh nghiệm trong studio game / công ty công nghệ có yêu cầu cao về bảo mật source code
+Chứng chỉ liên quan: Apple ACSP/ACiT, Jamf Certified, CompTIA Network+/Security+, CCNA, ISO 27001 Lead Implementer
+Kỹ năng scripting/tự động hóa (Shell, Python, AppleScript) để tự động hóa vận hành
+Kinh nghiệm quản trị build server/CI cho team game (Unity/Unreal)
+Chế độ đãi ngộ
+1/ Thời gian làm việc
+Giờ làm việc: 09:00 - 18:30 từ thứ 2 đến thứ 6, nghỉ thứ Bảy và Chủ nhật
+Nghỉ trưa: 1 tiếng 30 phút
+2/ Các loại bảo hiểm
+Đầy đủ các loại bảo hiểm theo quy định pháp luật: BHXH, BHYT, BHTN,..
+Bảo hiểm sức khỏe cao cấp PVI
+3/ Lương thưởng và đánh giá hiệu quả làm việc
+Lương tháng 13
+Thưởng theo hiệu quả công việc
+Thưởng thâm niên
+Thưởng các ngày Lễ/Tết
+4/ Cơ hội đào tạo và phát triển
+Làm việc cùng đội ngũ nhân sự chuyên nghiệp
+Lộ trình phát triển rõ ràng với mentor đồng hành
+Nhiều khóa học, lớp đào tạo giúp cải thiện kỹ năng mềm và kỹ năng chuyên môn
+5/ Phúc lợi, trải nghiệm và giải trí
+Phụ cấp ăn trưa
+Pantry với đồ ăn, snack, cà phê, trà,... miễn phí
+Có bố trí khu vực chơi game online dành cho nhân viên
+Happy hour hằng tuần
+Nhiều sự kiện đa dạng: Year-end party, Team building, Company trip, sinh nhật hằng tuần và các dịp đặc biệt như Lễ, Tết, Trung Thu, Noel,..
+Nhiều hoạt động khác nhằm cải thiện đời sống tinh thần, tăng cường gắn kết và phát triển cùng nhau
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.",,linkedin
+[HCM] IT SUPPORT,CMC Technology & Solution (CMC TS),,"Tân Thuan Đông, Ho Chi Minh City, Vietnam",,,,1.0,"['Windows Server', 'Active Directory']",Full-time,Not Applicable,2026-06-01,,"Job Description
+Provide troubleshooting and technical support for end-user devices and related hardware.
+Administer and maintain the company’s Mail Server, Windows Server, and File Server systems.
+Support the configuration, operation, and maintenance of the Domain Controller.
+Diagnose and resolve issues related to Microsoft Office 365 applications.
+Participate in on-site support and training sessions at client locations when required.
+Location: Cu Chi, HCMC
+Job Requirements
+College or Bachelor’s degree in Information Technology or a related field.
+Minimum 1 years of experience in a similar position.
+Hands-on experience with Active Directory, Office 365, and ticketing systems.
+CCNA, MCSA, or equivalent certifications are an advantage.
+Solid foundation and working experience in IT Systems.
+Good communication skills in English.
+Compensation & Benefits
+Competitive salary package with IT allowance.
+Annual cash benefit package of VND 9,000,000 for holidays and special occasions.
+12 days of annual leave plus 1 additional paid leave day for your birthday.
+Full statutory insurance coverage in accordance with Vietnamese labor law.
+Premium healthcare insurance package (CMC Care).
+Opportunities to join company clubs and various employee engagement programs.
+Laptop and necessary technical equipment provided.
+Young, dynamic, and professional working environment.
+Nộp đơn ứng tuyển công việc này
+Họ & tên bạn *
+Địa chỉ email *
+Số điện thoại *
+Thông tin thêm
+CV của bạn *
+Click để chọn & tải lên CV của bạn
+Mã bảo mật *
+Nộp đơn ứng tuyển","Competitive salary package with IT allowance.
+Annual cash benefit package of VND 9,000,000 for holidays and special occasions.
+12 days of annual leave plus 1 additional paid leave day for your birthday.
+Full statutory insurance coverage in accordance with Vietnamese labor law.
+Premium healthcare insurance package (CMC Care).
+Opportunities to join company clubs and various employee engagement programs.
+Laptop and necessary technical equipment provided.
+Young, dynamic, and professional working environment.
+Nộp đơn ứng tuyển công việc này
+Họ & tên bạn *
+Địa chỉ email *
+Số điện thoại *
+Thông tin thêm
+CV của bạn *
+Click để chọn & tải lên CV của bạn
+Mã bảo mật *
+Nộp đơn ứng tuyển",linkedin
+Chief Technology Officer,Olik Global,,"Ho Chi Minh City, Ho Chi Minh City, Vietnam",,,,15.0,"['Scala', 'CI/CD', 'Agile', 'AI', 'Excel', 'API', 'Security', 'Cybersecurity']",Full-time,Not Applicable,2026-06-10,,"CHIEF TECHNOLOGY OFFICER (CTO)
+Location
+Ho Chi Minh City, Vietnam
+1 - POSITION PURPOSE
+The Chief Technology Officer (CTO) is responsible for leading the Bank's enterprise-wide technology transformation agenda, ensuring technology capabilities enable strategic growth, digital innovation, operational scalability, and long-term resilience.
+The role will drive modernization across:
+Enterprise Architecture
+Core Banking Platforms
+Data & AI Capabilities
+Digital Platforms
+Engineering Practices
+Cloud & Infrastructure Foundations
+The CTO serves as a key strategic partner to the Executive Committee in shaping the future technology landscape of the Bank through modern architecture, agile delivery models, engineering excellence, and technology governance.
+2 - Key Responsibilities
+Enterprise Technology Transformation Leadership
+Lead and oversee the Bank's enterprise-wide technology transformation initiatives
+Establish aligned technology standards, engineering governance, and architectural principles across all strategic programs and delivery domains
+Ensure all transformation initiatives align with the Bank's target-state technology architecture and strategic roadmap
+Coordinate cross-functional technology dependencies, risk mitigation, and delivery alignment across squads, tribes, and technology workstreams
+Serve as the enterprise technology leader for strategic business initiatives and major transformation programs
+Enterprise Architecture & Core Modernization
+Lead the transformation of the Enterprise Architecture (EA) framework toward a scalable, agile, and future-ready target architecture
+Drive Core Banking modernization and simplification initiatives
+Define and manage:
+target architecture,
+platform integration strategy,
+product taxonomy,
+transition roadmap from legacy to modern platforms
+Establish architecture governance and quality assurance mechanisms across all major technology initiatives
+Ensure interoperability across core systems, digital platforms, APIs, and data ecosystems
+Engineering Excellence & Technology Delivery
+Build and institutionalize modern engineering practices across the organization
+Drive adoption of:
+Agile methodologies,
+DevSecOps,
+automation,
+CI/CD,
+AI-enabled software engineering practices
+Establish technology playbooks, engineering standards, and delivery governance models
+Promote a high-performance engineering culture focused on:
+scalability,
+quality,
+security,
+speed-to-market,
+continuous improvement
+Data, AI & Digital Platform Transformation
+Lead transformation of the Bank's enterprise data platform to enable:
+advanced analytics,
+AI capabilities,
+real-time decisioning,
+data accessibility and governance
+Ensure modern data architecture, platform scalability, and enterprise-wide data governance
+Oversee the technology architecture and engineering direction for digital engagement platforms and customer-facing ecosystems
+Drive innovation through emerging technologies and AI-enabled capabilities
+Cloud, Infrastructure & Technology Foundations
+Define and lead the enterprise cloud transformation strategy
+Establish scalable and secure cloud architecture, landing zones, and operational readiness frameworks
+Standardize API architecture and integration governance across the Bank
+Strengthen technology resilience through:
+Business Continuity Planning (BCP),
+Disaster Recovery (DR),
+cybersecurity governance,
+infrastructure modernization
+Ensure technology ecosystems are secure, resilient, scalable, and future-ready
+Technology Risk & Governance
+Maintain strong governance and risk oversight across all transformation initiatives
+Establish enterprise technology risk management frameworks and remediation plans
+Ensure compliance with:
+regulatory requirements,
+information security standards,
+enterprise risk policies,
+architecture governance principles
+Monitor technology health, operational risks, and transformation execution quality
+Talent & Leadership
+Build and lead high-performing technology organizations and engineering teams
+Develop technology talent strategies including:
+workforce planning,
+capability development,
+succession planning,
+hiring and upskilling
+Foster a culture of innovation, collaboration, accountability, and continuous learning
+Coach and develop future technology leaders across the organization
+3 - SUCCESS MEASURES
+Strategic Impact
+Technology strategy aligned with business transformation objectives
+Enterprise architecture adoption across strategic initiatives
+Successful modernization of core technology platforms
+Delivery Excellence
+Improved technology delivery speed, scalability, and reliability
+Successful implementation of Agile and DevSecOps practices
+Increased engineering productivity and automation maturity
+Risk & Resilience
+Strong technology risk posture across the enterprise
+Robust cybersecurity, resilience, and operational continuity capabilities
+Cloud and infrastructure platforms operating securely and effectively
+Organizational Capability
+Strong engineering culture and leadership pipeline
+Increased digital and technology capability across teams
+Sustainable modernization and transformation execution capability
+4 - Required Qualifications & Experience
+Education
+Bachelor's degree in:
+Computer Science,
+Information Technology,
+Software Engineering,
+or related disciplines
+Master's degree or MBA preferred
+Experience
+15+ years of progressive technology leadership experience
+Minimum 7 years in senior technology leadership roles such as:
+CTO,
+Head of Technology,
+Engineering Director,
+Enterprise Architecture Leader,
+or equivalent
+Proven experience in:
+enterprise technology transformation,
+core banking modernization,
+cloud transformation,
+large-scale digital programs,
+engineering transformation,
+Agile at scale environments
+Strong background in banking, financial services, or large enterprise ecosystems preferred
+5 - CORE COMPETENCIES
+Strategic Technology Leadership
+Ability to align technology strategy with enterprise business objectives
+Enterprise Architecture & Systems Thinking
+Strong understanding of scalable enterprise architectures and modern technology ecosystems
+Engineering & Delivery Excellence
+Expertise in Agile, DevSecOps, modern SDLC, and engineering governance
+Data & Digital Fluency
+Strong knowledge of:
+cloud platforms,
+AI,
+APIs,
+data platforms,
+digital ecosystems,
+cybersecurity
+Change & Transformation Leadership
+Proven capability to lead large-scale organizational and technology transformation
+Stakeholder Management
+Strong executive communication and cross-functional influencing capability
+Risk & Governance
+Strong understanding of technology risk management, operational resilience, and regulatory compliance
+6 - LEADERSHIP ATTRIBUTES
+Strategic and forward-thinking
+Calm under pressure
+Execution-oriented
+Innovation-driven
+Highly collaborative
+Strong systems thinker
+Data-driven decision maker
+Passionate about technology excellence and organizational capability building",,linkedin
+Junior Quality Assurance,Getz Group,,Vietnam,,,,,"['REST', 'iOS']",Full-time,Not Applicable,2026-02-15,,"JUNIOR QUALITY ASSURANCE
+Key Responsibilities
+Be responsible for the testing process of all projects.
+Analyze the customer requirements, conditions, detailed software functions and design to indicate the requirements for the test plan.
+Ensure compliance with established processes.
+Design and develop test scenarios and test cases.
+Review project documentation as a basis for testing documentation and product understanding.
+Review testing documentation, implementation process and testing coverage.
+Constantly strive to improve testing methodologies, models and processes.
+Log all the bugs and make test reports.
+Analyze the changes of request and update the test material (test plan, test cases, etc.).
+Requirements
+Bachelor or Master Degree in IT, or equivalent experience is required. Any other demonstrated high technology aptitude is desired.
+At least 1+ years of software platform development test experience, experience in iOS/Web Application test is a big plus.
+Intermediate English communication skills, both written and verbal.
+Analytical abilities to grasp the key points from complicated details.
+Understanding of software quality assurance methodologies.
+Familiarity with the tools, concepts and methodologies of quality management.
+Multi-task effectively and able to adhere to schedules.
+Good at analytical skills and recognizing problems.
+Be responsible.
+OUTSTANDING BENEFIT PROGRAMS
+Highly Competitive salary
+SHUI pay based on full salary
+Premium Healthcare Package for Staff and Family Members
+Diverse Holidays & Special Events Bonuses & incentives
+Family Financial Support - Education for up to 2 kids
+Lunch Allowance
+Well-stocked pantry with free coffee, tea, and snacks
+Internal activities with many experiences: team building, internal events,....
+Professional Training and Development Budget
+Global Exposure and Traveling Opportunities:
+○ Sponsored Trip to Singapore to broaden your horizon and training opportunities
+○ Annual company-wide Overseas Rest & Relax Trip
+Laptop/Other work support device
+WORKING TIME
+From
+Monday - Friday | 8:00 - 17:30
+(1h30 lunch break), flexible to work from home every Friday
+WORK LOCATION
+8th floor, Vietnam Post Building, 271 Nguyen Van Linh, Thanh Khe Ward, Danang, Vietnam
+CONTACT
+Application requirement: please send your CV to email
+recruit@getz.co
+If you are self-leading, eager to learn, dare to fail and willing to take any initiatives and transform it into business impact,
+join us now!
+Apply
+If you are self-leading, eager to learn, dare to fail and willing to take any initiatives and transform it into business impact, join us now!
+Apply
+If you are self-leading, eager to learn, dare to fail and willing to take any initiatives and transform it into business impact, join us now!
+Apply",,linkedin
+Front-End Developer,Getz Group,,Vietnam,,,,2.0,"['Java', 'JavaScript', 'Scala', 'React', 'Angular', 'Vue', 'Agile', 'Scrum', 'REST', 'RESTful', 'HTML', 'Excel']",Full-time,Not Applicable,2026-06-08,,"FRONT-END DEVELOPER
+Key Responsibilities
+Develop new user-facing features with high-quality code
+Build reusable components and front-end libraries
+Optimize applications for maximum speed and scalability
+Translate UI/UX design wireframes into actual code
+Collaborate with backend developers and designers to improve usability
+Ensure cross-browser compatibility and responsiveness
+Conduct code reviews and maintain front-end code quality
+Stay up-to-date with emerging front-end technologies and trends
+Job Requirements
+At least 2+ years working experience as a Front-end Developer.
+Have a high level profile capable of modeling entities/systems.
+Strong proficiency in HTML5, CSS3, and JavaScript (ES6+).
+Hands-on experience with modern frameworks (e.g., React, Vue, Angular).
+Experience with RESTful APIs and front-end integration.
+Understanding of responsive design and cross-browser compatibility.
+Be experienced with Agile Software Development, especially SCRUM.
+English communication & reading skills.
+Excellent written and oral communications skills.
+Teamwork and able to work independently.
+OUTSTANDING BENEFIT PROGRAMS
+Highly Competitive salary
+SHUI pay based on full salary
+Premium Healthcare Package for Staff and Family Members
+Diverse Holidays & Special Events Bonuses & incentives
+Family Financial Support - Education for up to 2 kids
+Lunch Allowance
+Well-stocked pantry with free coffee, tea, and snacks
+Internal activities with many experiences: team building, internal events,....
+Professional Training and Development Budget
+Global Exposure and Traveling Opportunities:
+○ Sponsored Trip to Singapore to broaden your horizon and training opportunities
+○ Annual company-wide Overseas Rest & Relax Trip
+Laptop/Other work support device
+WORKING TIME
+From
+Monday - Friday | 8:00 - 17:30
+(1h30 lunch break), flexible to work from home every Friday
+WORK LOCATION
+8th floor, Vietnam Post Building, 271 Nguyen Van Linh, Thanh Khe Ward, Danang, Vietnam
+CONTACT
+Application requirement: please send your CV to email
+recruit@getz.co
+If you are self-leading, eager to learn, dare to fail and willing to take any initiatives and transform it into business impact,
+join us now!
+Apply
+If you are self-leading, eager to learn, dare to fail and willing to take any initiatives and transform it into business impact, join us now!
+Apply
+If you are self-leading, eager to learn, dare to fail and willing to take any initiatives and transform it into business impact, join us now!
+Apply",,linkedin
+"Da Nang Cabin Crew Opportunities (Dubai Based, Relocation Provided)",Emirates,,Da Nang Metropolitan Area,,,,,"['Excel', 'Security']",Full-time,Associate,2026-06-08,,"Job Purpose
+A personality that shines, the ability to adapt to any situation and make people feel at ease. These are a few of the qualities we’re looking for in our cabin crew.
+As the face of Emirates, you’ll be the person customers turn to for help and direction when they fly with us, so you need to be friendly, observant and able to provide the right support.
+Being a member of the cabin crew is so much more than a service role - safety is our highest priority. You’ll need to lead confidently and take control when it comes to managing aircraft services, security, and safety procedures. This comes from the world-class learning experience our crew receive at our state-of-the-art facility in Dubai.
+Qualifications & Experience
+Here are some other things we look for in our cabin crew:
+You’ve had more than a year’s experience in hospitality/customer service
+You have a positive attitude and the natural ability to provide excellent service in a team environment, dealing with people from many cultures
+Your minimum qualification is high school graduate (Grade 12)
+You need to be fluent in written and spoken English
+You’re at least 160cm tall and can reach 212 cm while standing on tiptoes, to enable you to reach emergency equipment on all aircraft types
+No visible tattoos while you’re in Emirates cabin crew uniform (without covering them with bandages or cosmetics)
+As Emirates cabin crew, you’ll be based in Dubai and will need to meet the UAE's employment visa requirements
+Aside from the requirements of the role, you should be determined to always perform to the highest standards, focus on being solution oriented, and be able to manage a demanding work schedule. You should have the ability to deliver an authentic experience to our customers. You’ll be culturally aware and reflect the Emirates personality - professional, empathetic, progressive, visionary and cosmopolitan.
+Salary & Benefits
+Your pay is made up of three components:
+a fixed basic salary,
+an hourly pay for operated flights and
+an overseas meal allowance.
+Basic salary = AED 4,980 / month,
+Flying Pay = AED 69.60 / hour based on avg. 80-100 hours / month,
+Average Total Pay = AED 11,244 / month (~USD 3,100, EUR 2,600 or GBP 2,280)
+* These are approximate numbers for Grade II (Economy Class).
+Meal allowances for night stops are credited to the salary in arrears the following month.
+Hotel accommodation as well as transport to and from the airport is provided by the company.","Your pay is made up of three components:
+a fixed basic salary,
+an hourly pay for operated flights and
+an overseas meal allowance.
+Basic salary = AED 4,980 / month,
+Flying Pay = AED 69.60 / hour based on avg. 80-100 hours / month,
+Average Total Pay = AED 11,244 / month (~USD 3,100, EUR 2,600 or GBP 2,280)
+* These are approximate numbers for Grade II (Economy Class).
+Meal allowances for night stops are credited to the salary in arrears the following month.
+Hotel accommodation as well as transport to and from the airport is provided by the company.",linkedin
+Junior/Middle Business Analyst,GITS - Global IT Solutions,,Hanoi Capital Region,,,,,['Agile'],Full-time,Entry level,2026-06-11,,"Location:
+Onsite tại Tòa nhà TASCO BUILDING HH2, 2 Phạm Hùng, Từ Liêm, Hà Nội
+Employment Type:
+Onsite Full-time
+HD Contractor upto 26M gross (6 tháng/ lần)
+hoặc
+HĐLĐ upto 22M gross
+﻿
+MÔ TẢ CÔNG VIỆC
+• Thu thập, phân tích và làm rõ yêu cầu nghiệp vụ từ khách hàng và các bên liên quan.
+• Xây dựng tài liệu phân tích nghiệp vụ: BRD, SRS, User Story, Use Case, Business Flow.
+• Phối hợp với đội ngũ Development và QA để đảm bảo yêu cầu được triển khai đúng.
+• Tham gia hỗ trợ UAT, nghiệm thu và triển khai sản phẩm.
+• Phân tích các quy trình nghiệp vụ trong lĩnh vực Bảo hiểm, Tái bảo hiểm và Kế toán nghiệp vụ.
+YÊU CẦU
+• Từ 2+ năm kinh nghiệm Business Analyst.
+• Có kinh nghiệm làm việc trong các dự án Bảo hiểm, Tài chính hoặc Ngân hàng là lợi thế.
+• Hiểu biết về quy trình phát triển phần mềm (SDLC/Agile).
+• Có khả năng viết tài liệu nghiệp vụ và làm việc với nhiều bên liên quan.
+• Kỹ năng giao tiếp, phân tích và giải quyết vấn đề tốt.
+• Ưu tiên ứng viên có kiến thức về Insurance Core System, Reinsurance hoặc Accounting/BCAP.
+QUYỀN LỢI
+• Tham gia dự án chuyển đổi số trong lĩnh vực Bảo hiểm quy mô lớn.
+• Làm việc với đội ngũ chuyên gia nghiệp vụ và công nghệ giàu kinh nghiệm.
+• Cơ hội phát triển chuyên sâu về Insurance Domain.",,linkedin
+IT System Admin,"SOTATEK., JSC",,"Quận Cầu Giấy, Hanoi, Vietnam",,,,3.0,"['SQL', 'MySQL', 'Linux', 'Windows Server', 'REST', 'iOS', 'Android', 'Active Directory', 'VMware', 'Networking', 'Firewall', 'Security']",Internship,Mid-Senior level,2026-06-11,,"Job Description
+The job holder shall be responsible for IT support (Hardware & Software); IT system management and equipment management, details include but not limited to the below:
+Daily follow up IT Helpdesk operation, administrate and maintain PCs, laptops, printers, fingerprint machine, cameras, other IT devices.
+Install operating systems & softwares, troubleshoot and resolve PCs, laptops, printers, IT devices related problems.
+Explain and support staff for technical problems in the company.
+Manage networks servers and technology tools, set up accounts and workstations.
+Ensure security through access controls, backup and firewalls.
+Build and develop documentation in compliance with company’s and ISO’s requirements (checklists, procedures, internal audits, training purposes,...), especially related to information security.
+Propose, purchase and manage licenses, software, equipment and accessories.
+Support in preparation of company events like summer trip, year-end party, women’s day,...
+Job Requirements
+Must have:
+Minimum 3 years as a System Administrator.
+OS & Core Services: Proficient in Windows Server & Linux; 3+ years operating Active Directory (Production). Familiar with macOS, iOS, Android, DFS, Mail, and Databases (SQL/MySQL).
+Networking & Security: Administering Fortinet Firewall; Setup & customization of Squid Proxy; Good understanding of VLANs, routers, switches.
+Monitoring & Infrastructure: Setup & customization of ELK Stack (Grafana, Prometheus, Graylog is a plus); Investigating/analyzing EventID & system logs; Managing VMware and NAS storage (Backup/Restore).
+Soft Skills: High pressure tolerance; Clear and concise communication; Ability to work independently.
+Nice To Have
+Bachelor degree or higher, majoring in IT engineering or related majors.
+Certification in IT Helpdesk Professional, MCSA, CCNA is preferred
+Have strong verbal and written communication, customer service skills, and are able to multitask in a fast-paced work environment.
+Good at written and verbal communication in English.
+Compensation & Benefits
+🎯Flexible working regime and health care:
+Flexible timekeeping (from 8:00 - 9:00 to 17:30 - 18:30)
+Minimum 14 paid leaves per annum for all employees after probation
+01-day remote work per month
+A flexitime allowance of 90-180 minutes per month for employees
+01 hour paid leave per day for women having children under 12 months
+Social insurance, health insurance, unemployment insurance and Bao Viet care insurance
+🎯Transparent And Fair Benefits
+Saturday & Sunday OFF, Overtime pay is 150%, 200%, 300% as per labor law;
+Work performance review 2 times/ year (in April and October)
+Bonus Policy: 13th-month salary and Performance-based bonus
+Men’s Day, Women’s Day, Children’s Day, Mid-Autumn Festival and other benefits under the provisions of the company
+🎯Dynamic Environment And Open Culture
+Year-end party, sports day, yearly company trip and quarterly team building,...with a generous budget
+Socialize with colleagues through monthly Happy Hour
+Monthly allowance when joining clubs: Soccer, Swimming, Yoga, Music,...
+Nice & modern working space with young, dynamic & friendly colleagues and free coffee, tea, drinks,...
+Flat, open and sharing culture with friendly management team; outsourcing company with product mindset
+🎯Strong Learning Culture
+Free training courses for technical and soft skills (presentation skills, communication skills, foreign language courses,...)
+Account to log in to our online learning system, which contains thousands of valuable lectures (LMS)
+Participate in workshops, seminars, tech talk,... with sharing from experts inside and outside the company
+Working opportunities with technical gurus who built and operated world-class applications with millions of users.","🎯Flexible working regime and health care:
+Flexible timekeeping (from 8:00 - 9:00 to 17:30 - 18:30)
+Minimum 14 paid leaves per annum for all employees after probation
+01-day remote work per month
+A flexitime allowance of 90-180 minutes per month for employees
+01 hour paid leave per day for women having children under 12 months
+Social insurance, health insurance, unemployment insurance and Bao Viet care insurance
+🎯Transparent And Fair Benefits
+Saturday & Sunday OFF, Overtime pay is 150%, 200%, 300% as per labor law;
+Work performance review 2 times/ year (in April and October)
+Bonus Policy: 13th-month salary and Performance-based bonus
+Men’s Day, Women’s Day, Children’s Day, Mid-Autumn Festival and other benefits under the provisions of the company
+🎯Dynamic Environment And Open Culture
+Year-end party, sports day, yearly company trip and quarterly team building,...with a generous budget
+Socialize with colleagues through monthly Happy Hour
+Monthly allowance when joining clubs: Soccer, Swimm...",linkedin
+infrastructure (it admin),Xspera,,Vietnam,,,,5.0,"['Python', 'Perl', 'Azure', 'SQL', 'Excel', 'ITIL', 'Active Directory', 'Firewall', 'Security']",Full-time,Not Applicable,2025-10-18,,"Job Description
+Working for xspera, feels like coming home
+xspera, a globally operating management consultancy, seek to increase corporate
+performance
+through
+digital transformation
+. Xingate, xspera’s digital enterprise platform developed on Microsoft’s technology and collaboration stacks, deliver powerful intra, inter, and cross-departmental solutions for immediate results at affordable costs.
+xspera is seeking passionate
+Infrastructure (IT Administrator)
+who will maintain, upgrade, and manage our software, hardware, and networks.
+Resourcefulness is a necessary skill in this role. You should be able to diagnose and resolve problems quickly. You should also have the patience to communicate with a variety of interdisciplinary teams and users.
+Your goal will be to ensure that our technology infrastructure runs smoothly and efficiently.
+General
+Key responsibilities
+SharePoint Installation & Configuration
+Manage system security, system patching and upgrades
+Install and configure software and hardware
+Manage network servers and technology tools
+Set up accounts and workstations
+Monitor performance and maintain systems according to requirements
+Troubleshoot issues and outages
+Ensure security through access controls, backups and firewalls
+Upgrade systems with new releases and models
+Develop expertise to train staff on new technologies
+Build an internal wiki with technical documentation, manuals and IT policies
+Specific
+Monitor and manage Network and Office Equipment.
+Support developers and office users to solve ad-hoc technical issues & problem
+Design and implement Network Topology On-premise and Azure cloud environment
+Design, implement and upgrade System: Active Directory, Office 365, Exchange 2010-2013-2016, Skype for Business 2015, SharePoint 2010-2019, SQL 2012-2019, On- premise, Hybrid, and Azure environment, MS SQL BI, and K2
+Design and implement SharePoint system topology On-premise, Hybrid, and Azure Cloud
+Propose technical solution, do estimates & detail plan for integration in internal & external environment.
+Apply MS Intune, PowerShell and ITIL service management.
+Requirements
+Q
+ualifications
+Bachelor/Master Degree in Information Technology, computer science, management information systems, or related field required
+English certificate of TOEIC 650+ or equivalent
+Ex
+perience and skill
+5+ year experience SharePoint Installation & Configuration including MinRole Farm
+Proven experience with configuration of load-balancing and High Availability Infrastructure
+Proven experience as a System Administrator, Network Administrator or similar role
+Proven experience and knowledge of system security (e.g. intrusion detection systems) and data backup/recovery
+Experience with databases, networks (LAN, WAN) and patch management
+Ability to create scripts in Python, Perl or other language
+Familiarity with various operating systems and platforms
+Resourcefulness and problem-solving aptitude
+Experience in working in an international environment
+Excellent communication skills
+Professional certification (e.g. MCSA Microsoft Certified Systems Administrator, MCSE Server Infrastructure, ITIL V4, etc.) is a plus
+W
+hy Work at xspera
+Above market salary compensation, including 13-month pay
+Quarterly and yearly performance bonus compensation
+Annual performance reviews
+Personal development, training, and creative freedom
+Ability to participate in customer projects in EU, US & Asia
+Work in a global team with highly skilled and motivated people
+Spectacular company trips
+About Xspera
+As a management consulting company, xspera focus on the business goals of our customers. We deliver solutions which help customers achieve their business goals faster. Our enterprise platform, xingate, adapts quickly to our client’s corporate structures reducing their process costs in many areas by as much as 30% -60% through greater transparency, digitization, and process automation. Join xspera today and be part of the digital world of tomorrow",,linkedin
+IT Helpdesk/ IT Support,UNIT Technology Corporation,,"Quận 1, Ho Chi Minh City, Vietnam",,,,4.0,"['Windows Server', 'Adobe', 'Active Directory', 'Networking', 'Firewall']",Full-time,Mid-Senior level,2026-06-08,,"Handle and track user requests, ensuring timely and effective resolution
+Provide support to end-users and troubleshoot hardware, software, and network issues
+Install, configure, and maintain IT equipment (PCs, printers, scanners, fax)
+Support office applications: MS Office, Outlook, Adobe Acrobat
+Perform basic administration of Windows OS, Windows Server, and Active Directory
+Monitor IT systems and network infrastructure to ensure stable operations
+Perform data backup, system updates, and regular virus scanning
+Coordinate with external vendors and service providers to meet SLA requirements
+Support daily IT operations tasks (monitoring, reporting, incident handling)
+Requirements
+Bachelor’s degree in Information Technology, Network Administration, Telecommunications, or related fields
+At least 4 years of experience in IT Helpdesk / IT Support/ IT Service Desk
+Good knowledge of Windows, networking (LAN/WAN, DNS, DHCP), Active Directory, Firewall/NAT
+Strong communication skills with a customer-oriented mindset
+Experience supporting clients in insurance/financial domain is a plus
+Good command of English (communication and documentation)
+Flexible, dynamic attitude and reliable.",,linkedin
+IT Manager | InterContinental Halong Bay Resort,IHG Hotels & Resorts,,"Ha Long, Quang Ninh, Vietnam",,,,3.0,"['Firewall', 'Security', 'Cybersecurity']",Full-time,Not Applicable,2026-06-01,,"Key Responsibilities
+IT Operations Management Manage daily IT operations and ensure all systems function effectively. Monitor servers, networks, internet connectivity, and system performance. Ensure minimal downtime and quick recovery during system issues. Maintain IT infrastructure including: Computers and laptops Printers and scanners Telephones Wi-Fi systems CCTV systems Door lock systems TVs and AV equipment Conduct preventive maintenance for all IT equipment.
+Technical Support Provide technical support to all departments and users. Troubleshoot hardware, software, and network issues. Ensure timely response and resolution of IT tickets. Support employee onboarding/offboarding: Email setup User account creation Access permissions Device allocation Conduct basic IT and cybersecurity training for employees.
+Network & Infrastructure Maintain LAN/WAN networks and internet stability. Configure and manage routers, switches, firewalls, and access points. Monitor network security and bandwidth usage. Maintain server rooms and ensure proper backup power/environment conditions. Coordinate with internet and telecom providers.
+Cybersecurity & Data Protection Ensure IT systems comply with security standards and company policies. Manage: Antivirus systems Firewalls Endpoint protection Access control Protect company data from unauthorized access and cyber threats. Conduct regular backups and disaster recovery testing. Monitor suspicious activities and security risks.
+Systems Administration Manage and support operational systems such as: PMS (Opera or similar) POS systems HR systems Finance systems Email systems Microsoft 365 / Google Workspace Coordinate system upgrades, patches, and integrations. Liaise with vendors for troubleshooting and support.
+IT Project Management Lead IT-related projects and implementations. Coordinate system upgrades and new technology rollouts. Prepare project plans, timelines, and budgets. Work closely with department heads to understand operational needs. Recommend technology improvements to increase efficiency.
+Vendor & Asset Management Manage relationships with IT vendors and service providers. Maintain IT inventory and asset records. Track warranties, licenses, and maintenance contracts. Ensure cost-effective procurement of IT equipment and services.
+Budget & Administration
+Prepare annual IT budget and monitor expenses.
+Control IT costs while maintaining operational standards.
+Submit monthly IT reports and recommendations.
+Team Leadership Supervise and guide IT team members. Conduct performance evaluations and coaching sessions. Schedule team coverage and assign responsibilities. Promote teamwork and service-oriented support culture.
+Qualifications
+Education
+Bachelor’s degree in Information Technology, Computer Science, or related field.
+Experience
+Minimum 3–5 years of IT experience.
+Previous Supervisory Or Managerial Experience Preferred.
+Hospitality industry experience is an advantage.
+Technical Skills
+Network administration
+Server management
+Cybersecurity and data protection
+Microsoft 365 administration
+Hardware and software troubleshooting
+Database and backup management
+Knowledge of hotel systems preferred:
+Opera PMS
+Micros POS
+IPTV systems
+Soft Skills
+Strong leadership and communication skills
+Problem-solving and analytical thinking
+Time management and organization
+Customer-focused mindset
+Ability to work under pressure
+Good coordination and project management skills
+Don't quite meet every single requirement, but still believe you'd be a great fit for the job? We'll never know unless you hit the 'Apply' button. Start your journey with us today.",,linkedin
+IT Engineer,CNK Consulting Vietnam,,"Bac Giang, Bac Giang, Vietnam",700.0,1000.0,USD,,"['Java', 'SQL', 'Windows Server', 'Firewall', 'VPN']",Full-time,Not Applicable,2026-02-15,,"Job Description
+Vị trí: Kỹ sư IT
+Mức lương: 700-1000 USD
+Địa điểm: Bắc Giang
+Mô Tả Công Việc
+Duy trì và quản lý hệ thống mạng CNTT của công ty.
+Quản lý máy chủ và các thiết bị CNTT khác, bao gồm bảo trì hệ thống, sao lưu, nâng cấp và thiết lập ứng dụng mới.
+Cấu hình thiết bị mạng, hệ điều hành, cơ sở dữ liệu và máy chủ của công ty.
+Đảm bảo an toàn hệ thống bằng cách quản lý phần mềm diệt vi-rút, nâng cấp hệ điều hành và thực hiện các biện pháp bảo mật.
+Tối ưu hóa tài nguyên để đáp ứng hiệu quả các yêu cầu kinh doanh.
+Hướng dẫn và đào tạo người dùng về phần cứng và phần mềm.
+Đề xuất cải tiến chương trình và quy trình để đơn giản hóa hoặc nâng cao hiệu suất hoạt động.
+Phát triển ứng dụng (Java hoặc C#) theo yêu cầu của người dùng.
+Quản lý và duy trì cơ sở dữ liệu.
+Yêu Cầu
+Tốt nghiệp đại học chuyên ngành liên quan.
+Hơn 2 năm kinh nghiệm làm việc trong lĩnh vực CNTT, đặc biệt trong bộ phận hỗ trợ CNTT, ưu tiên ứng viên có kinh nghiệm tại công ty đa quốc gia.
+Thành thạo tiếng Trung giao tiếp.
+Am hiểu về MS Windows Server 2008, AD, DNS, DHCP, IIS, FTP, VPN, Exchange Server, SQL, Firewall, Router.
+Có kinh nghiệm quản lý hệ thống thông tin (IS) và có khả năng cung cấp giải pháp tổng thể.
+Thành thạo các kỹ thuật bảo mật mạng và có thể triển khai giải pháp mạng toàn diện.
+Có kinh nghiệm thiết lập, cấu hình, sao lưu và khôi phục SQL Server.
+Ưu tiên ứng viên có kinh nghiệm phát triển Java hoặc C#.
+Sẵn sàng làm việc theo ca nếu có yêu cầu.
+Chế Độ Công Việc
+Thời gian làm việc: Thứ 2- Thứ 6 (8:00 AM 5:00 PM)
+13 tháng lương+ thưởng theo doanh thu
+BHXH đóng full lương, 12 ngày nghỉ phép/ năm
+Required Skills
+SQL Server FTP Windows Server C# Windows Java SQL",,linkedin
+Nhân viên Quản trị Hệ thống,Work & Wonders - Kiến Tạo & Kiệt Tác,,"Hanoi, Hanoi, Vietnam",,,,,[],Full-time,Not Applicable,2026-04-16,,"Mô tả công việc
+Quản trị hệ thống máy tính và tài nguyên kỹ thuật.
+Quản trị các phần mềm phục vụ đào tạo và công việc văn phòng.
+Các công việc khác theo phân công
+Trung học",,linkedin
+Information Technology Technician (IT Technician),XP Power,,"Binh Duong, Vietnam",,,,2.0,"['Linux', 'Active Directory', 'Networking']",Full-time,Mid-Senior level,2026-06-09,,"Job Description
+Position Summary:
+The
+IT Technician and helpdesk
+specialist joins the IT Support team to maintain computer networks, software, and hardware across the organization. This role is critical in providing timely technical support and helpdesk services, with a primary focus on supporting
+production lines
+to ensure operational continuity
+The IT Technician and helpdesk
+will monitor and maintain factory computer systems, telephone systems, IP CCTV system and network infrastructure, while resolving technical issues ticketed through the company IT Ticket system.
+Qualifications
+Education & Experience
+Degree:
+Technical college degree majoring in Electronics or Computer Technical.
+Experience:
+Approximately 2 years of experience in similar positions, with at least 1 years specifically in an IT support role.
+Industry Focus:
+At least 1 years of experience in system, network, and infrastructure support within the Production industry (Joint Venture or Foreign Owned Company preferred).
+Additional information
+Technical Skills
+Endpoint & OS Management:
+Advanced proficiency in Windows 10/11 and Linux environments; hands-on experience managing Windows Active Directory (users, groups, and GPOs).
+Cloud & Productivity:
+Basic-level support for
+Microsoft 365
+(formerly Office 365) and legacy Office 2016 suites support for end user.
+Networking:
+Experience configuring and maintaining
+Cisco Meraki
+(wired/wireless) equipment, managing and troubleshooting general network infrastructure.
+Monitor and troubleshoot the factory’s wired and wireless
+network infrastructure
+using the
+Cisco Meraki.
+Diagnose connectivity issues for IoT devices, barcode scanners, label printers.
+Deploy, replace, and configure Meraki hardware (Access Points, Switches, network cable) as directed by the network engineering team.
+Maintain strong Wi-Fi coverage across high-interference manufacturing zones.
+IT Helpdesk and hardware support:
+Ability to install, troubleshoot, and maintain diverse hardware including
+IP CCTV
+,
+IP Phone systems
+, and Production Machine systems.
+Provide rapid-response technical support for factory staff, resolving hardware, software, and peripheral issues.
+Deploy, configure, and stage new hardware (PCs, ruggedized laptops, industrial printers, and handheld scanners).
+Utilize endpoint management tools to handle automated
+software deployment
+, imaging, and remote configurations.
+Document all incidents, requests, and resolutions accurately in the IT ticketing system.
+Maintain a precise inventory of all IT assets on the factory floor.
+Soft Skills & Professional Qualities
+Accountability:
+High sense of integrity and a meticulous
+attention to detail
+when documenting issues and performing system maintenance.
+Communication:
+Strong interpersonal skills with the ability to translate technical jargon into simple terms for non-technical users. Clear, patient communication skills with both floor operators and corporate IT teams.
+Urgency & Adaptability:
+Ability to thrive in a fast-paced, high-pressure manufacturing environment where downtime equals lost revenue.
+Culture Fit:
+Dedicated professional whose work ethics align with our
+Company Core Values
+.
+CCNA, MCSA is prefferred.",,linkedin
+IT Administrator,SUN.STUDIO,,"Ho Chi Minh City, Ho Chi Minh City, Vietnam",,,,,"['Python', 'Git', 'AI', 'Firewall', 'VPN', 'Security']",Full-time,Not Applicable,2026-06-12,,"SUN.STUDIO là game studio Việt Nam phát triển các sản phẩm
+Casual & Puzzle
+cho thị trường toàn cầu. Chúng tôi đang tìm kiếm một IT Administrator chịu trách nhiệm vận hành hạ tầng IT nội bộ, hỗ trợ nhân viên và xây dựng môi trường làm việc ổn định, bảo mật và hiệu quả cho toàn công ty.
+Trách nhiệm chính
+Quản lý & mua sắm thiết bị
+Quản lý vòng đời toàn bộ thiết bị đa nền tảng: máy Apple (MacBook, Mac Mini, Mac Studio) chiếm :80% và máy Windows (desktop/laptop) chiếm :20%, cùng điện thoại, thiết bị ngoại vi và phụ kiện — từ khâu mua sắm, cấp phát, theo dõi tồn kho đến thu hồi/thanh lý
+Lập kế hoạch và thực hiện mua sắm: khảo sát nhà cung cấp, so sánh báo giá, đàm phán, theo dõi bảo hành và tối ưu chi phí
+Xây dựng và duy trì hệ thống quản lý tài sản (asset/inventory management): mã hóa thiết bị, gán người dùng, lịch sử cấp phát và bảo trì
+Hỗ trợ kỹ thuật (IT helpdesk/support) cho nhân viên: cài đặt, cấu hình, xử lý sự cố phần cứng và phần mềm
+Quản trị mạng nội bộ
+Thiết kế, triển khai và quản trị hệ thống mạng nội bộ (LAN/Wi-Fi/VLAN), router, switch, firewall, access point
+Quản trị môi trường đa nền tảng ở quy mô tổ chức: cấu hình, cập nhật, giám sát hiệu năng và độ ổn định của cả máy macOS lẫn máy Windows
+Quản trị máy Windows: triển khai thiết bị, quản lý cập nhật, phân quyền người dùng và tích hợp với Microsoft Entra ID/Intune hoặc các giải pháp tương đương
+Quản lý hệ thống lưu trữ, máy chủ build, NAS và các dịch vụ nội bộ phục vụ đội phát triển game
+Giám sát mạng (network monitoring), bảo trì định kỳ, lập kế hoạch dự phòng và khôi phục khi có sự cố
+Xây dựng hệ thống IT đạt chuẩn & quản lý tập trung
+Đưa toàn bộ thiết bị (cả Apple và Windows) vào một Network Organization tập trung để quản lý, cấu hình và áp policy đồng nhất
+Triển khai zero-touch deployment trên cả hai nền tảng: thiết bị mới được tự động đăng ký, cấu hình và áp chính sách bảo mật ngay khi khởi động
+Xây dựng quy trình, chính sách IT và tài liệu vận hành (IT policy, SOP, runbook)
+Quản lý danh tính và truy cập tập trung (identity & access management, SSO, phân quyền theo vai trò)
+Bảo mật dữ liệu & kiểm soát rò rỉ (DLP)
+Kiểm soát luồng ""packages"" ra/vào công ty: quản lý phần mềm được phép cài đặt, kiểm soát thiết bị ngoại vi (USB), cổng kết nối và các kênh truyền dữ liệu
+Triển khai giải pháp chống rò rỉ dữ liệu (DLP) để bảo vệ source code và tài sản trí tuệ khỏi bị mang ra ngoài
+Quản lý mã hóa thiết bị (FileVault cho Mac, BitLocker cho Windows), sao lưu, phân quyền truy cập repository (Git) và kiểm soát quyền trên hệ thống lưu trữ
+Thiết lập VPN, remote access an toàn, xác thực đa yếu tố (MFA) cho làm việc từ xa
+Giám sát an ninh, phản ứng sự cố (incident response), quản lý endpoint security (antivirus/EDR) và đào tạo nhận thức bảo mật cho nhân viên
+Yêu cầu năng lực & kinh nghiệm
+4+ năm kinh nghiệm IT administration, system/network admin hoặc IT infrastructure
+Kinh nghiệm quản trị môi trường Apple/macOS trong môi trường tổ chức
+Có khả năng quản trị Windows (desktop/laptop)
+Có kinh nghiệm quản trị mạng
+Có hiểu biết hoặc từng làm việc với Apple Business Manager, MDM/UEM solutions (Jamf, Mosyle, Kandji, Intune hoặc tương đương
+Có hiểu biết về bảo mật thông tin: endpoint security, mã hóa, IAM/MFA, kiểm soát truy cập, DLP
+Kinh nghiệm quản lý tài sản thiết bị và quy trình mua sắm
+Có kinh nghiệm hỗ trợ người dùng
+Có tinh thần trách nhiệm trong công việc
+Ưu tiên
+Kinh nghiệm trong studio game / công ty công nghệ có yêu cầu cao về bảo mật source code
+Chứng chỉ liên quan: Apple ACSP/ACiT, Jamf Certified, CompTIA Network+/Security+, CCNA, ISO 27001 Lead Implementer
+Kỹ năng scripting/tự động hóa (Shell, Python, AppleScript) để tự động hóa vận hành
+Kinh nghiệm quản trị build server/CI cho team game (Unity/Unreal)
+Chế độ đãi ngộ
+1/ Thời gian làm việc
+Giờ làm việc: 09:00 - 18:30 từ thứ 2 đến thứ 6, nghỉ thứ Bảy và Chủ nhật
+Nghỉ trưa: 1 tiếng 30 phút
+2/ Các loại bảo hiểm
+Đầy đủ các loại bảo hiểm theo quy định pháp luật: BHXH, BHYT, BHTN,..
+Bảo hiểm sức khỏe cao cấp PVI
+3/ Lương thưởng và đánh giá hiệu quả làm việc
+Lương tháng 13
+Thưởng theo hiệu quả công việc
+Thưởng thâm niên
+Thưởng các ngày Lễ/Tết
+4/ Cơ hội đào tạo và phát triển
+Làm việc cùng đội ngũ nhân sự chuyên nghiệp
+Lộ trình phát triển rõ ràng với mentor đồng hành
+Nhiều khóa học, lớp đào tạo giúp cải thiện kỹ năng mềm và kỹ năng chuyên môn
+5/ Phúc lợi, trải nghiệm và giải trí
+Phụ cấp ăn trưa
+Pantry với đồ ăn, snack, cà phê, trà,... miễn phí
+Có bố trí khu vực chơi game online dành cho nhân viên
+Happy hour hằng tuần
+Nhiều sự kiện đa dạng: Year-end party, Team building, Company trip, sinh nhật hằng tuần và các dịp đặc biệt như Lễ, Tết, Trung Thu, Noel,..
+Nhiều hoạt động khác nhằm cải thiện đời sống tinh thần, tăng cường gắn kết và phát triển cùng nhau
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.",,linkedin
+Information Technology Help Desk Technician,Hoiana Resort & Golf,,"Da Nang City, Vietnam",,,,2.0,"['Scala', 'Excel', 'Active Directory', 'Security']",Full-time,Associate,2026-06-08,,"SCOPE OF WORK
+The IT Service Desk Technician is responsible for providing first-level technical support to end users, ensuring timely resolution of IT incidents, service requests, and technical issues related to hardware, software, network, and business applications. This role ensures continuous operation of IT services and contributes to user satisfaction and system stability.
+KEY RESPONSIBILITIES AND ACCOUNTABILITIES
+Duties include but are not limited to:
+Taking ownership of incidents and managing them in a logical and methodical manner.
+Ensuring all incidents are progressed & cleared within SLA – escalating to other internal and external teams as appropriate.
+Installing and supporting Windows Desktops in a workgroup or Active Directory domain.
+Troubleshooting, diagnosing and repairing or replacing computer hardware.
+Troubleshooting, diagnosing and resolving 1st level incidents.
+Following network security procedures for the purpose of adds, removes, and changes for network users.
+Documentation and updating knowledgebase.
+Establishing and maintaining contact with vendors for support and problem resolution.
+Proactively contributing to continuous service improvement through identification of process improvements and problem prevention.
+Managing faults through their entire lifecycle from the first point of contact through to resolution, proactively keeping the customer informed of progress.
+Identifying and recommending solutions for repeat issues or service risks into service management teams.
+Ensuring effective management of issues raised via telephone, email, self-service and face to face, and handling the resulting incidents or service requests using agreed incident management and request fulfilment processes.
+Conducting IT trouble/incident ticket reviews.
+Investigating documentation for resolution of known problems.
+Monitoring server and network services and escalating through given workflow procedures.
+QUALIFICATIONS/REQUIREMENTS
+2 years of professional IT Support experience required, preferably in a hotel or resort environment.
+Experience in casino or casino system support is an advantage.
+Strong understanding of application architecture and the ability to troubleshoot application-related errors effectively.
+Strong technical knowledge in personal computers, printers, network equipment, Windows OS, MS applications, and general network troubleshooting.
+Must have excellent customer service skills with the ability to demonstrate patience, tact, and respect.
+Effective verbal and written communication skills with the ability to communicate issues and resolutions to all levels of the organization.
+Strong problem-solving abilities.
+Ability to work well under pressure and meet tight deadlines.
+Flexibility and adaptability in a dynamic environment.
+Ability to work independently as well as within a collaborative team setting.
+Proven track record of continual service improvement and effective ticket management.
+Skilled in first-line incident diagnosis and resolution.",,linkedin
+IT NETWORK,GMO-Z.com RUNSYSTEM JSC.,,"Đà Nang, Da Nang City, Vietnam",,,,,"['.NET', 'Unix', 'VPN']",Full-time,Not Applicable,2025-09-18,,"Level: Junior
+Khối: Back Office
+Hạn ứng tuyển: 31/07/2025
+Trạng thái: Inactive
+Số lượng tuyển: 2
+Thu nhập:
+Địa điểm: Đà Nẵng
+Nội dung công việc
+Quản lý mạng nội bộ của công ty bao gồm hệ thống dây, hệ thống các thiết bị mạng.
+Đưa ra các giải pháp khắc phục nhằm đảm bảo tính bảo mật và thông suốt nội bộ trong các phòng ban.
+Khắc phục sự cố về mạng.
+Kiểm tra và cài đặt phần mềm cần thiết cho các thiết bị máy móc.
+Hỗ trợ cài đặt các phần mềm liên quan đến công việc.
+Kiểm tra và xử lý các sự cố liên quan đến máy tính.
+Yêu cầu công việc
+Yêu cầu công việc
+Hiểu biết về phần cứng máy tính, biết đánh giá hiệu năng của các thành phần phần cứng như Ram Bus…
+Có khả năng xử lý các vấn đề về mạng không dây, khắc phục nhiễu tần số mạng không dây.
+Thành thạo các phần mềm mã mở trên unix dùng cho quản trị mạng nội bộ.
+Có kinh nghiệm về xử lý sự cố máy tính, internet.
+Có kinh nghiệm về cài đặt và quản trị VPN.
+Kinh nghiệm
+Kinh nghiệm IT Network từ 1 năm trở lên.
+Yêu cầu khác
+Tốt nghiệp Đại học/Cao Đẳng ngành Công nghệ thông tin.
+Kỹ năng giải quyết vấn đề độc lập, chịu được áp lực cao, làm việc nhóm tốt.
+Cầu thị trong công việc, có tinh thần trách nhiệm cao, mong muốn gắn bó lâu dài.
+Chế độ đãi ngộ
+Xét tăng lương 1 lần/ năm, có thể được xét tăng sớm tùy thuộc vào năng lực và hiệu quả công việc.
+Thưởng tháng lương thứ 13, thưởng dự án và các loại thưởng khác (thưởng thành tích, thưởng cá nhân xuất sắc, thưởng đạt chứng chỉ Tiếng Nhật...).
+Được làm việc trực tiếp với các khách hàng Nhật Bản. Cơ hội Onsite tại Nhật Bản.
+Được hưởng các phúc lợi khác như: Team-building hàng tháng, nghỉ mát hàng năm, khám sức khỏe định kỳ...
+Tất cả chế độ theo quy định của Pháp luật Lao động Việt Nam (BHXH, BHYT, BHTN, ...).
+Nghỉ phép năm và các ngày nghỉ lễ Tết khác theo quy định của nhà nước Việt Nam.
+Làm việc từ thứ 2 đến thứ 6.
+Môi trường làm việc trẻ trung, năng động.
+Liên hệ
+Thông Tin Hồ Sơ
+Gửi CV kèm ảnh và tiêu đề mail theo cấu trúc: [Tên Job_Tên ứng viên]
+Thông Tin Nộp Hồ Sơ
+Mail: dunglp@runsystem.net/vyptv@runsystem.net
+Người liên hệ: Ms.Dung/Ms.Vy - 0236.3.886.066
+Địa Điểm
+Địa chỉ: Số 1 Ngô Huy Diễn, Hòa Xuân, Cẩm Lệ, Đà Nẵng.
+Thông tin ứng tuyển
+Bạn có sẵn CV rồi chứ? Đừng ngại gửi về cho GMO nhé
+*
+Kéo thả file hoặc tải lên
+Cho phép tệp doc, docx, xls, xlsx, ppt, pptx, pdf và lên đến 3mb.
+Tên tập tin không chứa các kí tự đặc biệt như '/', [, *, , ;, '
+Bạn biết đến vị trí này từ đâu?
+*
+- Select - Nhân sự công ty giới thiệu Facebook Forum Linkedin Fanpage công ty Các jobsite tuyển dụng (TopCV, VNW..) Recuiter Khác
+Liên kết của portfolio và hồ sơ mạng xã hội
+Nhân sự tuyển dụng đang hỗ trợ
+*
+- Select - Lương Thị Huệ Trần Thị Thanh Huyền Nguyễn Thị Phương Thuỷ Trần Thị Tuyết Anh Lại Phương Anh Recruiter khác
+Bằng việc nộp hồ sơ ứng tuyển vào các vị trí tuyển dụng của GMO-Z.com RUNSYSTEM, bạn đồng ý cho phép GMO-Z.com RUNSYSTEM sử dụng thông tin cá nhân, xử lý dữ liệu cá nhân của bạn và chấp nhận toàn bộ các quy định được đề cập tại
+*
+Chính sách bảo vệ dữ liệu cá nhân",,linkedin
+Information Technology Technician,Blue Sapphire Company Limited,,"Nha Trang, Khanh Hoa, Vietnam",,,,,[],Full-time,Entry level,2026-06-08,,"Mô tả công việc:
+·       Hỗ trợ xử lý kỹ thuật khi nhận thông tin từ khách hàng.
+·       Thực hiện sửa chữa các phần cứng/phần mềm kịp thời và nâng cấp phần cứng/phần mềm theo yêu cầu.
+·       Thực hiện một số công việc khác theo sự phân công của cấp trên.
+Yêu cầu ứng viên:
+·       Tốt nghiệp chuyên ngành Công nghệ thông tin.
+·       Có sở thích với công nghệ, sử dụng tốt máy tính.
+·       Cẩn thận, trung thực, có tinh thần trách nhiệm trong công việc.
+Yêu cầu ứng viên:
+·       Có sở thích với công nghệ, sử dụng tốt máy tính
+·       Giao tiếp tốt, giọng nói dễ nghe
+·       Tốt nghiệp cao đẳng trở lên.
+Quyền lợi:
+·       Lương: Thỏa thuận theo năng lực
+·       Thời gian làm việc: Từ thứ 2 đến thứ 7
+·       Làm việc trong môi trường trẻ trung, năng động và phát huy được năng lực của bản thân, có cơ hội phát triển;
+·       Tham gia BHXH, BHYT theo quy định.
+·       Các chế độ theo chính sách Công ty.
+·       Môi trường làm việc năng động, cơ hội phát triển chuyên môn.
+Cách thức ứng tuyển:
+Ứng viên vui lòng gửi CV về email: hiring@bluesapphire.vn
+Địa chỉ: HUD Building, 04 Nguyễn Thiện Thuật, Nha Trang, Khánh Hòa",,linkedin
+Nhân viên IT,Công Ty Cổ Phần Bảo Chánh,,"Ho Chi Minh City, Ho Chi Minh City, Vietnam",,,,,[],Full-time,Not Applicable,2026-04-16,,"Mô tả công việc
+MÔ TẢ CÔNG VIỆC
+Thực hiện những công việc liên quan đến mảng công nghệ thông tin; phần mềm; phần cứng; quản trị mạng...
+Quản lý, triển khai bảo hành và sửa chữa các thiết bị: PC, Server, máy in, thiết bị lưu điện UPS, màn hình, linh kiện máy tính…
+Chịu trách nhiệm quản lý hệ thống server chủ
+Quản lý và khắc phục sự cố hệ thống mạng, máy tính văn phòng;
+Quản lý Hệ thống thoại
+Hệ thống mail công ty;
+Xây dựng, quản lý hệ thống cơ sở vật chất, mạng CNTT cho công ty
+Và những công việc khác
+Cao đẳng",,linkedin
+CHUYÊN VIÊN IT,CEO Group,,"Quang Ninh, Vietnam",,,,,"['Linux', 'Firewall']",Full-time,Not Applicable,1 year ago,,"Thông tin công ty
+Tên công ty: Công ty CP ĐT & PT Du Lịch Vân Đồn
+Quy mô: 100 người Địa chỉ: Khu Tổ hợp Du lịch Sonasea Vân Đồn Harbor City, xã Hạ Long, huyện Vân Đồn, tỉnh Quảng Ninh Website: http://sonaseavandonharborcity.vn/
+Thông tin tuyển dụng
+Tiêu đề: CHUYÊN VIÊN IT Nghành nghề: CNTT - Phần cứng / Mạng , CNTT - Phần mềm Vị trí: Nhân viên IT Thông tin công việc: Mô tả công việc
+Quản trị hệ thống máy chủ (SYSTEM)
+Quản trị máy chủ kế toán
+Quản trị máy chủ dữ liệu phòng ban
+Quản trị máy chủ website
+Quản trị máy chủ phần mềm nhân sự
+Quản trị hệ thống mạng (NETWORK)
+Quản trị máy chủ Firewall
+Quản trị hệ thống Switch
+Quản trị hệ thống Wifi
+Quản trị hệ thống tổng đài, máy chấm công, camera quan sát
+Quản trị tổng đài điện thoại
+Quản trị máy chấm công
+Quản trị hệ thống camera
+Lưu trữ được dữ liệu, thông tin của Công ty
+Quản trị các Website, Email, Domain, Hosting
+Quản lý các Website chạy trên máy chủ công ty (Quản lý các Website chạy trên Hosting thuê (công việc quản trị giống như website chạy trên máy chủ công ty, đảm bảo hosting gia hạn đúng quy định, phối hợp đơn vị cung cấp xử lý các vấn đề phát sinh)
+Quản lý domain (bảo mật tài khoản quản trị, cập nhật cấu hình khi cần thay đổi dịch vụ, theo dõi gia hạn dịch vụ tránh mất tên miền)
+Quản lý Email (thêm, sửa, xóa tài khoản và nhóm email) khi có nhân sự mới vào hoặc nhân sự nghỉ việc ngay khi nhận được thông báo nhân sự mới hoặc thông báo chấm dứt hợp đồng lao động
+Quy định cụ thể về việc sử dụng tài khoản email trong Công ty
+Hỗ trợ IT các phòng/ban
+Quản trị hệ thống máy tính bàn, laptop, máy in, máy photo…
+Xử lý các sự cố phát sinh: hệ điều hành, ứng dụng, diệt virus…
+Theo dõi và đề xuất khi cần nâng cấp hoặc thay mới phần cứng, phần mềm (nâng cao hiệu suất sử dụng)
+Hỗ trợ xử lý các phần mềm nghiệp vụ: phần mềm kế toán, phần mềm quản lý nhân sự
+Trao đổi các vấn đề liên quan chuyên môn để nâng cao tính bảo mật, sử dụng hiệu quả máy tính và các ứng dụng phần mềm…
+Hỗ trợ chuyên môn khi diễn ra các sự kiện của công ty
+Chuẩn bị các thiết bị tại phòng họp, hoặc các sự kiện khác của Công ty
+Nghiên cứu và ứng dụng các công nghệ mới
+Theo dõi thường xuyên công nghệ mới trên các website, Forum…
+Nghiên cứu, thử nghiệm và áp dụng cho hệ thống của Công ty
+Đề xuất Banh lãnh đạo phướng án khi quy mô áp dụng và thay đổi lớn trong hệ thống
+Hỗ trợ các dự án ứng dụng phần mềm tại các phòng ban
+Liên hệ các đơn vị cung cấp
+Phối hợp nhân sự phụ trách nghiệp để trao đổi vấn đề chuyên môn
+Đánh giá và đàm phán chi phí vơi đơn vị cung cấp
+Đào tạo nội bộ về các nội dung CNTT thuộc lĩnh vực phụ trách đối với các bộ phận liên quan
+Công việc khác theo yêu cầu của lãnh đạo phòng
+Yêu cầu công việc
+Bằng cấp: Tốt nghiệp đại học chính quy chuyên nghành Điện tử Viễn thông, Công nghệ Thông tin.
+Kiến thức: Am hiểu chuyên chuyên sâu về hệ thống SYSTEM & NETWORK
+Chứng chỉ:
+Tiếng Anh, CCNA, MCSA, IBM, HP, DELL, CCNP…
+Kinh nghiệm:
+Kinh nghiệm về SYSTEM & NETWORK
+ü Hiểu biết về hạ tầng thiết bị mạng
+ü Hiểu biết sâu về các giao thức mạng như SNMP, Syslog, NAT, DHCP, DNS, BGP, TCP/IP, UDP, RIP, OSFF, RSVP, PIM, IGMP, VLAN,MSDP,IGRP,LDP,..
+ü Hiểu biết về an ninh mạng bao gồm cả cấu hình tưởng lửa.
+ü Sử dụng hệ điều hành windows, Linux.
+ü Có khả năng thiết kế hệ thống mạng
+ü Có khả năng làm việc độc lập hoặc theo nhóm.
+ü Có khả năng giao đọc hiểu tài liệu tiếng anh.
+ü Chăm chỉ, nhanh nhẹn, có nhiệt huyết và tận tuy với công việc
+Quản trị hạ tầng thiết bị IT gồm server, switch, router
+Chế độ đãi ngộ
+Chế độ đãi ngộ xứng đáng với năng lực chuyên môn và hiệu quả công việc;
+Làm việc trong một môi trường ổn định, chuyên nghiệp, thân thiện, nhân văn, cơ hội được làm quen với công việc thực tế; được đào tạo các kỹ năng mềm khác.
+Hưởng một số chính sách phúc lợi: Khám sức khỏe định kỳ, nghỉ mát, sinh nhật, các ngày Lễ/ Tết theo quy định của Nhà nước
+Nghỉ ngày Chủ Nhật, ngày lễ tết và nghỉ phép theo quy định của công ty Giới tính: Không yêu cầu Cấp bậc: Chuyên viên Loại hình: Hành chính Kinh nghiệm: Dưới 1 năm Số lượng: 1 Địa điểm làm việc: Quảng Ninh Mức lương: 8 - 12 triệu Hạn nộp hồ sơ: 15/02/2026 Thông tin liên hệ Tên người liên hệ: Ms. Thảo Email: vpvandon@ceogroup.com.vn Điện thoại: 0888058754 Điện thoại di động: 0888058754",,linkedin
+IT Engineer,CNK Consulting Vietnam,,"Bac Giang, Bac Giang, Vietnam",700.0,1000.0,USD,,"['Java', 'SQL', 'Windows Server', 'Firewall', 'VPN']",Full-time,Not Applicable,2026-02-15,,"Job Description
+Vị trí: Kỹ sư IT
+Mức lương: 700-1000 USD
+Địa điểm: Bắc Giang
+Mô Tả Công Việc
+Duy trì và quản lý hệ thống mạng CNTT của công ty.
+Quản lý máy chủ và các thiết bị CNTT khác, bao gồm bảo trì hệ thống, sao lưu, nâng cấp và thiết lập ứng dụng mới.
+Cấu hình thiết bị mạng, hệ điều hành, cơ sở dữ liệu và máy chủ của công ty.
+Đảm bảo an toàn hệ thống bằng cách quản lý phần mềm diệt vi-rút, nâng cấp hệ điều hành và thực hiện các biện pháp bảo mật.
+Tối ưu hóa tài nguyên để đáp ứng hiệu quả các yêu cầu kinh doanh.
+Hướng dẫn và đào tạo người dùng về phần cứng và phần mềm.
+Đề xuất cải tiến chương trình và quy trình để đơn giản hóa hoặc nâng cao hiệu suất hoạt động.
+Phát triển ứng dụng (Java hoặc C#) theo yêu cầu của người dùng.
+Quản lý và duy trì cơ sở dữ liệu.
+Yêu Cầu
+Tốt nghiệp đại học chuyên ngành liên quan.
+Hơn 2 năm kinh nghiệm làm việc trong lĩnh vực CNTT, đặc biệt trong bộ phận hỗ trợ CNTT, ưu tiên ứng viên có kinh nghiệm tại công ty đa quốc gia.
+Thành thạo tiếng Trung giao tiếp.
+Am hiểu về MS Windows Server 2008, AD, DNS, DHCP, IIS, FTP, VPN, Exchange Server, SQL, Firewall, Router.
+Có kinh nghiệm quản lý hệ thống thông tin (IS) và có khả năng cung cấp giải pháp tổng thể.
+Thành thạo các kỹ thuật bảo mật mạng và có thể triển khai giải pháp mạng toàn diện.
+Có kinh nghiệm thiết lập, cấu hình, sao lưu và khôi phục SQL Server.
+Ưu tiên ứng viên có kinh nghiệm phát triển Java hoặc C#.
+Sẵn sàng làm việc theo ca nếu có yêu cầu.
+Chế Độ Công Việc
+Thời gian làm việc: Thứ 2- Thứ 6 (8:00 AM 5:00 PM)
+13 tháng lương+ thưởng theo doanh thu
+BHXH đóng full lương, 12 ngày nghỉ phép/ năm
+Required Skills
+SQL Server FTP Windows Server C# Windows Java SQL",,linkedin
+CHIEF TECHNOLOGY OFFICER,CNK Consulting Vietnam,,"Hanoi, Hanoi, Vietnam",,,,5.0,"['Scala', 'AI']",Full-time,Not Applicable,2026-06-08,,"Our client
+, a leading technology company in Vietnam, is undergoing a major transformation. They are expanding beyond traditional software to offer AI‑as‑a‑Service and Agent‑as‑a‑Service, serving hundreds of thousands of enterprises, government agencies, and business households.
+They are seeking a
+CTO
+who can:
+Drive long‑term technology strategy to position the company as a regional leader in AI and Agentic AI.
+Build large‑scale AI and data platforms that create sustainable competitive advantages.
+Modernize system architecture to serve millions of users with high reliability and performance.
+Develop a strong engineering organization that scales quickly, delivers fast, and continuously learns.
+I. KEY RESPONSIBILITIES
+Provide leadership and direction for technology strategy, roadmap, system architecture, and data infrastructure.
+Ensure the company remains a technology leader in Vietnam and the region.
+Proactively adopt global technology trends to create business competitive advantages and improve customer operational efficiency.
+II. CORE FUNCTIONS
+1. AI Strategy
+Define strategic direction, research, and execution to keep AI solutions cutting‑edge.
+Deliver clear, practical value to customers through AI applications.
+2. Data Governance
+Build and manage a comprehensive data ecosystem (collection, storage, utilization).
+Use data as the foundation for AI development and to support leadership decision‑making.
+3. System Architecture
+Design and standardize modern system architecture.
+Ensure system components work cohesively with strong scalability and high performance.
+4. Team Development
+Foster a continuous learning culture.
+Standardize development processes, competency frameworks, and training programs.
+Elevate the overall technical capability of the organization.
+III. CANDIDATE PROFILE
+A. Required Qualifications
+Strong intelligence, logical thinking, creativity, and decisiveness.
+Minimum 5 years of experience as a CTO (or equivalent) in large technology companies (500+ software engineers), either domestic or international.
+Proven experience operating systems that serve millions of users and hundreds of thousands of businesses.
+Deep understanding of AI and hands‑on experience building AI products or transforming software products with AI to deliver real user value.
+Bachelor's degree in Computer Science, Information Technology, or a related field.
+Fluent English, with demonstrated experience presenting and speaking at conferences or seminars.
+B. Preferred Qualifications
+Master's or PhD in Computer Science, IT, or related fields.
+Experience working in a product‑driven environment.
+IV. BENEFITS & OPPORTUNITIES
+1. Competitive Compensation
+Highly competitive salary and bonus based on capability and business performance.
+Attractive long‑term incentive policies (to be discussed during interviews).
+2. Career Growth
+Opportunity to learn, research, and apply world‑leading technologies at a top product company in Vietnam.
+Play a key role in shaping long‑term technology strategy and the product ecosystem.
+Work on complex, large‑scale systems serving millions of users.
+Tackle challenging problems in advanced technology and architecture.
+3. Global Exposure
+Represent the company in collaboration with leading domestic and international experts.
+Working location:
+Hanoi, Viet Nam
+Contact:
+ngocyen@cnk-consulting.com.vn / 0399 319 360 (Zalo/Call)
+Note:
+We appreciate all applications; however, only shortlisted candidates will be contacted.",,linkedin
+EUC L1 Engineer,Rapid Systemz,,"Da Nang, Da Nang City, Vietnam",,,,,"['Adobe', 'VPN']",Full-time,Not Applicable,2026-01-16,,"Desktop support for Windows 7 and 10 environments
+Install, Manage and support Windows Operating System, Macbook operating system and mobile device management
+Install desktop OS, messaging client, applications such as Adobe Acrobat , WinZip and engineering software as per requirement, and add or remove accessories, peripherals or mobile devices and configure PCs
+Troubleshoot and resolve desktop incidents
+Manage disk and folder sharing, and permission settings on desktops
+Handle printer problems at users desktops
+Assist users in accessing applications Perform workstation OS patching and Anti- virus patching for workstations which could not be patched via server push-downs
+Assist in providing technical information and knowledge is procurement of IT desktop/laptop equipment
+Provide all installation, un-installations , cascades, moves, adds and Changes for all deskside Equipment, Software and related Services at designated locations
+Deployment/ Refresh and decom of user workstations using images provided or approved by customer
+Manage delivery/shifting/install printers to locations along with Printer partner
+Helpdesk provided to handle 1st Level calls and onsite troubleshooting support
+Handle EUC support for local and overseas users via remote support tools
+Package Software with administrative rights
+Manage application deployment on PC and Mobile devices
+Resolve all incidents in timely manner, according to the appropriate incident Severity Level defined
+Coordinate with Service Desk and provide level 2 and level 3 support to Service desk and Users
+Standby support for any Severity 2 incidents
+Handles Apps and MDM deployment
+Manage Symantec AV server
+Mann the VIP standby mobile phone
+VPN & NAS configurations",,linkedin
+Information Technology Technician (IT Technician),XP Power,,"Binh Duong, Vietnam",,,,2.0,"['Linux', 'Active Directory', 'Networking']",Full-time,Mid-Senior level,2026-06-09,,"Job Description
+Position Summary:
+The
+IT Technician and helpdesk
+specialist joins the IT Support team to maintain computer networks, software, and hardware across the organization. This role is critical in providing timely technical support and helpdesk services, with a primary focus on supporting
+production lines
+to ensure operational continuity
+The IT Technician and helpdesk
+will monitor and maintain factory computer systems, telephone systems, IP CCTV system and network infrastructure, while resolving technical issues ticketed through the company IT Ticket system.
+Qualifications
+Education & Experience
+Degree:
+Technical college degree majoring in Electronics or Computer Technical.
+Experience:
+Approximately 2 years of experience in similar positions, with at least 1 years specifically in an IT support role.
+Industry Focus:
+At least 1 years of experience in system, network, and infrastructure support within the Production industry (Joint Venture or Foreign Owned Company preferred).
+Additional information
+Technical Skills
+Endpoint & OS Management:
+Advanced proficiency in Windows 10/11 and Linux environments; hands-on experience managing Windows Active Directory (users, groups, and GPOs).
+Cloud & Productivity:
+Basic-level support for
+Microsoft 365
+(formerly Office 365) and legacy Office 2016 suites support for end user.
+Networking:
+Experience configuring and maintaining
+Cisco Meraki
+(wired/wireless) equipment, managing and troubleshooting general network infrastructure.
+Monitor and troubleshoot the factory’s wired and wireless
+network infrastructure
+using the
+Cisco Meraki.
+Diagnose connectivity issues for IoT devices, barcode scanners, label printers.
+Deploy, replace, and configure Meraki hardware (Access Points, Switches, network cable) as directed by the network engineering team.
+Maintain strong Wi-Fi coverage across high-interference manufacturing zones.
+IT Helpdesk and hardware support:
+Ability to install, troubleshoot, and maintain diverse hardware including
+IP CCTV
+,
+IP Phone systems
+, and Production Machine systems.
+Provide rapid-response technical support for factory staff, resolving hardware, software, and peripheral issues.
+Deploy, configure, and stage new hardware (PCs, ruggedized laptops, industrial printers, and handheld scanners).
+Utilize endpoint management tools to handle automated
+software deployment
+, imaging, and remote configurations.
+Document all incidents, requests, and resolutions accurately in the IT ticketing system.
+Maintain a precise inventory of all IT assets on the factory floor.
+Soft Skills & Professional Qualities
+Accountability:
+High sense of integrity and a meticulous
+attention to detail
+when documenting issues and performing system maintenance.
+Communication:
+Strong interpersonal skills with the ability to translate technical jargon into simple terms for non-technical users. Clear, patient communication skills with both floor operators and corporate IT teams.
+Urgency & Adaptability:
+Ability to thrive in a fast-paced, high-pressure manufacturing environment where downtime equals lost revenue.
+Culture Fit:
+Dedicated professional whose work ethics align with our
+Company Core Values
+.
+CCNA, MCSA is prefferred.",,linkedin
+Technical Manager (Technical Leader) (IT & Digital transformation),Olik Global,,"Ho Chi Minh City, Vietnam",,,,,"['AI', 'API']",Full-time,Not Applicable,2026-05-16,,"On-site - Full time
+Ho Chi Minh City, Vietnam
+Tổng quan công ty: Công ty đang mở rộng team IT nội bộ nhằm đáp ứng nhu cầu số hóa toàn diện hoạt động quản lý, vận hành và kinh doanh. Chúng tôi tìm kiếm những ứng viên có tư duy hệ thống, tinh thần chủ động và mong muốn xây dựng các sản phẩm công nghệ có giá trị thực tiễn.
+Mô tả công việc:
+Dẫn dắt và quản lý team IT, chịu trách nhiệm cho dự án công nghệ tại công ty
+Làm việc trực tiếp với Ban lãnh đạo và các phòng ban để phân tích nhu cầu business, xác định mục tiêu, phạm vi dự án
+Lập kế hoạch triển khai dự án bao gồm: scope, timeline, ngân sách, nhân sự và quản lý rủi ro
+Phối hợp với các nhân sự phòng ban, team IT để xây dựng và phát triển xuyên suốt vòng đời dự án
+Theo dõi tiến độ, đảm bảo chất lượng đầu ra và báo cáo định kỳ cho Ban Giám đốc
+Requirements
+Yêu cầu công việc:
+Tối thiểu 4-6 năm kinh nghiệm ở vị trí Technical Manager/Technical Leader trong lĩnh vực IT
+Có kinh nghiệm triển khai hệ thống nội bộ, platform doanh nghiệp, số hóa hoạt động vận hành của doanh nghiệp
+Kỹ năng giao tiếp tốt, quản lý stakeholder hiệu quả, tư duy business và giải quyết vấn đề
+Có khả năng làm việc chặt chẽ với cả business team và technical team
+Có kinh nghiệm làm việc với các GenAI models/API (ví dụ: OpenAI API, Claude API, Gemini, hoặc các LLM tương đương), hiểu cách ứng dụng GenAI vào sản phẩm và quy trình doanh nghiệp
+Ưu tiên ứng viên có kinh nghiệm trong chuyển đổi số, dữ liệu và AI
+Benefits
+Phúc lợi, chế độ:
+Tham gia các dự án chiến lược, có ảnh hưởng trực tiếp đến hoạt động và tăng trưởng của công ty
+Môi trường làm việc linh hoạt, được trao quyền, chủ động trong quyết định và định hướng kỹ thuật
+Chế độ lương thưởng, phúc lợi theo chính sách công ty","Phúc lợi, chế độ:
+Tham gia các dự án chiến lược, có ảnh hưởng trực tiếp đến hoạt động và tăng trưởng của công ty
+Môi trường làm việc linh hoạt, được trao quyền, chủ động trong quyết định và định hướng kỹ thuật
+Chế độ lương thưởng, phúc lợi theo chính sách công ty",linkedin
+IT Support Intern,SolarEdge Technologies,,"Củ Chi, Ho Chi Minh City, Vietnam",,,,,"['Scala', 'Linux', 'Networking', 'Firewall']",Volunteer,Not Applicable,2026-06-08,,"Provide first-level IT support for office users and production-related needs.
+Support troubleshooting of hardware, software, and basic networking issues.
+Assist in supporting production line equipment from the IT infrastructure side.
+Support system monitoring, maintenance, and backup activities.
+Assist in documenting system changes, layouts, and IT procedures.
+Provide professional and friendly support to internal users.
+Serve as the first point of contact for users seeking technical assistance via phone, email, or ticketing systems.
+Support remote troubleshooting through diagnostic techniques and guided problem-solving.
+Escalate unresolved issues to senior IT support personnel when necessary.
+Record incidents, issues, and resolutions accurately in IT logs or systems.
+Follow up with users to ensure issues are resolved in a timely manner.
+Support continuous improvement initiatives for IT processes and procedures.
+Perform other tasks assigned by the supervisor.
+Requirements:
+Final-year students or fresh graduates in Information Technology, Computer Science, Network Administration, or related fields.
+Comfortable communicating in English in a professional environment.
+Basic knowledge of computer hardware and Windows operating systems; Linux knowledge is a plus.
+Basic understanding of LAN/networking concepts.
+Strong willingness to learn and develop technical skills.
+Good communication skills and teamwork mindset.
+Good analytical and troubleshooting abilities.
+Previous internship or exposure to manufacturing environments is an advantage.
+Knowledge of backup software, Cisco switches, or FortiGate firewalls is a plus, but not mandatory.",,linkedin
+Lập trình viên IT,Công ty Cổ phần Viễn thông 3G,,"Hanoi, Hanoi, Vietnam",,,,,"['Python', 'Java', 'JavaScript', 'SQL']",Full-time,Not Applicable,1 year ago,,"Mô tả công việc
+Giới thiệu chung về vị trí:
+Lập trình viên trong viễn thông chính là những người thổi hồn vào các dịch vụ giá trị gia tăng trên di động. Người lập trình sử dụng công cụ là các ngôn ngữ lập trình cơ bản như JavaScript, C, Sql, … để xây dựng nên những sản phầm dịch vụ hoàn thiện, đáp ứng nhu cầu ngày càng cao của khách hàng
+Mô tả công việc:
+Phân tích thiết kế hệ thống
+Lập trình các giải pháp thông tin cho người sử dụng bằng cách phát triển, triển khai, và bảo trì các phần mềm
+Triển khai các dự án công nghệ thông tin: khảo sát, lắp đặt, cấu hình, nghiệm thu
+Hỗ trợ kỹ thuật, ứng cứu, xử lý các sự cố
+Lập tài liệu xây dựng hệ thống và tài liệu hướng dẫn người sử dụng
+Nghiên cứu sử dụng các giải pháp phần mềm phục vụ cho việc kinh doanh, quản lý
+Yêu cầu:
+Là SV tốt nghiệp chuyên ngành CNTT của các trường ĐH, CĐ trên cả nước. Khuyến khích SV mới ra trường
+Không yêu cầu kinh nghiệm
+Thành thạo một hoặc một số các ngôn ngữ lập trình như Java, JavaScript, Python, SQL (Vì Công ty mình làm chủ yếu bên Viễn thông nên Code rất đơn giản)
+Hiểu biết tốt về jQuery, Nodejs
+Công ty sẽ training trước khi vào dự án.
+Có đam mê khám phá kỹ thuật, yêu thích lĩnh vực lập trình.
+Chế độ:
+Mức thu nhập thỏa đáng theo năng lực làm việc
+Thử việc 2 tuần – 1 tháng: Lương cứng 6tr/tháng
+% DT
+trợ cấp
+Ký hợp đồng sau thử việc: 8tr-10tr/tháng
+% DT
+trợ cấp
+Được đóng đầy đủ BHXH, BHYT, BHTN chế độ nghỉ lễ, nghỉ phép theo luật lao động
+Được đào tạo và làm việc trong môi trường chuyên nghiệp, có cơ hội thăng tiến.
+Các hoạt động giao lưu văn hóa tinh thần, quan tâm, hỗ trợ của Công ty.
+Cao đẳng",,linkedin
+Information Technology Manager,Confidential Jobs,,"Ho Chi Minh City, Vietnam",,,,8.0,"['Go', 'Scala', 'Machine Learning', 'AI', 'SAP', 'Networking', 'Security', 'Cybersecurity']",Full-time,Mid-Senior level,2026-06-15,,"Position Summary
+The IT Manager is responsible for leading the company's overall information technology strategy, digital transformation initiatives, enterprise systems, cybersecurity, and IT operations. Reporting directly to the CEO, this role plays a critical part in aligning technology with business objectives, driving innovation through Artificial Intelligence (AI), and optimizing business processes through SAP and other enterprise applications.
+The successful candidate will act as both a strategic technology leader and a hands-on manager, ensuring reliable IT services while identifying opportunities to improve operational efficiency, productivity, and data-driven decision-making.
+Key Responsibilities
+IT Strategy & Digital Transformation
+Develop and execute the company's IT roadmap aligned with business growth objectives.
+Advise the CEO and leadership team on technology trends, opportunities, and risks.
+Lead digital transformation initiatives to improve business performance and operational efficiency.
+Identify and implement innovative technology solutions, including AI and automation tools.
+Artificial Intelligence (AI) & Data Analytics
+Drive the adoption and integration of AI technologies across business functions.
+Evaluate, implement, and manage AI solutions to enhance productivity, decision-making, and customer experience.
+Collaborate with stakeholders to identify use cases for AI, machine learning, predictive analytics, and process automation.
+Establish governance, security, and ethical guidelines for AI implementation.
+SAP & Enterprise Systems Management
+Oversee SAP implementation, optimization, maintenance, and support activities.
+Ensure SAP modules effectively support business operations and reporting requirements.
+Manage system enhancements, upgrades, integrations, and user adoption.
+Collaborate with business stakeholders to continuously improve ERP processes and data quality.
+IT Operations & Infrastructure
+Manage IT infrastructure, networks, cloud services, servers, databases, and end-user support.
+Ensure high system availability, reliability, scalability, and performance.
+Establish and maintain disaster recovery and business continuity plans.
+Monitor IT service levels and continuously improve IT support processes.
+Cybersecurity & Compliance
+Develop and enforce IT security policies, standards, and procedures.
+Ensure compliance with applicable regulations, cybersecurity requirements, and company policies.
+Lead cybersecurity risk assessments, audits, and remediation initiatives.
+Implement security monitoring and incident response measures.
+Vendor & Project Management
+Manage relationships with external vendors, consultants, and technology partners.
+Lead IT projects from planning through implementation and post-go-live support.
+Control IT budgets, contracts, software licenses, and technology investments.
+Ensure projects are delivered on time, within scope, and within budget.
+Leadership & Stakeholder Management
+Build, lead, and develop a high-performing IT team.
+Partner with department heads to understand business needs and translate them into technology solutions.
+Promote a culture of innovation, continuous improvement, and data-driven decision-making.
+Qualifications
+Bachelor's degree in Information Technology, Computer Science, Information Systems, Engineering, or a related field.
+Minimum 8–10 years of progressive IT experience, including at least 3–5 years in a managerial or leadership role.
+Demonstrated experience leading AI, automation, or digital transformation initiatives.
+Experience with AI platforms, machine learning applications, automation tools, and data analytics solutions.
+Solid understanding of IT infrastructure, cloud computing, cybersecurity, networking, and databases.
+Knowledge of ERP implementation and system integration methodologies.",,linkedin
+Nhân viên IT - Quận 12,Công Ty TNHH Thiết Bị Minh Tâm,,"Ho Chi Minh City, Ho Chi Minh City, Vietnam",,,,,[],Full-time,Not Applicable,2026-04-16,,"Mô tả công việc
+Quản lý và xử lý toàn bộ hệ thống Công Nghệ Thông Tin (máy vi tính, máy in, mạng, hệ thống camera, điện thoại, fax,…) tại công ty.
+Cài đặt, sửa chữa, bảo trì hệ thống máy tính, hệ thống mạng.
+Quản lý các hệ thống server, triển khai thực hiện các công việc kỹ thuật liên quan.
+Quản lý hệ thống thông tin nội bộ: Dữ liệu, email, web nội bộ, phần mềm, internet, điện thoại, hệ thống có tích hợp thiết bị …
+Phối hợp nghiên cứu xây dựng các phần mềm mới góp phần cho sự phát triển của công ty
+Bảo mật dữ liệu cũng như hệ thống Công Nghệ Thông Tin.
+Giao nhận, kiểm tra thiết bị Công Nghệ Thông Tin của công ty
+Thực hiện các công việc theo chỉ đạo của trưởng phòng và Ban Giám Đốc
+Cao đẳng",,linkedin
+Data Center Technician - Da Nang - On-site,Reboot Monkey,,"Đà Nang, Da Nang City, Vietnam",,,,,"['Linux', 'Excel', 'Networking', 'Firewall', 'Security']",Other,Entry level,2026-03-17,,"Reboot Monkey is a global leader in IT solutions, specializing in data center management that simplifies your IT operations. We provide hosting space, future-proof upgrades, and 24/7 support through our smart or remote hands, ensuring seamless, secure, and sustainable service. Our fully remote, round-the-clock management frees businesses from supervision hassles, setting new benchmarks in data center solutions. We’re seeking skilled Freelance Data Center Technicians to join our growing team. If you have expertise in data center operations and want flexible work, we’d love to hear from you.
+Job Overview:
+As a Freelance Data Center Technician,
+you will play a key role in delivering on-demand support to our global data centers. Your responsibilities will include hardware installation, troubleshooting complex issues, and managing network operations, ensuring optimal performance and reliability. We’re looking for someone with deep expertise in data center equipment and software who can work independently while collaborating with remote teams. In this role, you’ll be essential to maintaining smooth, secure, and efficient data center operations, contributing to our high standards of service excellence.
+Key Responsibilities:
+Install, configure, and maintain servers, networking equipment, and other hardware to ensure optimal performance and maximum uptime, facilitating seamless operations within the data center.
+Monitor data center operations both remotely and on-site, quickly diagnosing and resolving hardware, software, and connectivity issues to minimize downtime and maintain service reliability.
+Configure, manage, and troubleshoot networking devices, including Cisco and Juniper routers, switches, and firewalls, to ensure secure and efficient network operations that align with organizational standards.
+Manage and troubleshoot both Linux and Windows-based systems, performing essential updates, patches, and security enhancements to keep systems secure and up-to-date.
+Document all installations, repairs, maintenance tasks, and system performance, providing comprehensive reports to the remote management team to ensure transparency and accountability in operations.
+Implement and maintain security protocols to protect the integrity of the data center infrastructure, ensuring compliance with industry standards and best practices for data security.
+Collaborate with remote IT teams, vendors, and stakeholders to enhance data center operations, actively participating in the planning and execution of projects that drive efficiency and innovation.
+What We Offer:
+Flexibility: Work around your existing freelance or permanent job. You choose the tickets you want to pick up, with no minimum hour commitment.
+Professional Environment: Join a professional work environment where you can reconnect with the practical side of IT.
+Competitive Compensation: We offer competitive rewards for your compensation and efforts.
+Growth Opportunities: Work with compelling clients and seize opportunities to grow in your field.
+Data center or IT infrastructure experience
+Server hardware and networking knowledge
+Reliable and professional with strong communication
+Proximity to local data center facilities
+Flexible schedule for on-call/emergency work","Flexibility: Work around your existing freelance or permanent job. You choose the tickets you want to pick up, with no minimum hour commitment.
+Professional Environment: Join a professional work environment where you can reconnect with the practical side of IT.
+Competitive Compensation: We offer competitive rewards for your compensation and efforts.
+Growth Opportunities: Work with compelling clients and seize opportunities to grow in your field.
+Data center or IT infrastructure experience
+Server hardware and networking knowledge
+Reliable and professional with strong communication
+Proximity to local data center facilities
+Flexible schedule for on-call/emergency work",linkedin
+"(Senior/Middle) System Administrator
+Ho Chi Minh City, Ho Chi Minh City, Vietnam",Investigative Case Management powered by Tapestrii,,"Ho Chi Minh City, Ho Chi Minh City, Vietnam",,,,,"['Scala', 'AWS', 'Azure', 'Linux', 'Windows Server', 'REST', 'ITIL', 'Active Directory', 'Hyper-V', 'Networking', 'VPN', 'Security']",Full-time,Not Applicable,2026-06-12,,"Summary
+Join Aperia Solutions, a leader in SaaS solutions for the Payments and Compliance industries. Aperia is a Texas-based fintech and managed consultancy firm that creates custom SaaS applications and other software-based solutions for the payments, banking, and processing industry. Founded in 1999, Aperia offers business intelligence, risk management, compliance, and customer intelligence platforms. With offices in Dallas, Washington DC, and Vietnam, Aperia is a fast-paced, global organization that strives to improve efficiency in compliance, risk, and customer service operations. Aperia’s clients include banks, processors, payment facilitators, merchant service providers, independent sales organizations, and government entities. A career at Aperia promises a great challenge, culture, and opportunities to forge your own path.
+Job Description
+At Aperia, we rely on a dynamic team of IT. We’re seeking a System Administrator who is ready to work with new technologies and architectures in a forward-thinking organization that’s always pushing boundaries. This person will have mainly System/Infrastructure responsible. The ideal candidate is also able to support for Network/Security areas and Help Desk tasks if necessary.
+Core Responsibilities
+Manage incident reports, update ticket information, and restore or fulfill IT service requests within operational and service level agreements.
+Analyze issues, collaborate with stakeholders, and resolve root causes for recurring problems.
+Create, implement, and document authorized changes, and participate in CAB meetings as needed.
+Support managed IT services through flexible shift coverage, including on-call and on-site support when required.
+Functional Responsibilities
+Help keep IT operations running smoothly by following standards, improving processes, and partnering with internal teams.
+Share knowledge, support training, and contribute to a collaborative, high-accountability team culture.
+Work with vendors and technical experts during escalations and support smooth service transitions.
+Jump into projects and team priorities as needed.
+Technical Skills
+You bring strong hands-on systems administration experience, backed by certification or equivalent real-world expertise in enterprise environments, and effective English communication skills.
+Cloud and infrastructure
+Technical expertise with Hyper-V, Windows Clustering, Storage area networks (SAN).
+Full understanding and hands-on with Azure.
+Experience with Entra ID, MFA, Exchange cloud and email, Sharepoint, and Teams.
+Intune MDM device management.
+Security awareness including SSL certificates, encryption, and adherence to InfoSec policies.
+Enterprise support
+Core infrastructure services such as Active Directory, DNS, DHCP, Microsoft 365, and file sharing.
+Microsoft Windows Server and desktop patching.
+Microsoft IIS, SSL,
+Server hardware, end-user devices, and everyday enterprise support tools.
+Networking fundamentals including LAN, WAN, VPN, wireless, and load balancing.
+Endpoint protection, MFA, and monitoring platforms.
+Things that will separate you from the rest
+Amazon AWS (limited).
+Linux fundamentals.
+Familiarity with ITIL and ticketing tools such as Zendesk.
+Experience in a multi-client or managed services environment.
+Education or Certifications
+Certified or experienced 5+ years (MCSA, MCSE, CCNA, CCNP...)
+Job Type
+Full-Time
+Schedule
+Monday to Friday
+Work Location
+The Six8 Building, 24-26 Phan Dinh Giot Street, Ward 2, Tan Binh District, HCMC
+Benefits
+Competitive Salary Package – Enjoy a rewarding income from day one.
+Security from the Start – Full salary during probation plus complete social insurance coverage.
+Premium Health Insurance – Comprehensive protection for you and your loved one (spouse/children).
+Family-Friendly Benefits – Monthly childcare support to make parenting easier.
+Generous Leave Policies – 15 days annual leave, 6 weeks paternity leave, and 10 days bereavement leave.
+Active Lifestyle – Join our vibrant clubs: Football, Billiards, Badminton, and E-sports.
+This job description is not intended to be all-inclusive. An employee may also perform other reasonable related business duties as assigned by their immediate supervisor or management. Principals only.
+Recruiters please don't contact this job poster. DO NOT contact us with unsolicited services or offers.","Competitive Salary Package – Enjoy a rewarding income from day one.
+Security from the Start – Full salary during probation plus complete social insurance coverage.
+Premium Health Insurance – Comprehensive protection for you and your loved one (spouse/children).
+Family-Friendly Benefits – Monthly childcare support to make parenting easier.
+Generous Leave Policies – 15 days annual leave, 6 weeks paternity leave, and 10 days bereavement leave.
+Active Lifestyle – Join our vibrant clubs: Football, Billiards, Badminton, and E-sports.
+This job description is not intended to be all-inclusive. An employee may also perform other reasonable related business duties as assigned by their immediate supervisor or management. Principals only.
+Recruiters please don't contact this job poster. DO NOT contact us with unsolicited services or offers.",linkedin
+IT NETWORK,GMO-Z.com RUNSYSTEM JSC.,,"Đà Nang, Da Nang City, Vietnam",,,,,"['.NET', 'Unix', 'VPN']",Full-time,Not Applicable,2025-09-18,,"Level: Junior
+Khối: Back Office
+Hạn ứng tuyển: 31/07/2025
+Trạng thái: Inactive
+Số lượng tuyển: 2
+Thu nhập:
+Địa điểm: Đà Nẵng
+Nội dung công việc
+Quản lý mạng nội bộ của công ty bao gồm hệ thống dây, hệ thống các thiết bị mạng.
+Đưa ra các giải pháp khắc phục nhằm đảm bảo tính bảo mật và thông suốt nội bộ trong các phòng ban.
+Khắc phục sự cố về mạng.
+Kiểm tra và cài đặt phần mềm cần thiết cho các thiết bị máy móc.
+Hỗ trợ cài đặt các phần mềm liên quan đến công việc.
+Kiểm tra và xử lý các sự cố liên quan đến máy tính.
+Yêu cầu công việc
+Yêu cầu công việc
+Hiểu biết về phần cứng máy tính, biết đánh giá hiệu năng của các thành phần phần cứng như Ram Bus…
+Có khả năng xử lý các vấn đề về mạng không dây, khắc phục nhiễu tần số mạng không dây.
+Thành thạo các phần mềm mã mở trên unix dùng cho quản trị mạng nội bộ.
+Có kinh nghiệm về xử lý sự cố máy tính, internet.
+Có kinh nghiệm về cài đặt và quản trị VPN.
+Kinh nghiệm
+Kinh nghiệm IT Network từ 1 năm trở lên.
+Yêu cầu khác
+Tốt nghiệp Đại học/Cao Đẳng ngành Công nghệ thông tin.
+Kỹ năng giải quyết vấn đề độc lập, chịu được áp lực cao, làm việc nhóm tốt.
+Cầu thị trong công việc, có tinh thần trách nhiệm cao, mong muốn gắn bó lâu dài.
+Chế độ đãi ngộ
+Xét tăng lương 1 lần/ năm, có thể được xét tăng sớm tùy thuộc vào năng lực và hiệu quả công việc.
+Thưởng tháng lương thứ 13, thưởng dự án và các loại thưởng khác (thưởng thành tích, thưởng cá nhân xuất sắc, thưởng đạt chứng chỉ Tiếng Nhật...).
+Được làm việc trực tiếp với các khách hàng Nhật Bản. Cơ hội Onsite tại Nhật Bản.
+Được hưởng các phúc lợi khác như: Team-building hàng tháng, nghỉ mát hàng năm, khám sức khỏe định kỳ...
+Tất cả chế độ theo quy định của Pháp luật Lao động Việt Nam (BHXH, BHYT, BHTN, ...).
+Nghỉ phép năm và các ngày nghỉ lễ Tết khác theo quy định của nhà nước Việt Nam.
+Làm việc từ thứ 2 đến thứ 6.
+Môi trường làm việc trẻ trung, năng động.
+Liên hệ
+Thông Tin Hồ Sơ
+Gửi CV kèm ảnh và tiêu đề mail theo cấu trúc: [Tên Job_Tên ứng viên]
+Thông Tin Nộp Hồ Sơ
+Mail: dunglp@runsystem.net/vyptv@runsystem.net
+Người liên hệ: Ms.Dung/Ms.Vy - 0236.3.886.066
+Địa Điểm
+Địa chỉ: Số 1 Ngô Huy Diễn, Hòa Xuân, Cẩm Lệ, Đà Nẵng.
+Thông tin ứng tuyển
+Bạn có sẵn CV rồi chứ? Đừng ngại gửi về cho GMO nhé
+*
+Kéo thả file hoặc tải lên
+Cho phép tệp doc, docx, xls, xlsx, ppt, pptx, pdf và lên đến 3mb.
+Tên tập tin không chứa các kí tự đặc biệt như '/', [, *, , ;, '
+Bạn biết đến vị trí này từ đâu?
+*
+- Select - Nhân sự công ty giới thiệu Facebook Forum Linkedin Fanpage công ty Các jobsite tuyển dụng (TopCV, VNW..) Recuiter Khác
+Liên kết của portfolio và hồ sơ mạng xã hội
+Nhân sự tuyển dụng đang hỗ trợ
+*
+- Select - Lương Thị Huệ Trần Thị Thanh Huyền Nguyễn Thị Phương Thuỷ Trần Thị Tuyết Anh Lại Phương Anh Recruiter khác
+Bằng việc nộp hồ sơ ứng tuyển vào các vị trí tuyển dụng của GMO-Z.com RUNSYSTEM, bạn đồng ý cho phép GMO-Z.com RUNSYSTEM sử dụng thông tin cá nhân, xử lý dữ liệu cá nhân của bạn và chấp nhận toàn bộ các quy định được đề cập tại
+*
+Chính sách bảo vệ dữ liệu cá nhân",,linkedin
+Tech Lead / Head of Technology,Saigon Digital,,"Ho Chi Minh City, Ho Chi Minh City, Vietnam",,,,,"['Rust', 'Scala', 'React', 'Next.js', 'AI']",Full-time,Mid-Senior level,2026-06-15,,"APPLICANTS WITH VN Passport ONLY
+Please apply via the following link: https://bit.ly/3Qkv68v
+We will not be managing applicants via LinkedIn.
+Tech Lead / Head of Technology
+About Saigon Digital:
+Saigon Digital is a full-service digital agency focused on driving growth through intelligent use of data, technology, and creative thinking.
+We partner with ambitious brands to solve real business problems, combining web development, UI/UX design, SEO, and AI-driven digital strategies into solutions that actually move the needle.
+We’re a small, high-performance team with a strong growth mindset. Everyone here is hands-on, adaptable, and comfortable working in fast-moving environments where things evolve quickly.
+We value people who bring the right energy, take ownership, and think ahead. Early adopters, problem-solvers, and those who actively explore how new technologies, especially AI, can be applied in real-world scenarios will feel at home here.
+We’re not building for status, we’re building to create impact, for our clients and for the team.
+🔗www.saigon.digital
+Job Overview:
+Location:
+Ho Chi Minh City (Hybrid)
+Company:
+Saigon Digital
+Experience:
+5+ years
+Type:
+Full-time
+Role Overview
+We’re looking for a Tech Lead who can replace the CEO in day-to-day technical decision-making.
+This is not a pure coding role.
+This is a leadership role for someone who understands business problems, translates them into scalable technical solutions, and leads a team to execute with clarity, speed, and quality.
+You will work directly with leadership, own technical direction across projects, and play a key role in how we evolve as an AI-first digital agency.
+What You’ll Own
+1. Technical Leadership
+Take full ownership of technical decisions across all projects
+Define architecture, stack decisions, and best practices
+Ensure we build scalable, maintainable, high-performance systems
+Challenge poor solutions and push for better outcomes
+2. Project Planning & Delivery
+Translate business goals into clear technical plans
+Work with PMs and clients to define scope, timelines, and priorities
+Ensure projects are delivered on time and at high quality
+Identify risks early and solve them proactively
+3. Client Communication
+Join client calls as the technical lead
+Explain complex technical concepts in simple terms
+Build trust with clients through clarity and confidence
+Act as the bridge between business and engineering
+4. Team Leadership & Development
+Lead, mentor, and level up the development team
+Improve code quality, processes, and accountability
+Run code reviews, technical reviews, and architecture discussions
+Build a culture of ownership, speed, and continuous improvement
+5. AI & Innovation
+Drive adoption of AI tools across development workflows
+(Cursor, Copilot, ChatGPT, automation tools, etc.)
+Explore how AI agents can improve:
+Development speed
+Internal processes
+Client solutions
+Push the team to think beyond traditional development
+6. Product & Problem Thinking
+Ask “why are we building this?” before “how do we build it?”
+Understand client business models and goals
+Propose better, smarter solutions, not just execute tasks
+Contribute to new service offerings (AI, SEO, automation, platforms)
+What We’re Looking For
+Core Skills
+5+ years in software development (frontend, backend, or full-stack)
+Strong experience with modern web stacks (React, Next.js, APIs, CMS)
+Experience leading or mentoring developers
+Solid understanding of system architecture and scalability
+Mindset
+Growth-oriented, proactive, and accountable
+Thinks like an owner, not an employee
+Comfortable making decisions without waiting for permission
+Obsessed with improving systems, not just completing tasks
+Communication
+Clear, confident communicator
+Able to simplify complex ideas for clients and teams
+Comfortable in client-facing situations
+AI & Future Thinking
+Actively using AI tools in daily workflow
+Curious about AI agents, automation, and new technologies
+Not afraid to experiment and challenge current ways of working
+What Success Looks Like
+CEO is no longer needed in technical decisions
+Projects run smoother, faster, with fewer issues
+Dev team becomes more structured, accountable, and higher quality
+Clients trust our technical direction without hesitation
+AI is embedded into how we build and operate
+Why Join Saigon Digital
+Work directly with founders and shape the future of the company
+Be part of an agency pushing into AI-first delivery
+High ownership, high impact role
+Opportunity to define how a modern digital agency should operate
+Salary & Growth
+Competitive salary based on experience
+Clear path to Head of Technology / CTO-level leadership
+Performance-based growth and incentives",,linkedin
+Junior IT Technician,TELUS Digital,,"Ward 1, Quang Tri, Vietnam",,,,,"['Rust', 'Swift', 'Windows Server', 'AI', 'Excel', 'Security']",Internship,Not Applicable,2026-06-10,,"Description
+The Junior IT Technician is a crucial role focused on providing prompt and effective direct technical support to all employees by maintaining the stability of IT systems and swiftly resolving issues related to hardware, software, and network connectivity, primarily utilizing a ticketing system. Key responsibilities include system and network administration, IT asset management with inventory and lifecycle tracking, ensuring compliance with IT policies and security protocols, and maintaining accurate IT documentation.
+Key Responsibilities:
+End-User Support: Handle requests via the ticketing system; diagnose and troubleshoot hardware, software, and network issues for laptops, printers, and peripherals.
+System & Network Administration: Manage user accounts and access permissions; perform routine maintenance on network devices and servers; coordinate with vendors for repairs when necessary.
+Asset Management: Monitor the full lifecycle of IT assets (procurement, issuance, maintenance, recovery); conduct monthly inventories and comply with the company's Asset Management SOP.
+Documentation & Reporting: Update technical documentation and FAQs; provide periodic reports on ticket resolution status and recurring incidents to improve service quality.
+Compliance & Security: Ensure adherence to IT security policies and information security standards; report any potential security risks immediately.
+User Training: Guide employees on IT policies and self-service tools; notify staff regarding scheduled system maintenance.
+Qualifications:
+Bachelor's or Associate's degree in Information Technology or a related field.
+Willingness to work in shifts, including weekends or holidays as required (rotating shift, 40 hours/week).
+Proficient in Windows 10, 11, and Windows Server; knowledgeable in computer hardware and on-premise network infrastructure.
+Preference given to candidates with experience providing technical support via multiple channels (email, chat, phone).
+Excellent communication and problem-solving skills; ability to work both independently and as part of a team.
+English B1 - Oral and written comprehension required
+Attitude: Responsible, proactive, and possessing strong professional ethics.
+About Company:
+TELUS Digital is the customer experience transformation partner to the world's most admired brands. Our diverse team weaves data, technology, and human ingenuity to deliver differentiated customer journeys, drive operational effectiveness, and scale AI solutions with meaningful value and positive impact.
+We craft real-world solutions in the moments that matter, from customer acquisition to lifelong loyalty. Enabled by our global reach - spanning 78,000 experts in 33 countries - and deep industry expertise, we help over 600 organizations make the customer experience feel effortless.
+Our solutions span Data & AI, Digital Experience & IT, CX Management and Trust & Safety. At the core of our innovation is Fuel iX™, an enterprise-grade generative AI platform that helps clients safely access and optimize leading LLMs to scale their own AI from pilot to production.
+Equal Opportunity Employer Statement
+At TELUS Digital, we are proud to be an equal opportunity employer and are committed to creating a diverse and inclusive workplace. All aspects of employment, including the decision to hire and promote, are based on applicant's qualifications, merits, competence and performance without regard to any characteristic related to diversity.
+About Company:
+TELUS Digital is the customer experience transformation partner to the world's most admired brands. Our diverse team weaves data, technology, and human ingenuity to deliver differentiated customer journeys, drive operational effectiveness, and scale AI solutions with meaningful value and positive impact.
+We craft real-world solutions in the moments that matter, from customer acquisition to lifelong loyalty. Enabled by our global reach - spanning 78,000 experts in 33 countries - and deep industry expertise, we help over 600 organizations make the customer experience feel effortless.
+Our solutions span Data & AI, Digital Experience & IT, CX Management and Trust & Safety. At the core of our innovation is Fuel iX™, an enterprise-grade generative AI platform that helps clients safely access and optimize leading LLMs to scale their own AI from pilot to production.
+Equal Opportunity Employer Statement
+At TELUS Digital, we are proud to be an equal opportunity employer and are committed to creating a diverse and inclusive workplace. All aspects of employment, including the decision to hire and promote, are based on applicant's qualifications, merits, competence and performance without regard to any characteristic related to diversity.
+Back to previous page",,linkedin
+CHIEF TECHNOLOGY OFFICER,CNK Consulting Vietnam,,"Hanoi, Hanoi, Vietnam",,,,5.0,"['Scala', 'AI']",Full-time,Not Applicable,2026-06-08,,"Our client
+, a leading technology company in Vietnam, is undergoing a major transformation. They are expanding beyond traditional software to offer AI‑as‑a‑Service and Agent‑as‑a‑Service, serving hundreds of thousands of enterprises, government agencies, and business households.
+They are seeking a
+CTO
+who can:
+Drive long‑term technology strategy to position the company as a regional leader in AI and Agentic AI.
+Build large‑scale AI and data platforms that create sustainable competitive advantages.
+Modernize system architecture to serve millions of users with high reliability and performance.
+Develop a strong engineering organization that scales quickly, delivers fast, and continuously learns.
+I. KEY RESPONSIBILITIES
+Provide leadership and direction for technology strategy, roadmap, system architecture, and data infrastructure.
+Ensure the company remains a technology leader in Vietnam and the region.
+Proactively adopt global technology trends to create business competitive advantages and improve customer operational efficiency.
+II. CORE FUNCTIONS
+1. AI Strategy
+Define strategic direction, research, and execution to keep AI solutions cutting‑edge.
+Deliver clear, practical value to customers through AI applications.
+2. Data Governance
+Build and manage a comprehensive data ecosystem (collection, storage, utilization).
+Use data as the foundation for AI development and to support leadership decision‑making.
+3. System Architecture
+Design and standardize modern system architecture.
+Ensure system components work cohesively with strong scalability and high performance.
+4. Team Development
+Foster a continuous learning culture.
+Standardize development processes, competency frameworks, and training programs.
+Elevate the overall technical capability of the organization.
+III. CANDIDATE PROFILE
+A. Required Qualifications
+Strong intelligence, logical thinking, creativity, and decisiveness.
+Minimum 5 years of experience as a CTO (or equivalent) in large technology companies (500+ software engineers), either domestic or international.
+Proven experience operating systems that serve millions of users and hundreds of thousands of businesses.
+Deep understanding of AI and hands‑on experience building AI products or transforming software products with AI to deliver real user value.
+Bachelor's degree in Computer Science, Information Technology, or a related field.
+Fluent English, with demonstrated experience presenting and speaking at conferences or seminars.
+B. Preferred Qualifications
+Master's or PhD in Computer Science, IT, or related fields.
+Experience working in a product‑driven environment.
+IV. BENEFITS & OPPORTUNITIES
+1. Competitive Compensation
+Highly competitive salary and bonus based on capability and business performance.
+Attractive long‑term incentive policies (to be discussed during interviews).
+2. Career Growth
+Opportunity to learn, research, and apply world‑leading technologies at a top product company in Vietnam.
+Play a key role in shaping long‑term technology strategy and the product ecosystem.
+Work on complex, large‑scale systems serving millions of users.
+Tackle challenging problems in advanced technology and architecture.
+3. Global Exposure
+Represent the company in collaboration with leading domestic and international experts.
+Working location:
+Hanoi, Viet Nam
+Contact:
+dat@cnk-consulting.com.vn / 0328031953 (Zalo/Call)
+Note:
+We appreciate all applications; however, only shortlisted candidates will be contacted.",,linkedin
+"Customer Solutions Consultant, Platform, Google Cloud",Google,,Vietnam,,,,6.0,"['Rust', 'Scala', 'GCP', 'AI', 'Security']",Full-time,Not Applicable,2026-06-08,,"Please visit this Google Careers posting for the Vietnamese-translated version of this role.
+Note: Google's hybrid workplace includes remote roles.
+Remote location: Vietnam.
+Minimum qualifications:
+Bachelor's degree or equivalent practical experience.
+6 years of experience with cloud native architecture in a customer-facing or support role.
+Experience with cloud engineering, on-premise engineering, virtualization, or containerization platforms.
+Experience engaging with, or presenting to, technical stakeholders or executive leaders.
+Experience in programming languages, debugging, systems design, prototyping, demos, or customer workshops.
+Preferred qualifications:
+Experience promoting technical solutions in Cloud AI.
+Experience driving the entire business cycle (e.g., defining the delivery and consumption plan and transitioning it for execution).
+Experience with security concepts (e.g., encryption, identity management, access control, attack vectors).
+Experience building technical strategies to uncover new workloads with customers.
+Experience migrating applications and services to cloud platforms.
+About The Job
+The Google Cloud Platform team helps customers transform and build what's next for their business — all with technology built in the cloud. Our products are developed for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. Our teams are dedicated to helping our customers — developers, small and large businesses, educational institutions and government agencies — see the benefits of our technology come to life. As part of an entrepreneurial team in this rapidly growing business, you will play a key role in understanding the needs of our customers and help shape the future of businesses of all sizes use technology to connect with customers, employees and partners.
+As a Platform Customer Solutions Consultant, you will partner with sales teams to differentiate Google Cloud Platform (GCP) to the customers and serve as the customer’s primary technical partner and advisor, engaging in technical-led conversations to understand business issues. You will troubleshoot technical questions and roadblocks, engage in proofs-of-concepts and demos, and use the expertise to architect cross-pillar cloud solutions that solve business issues. You will drive the technical win and define the delivery and consumption plans to engage with technical and business leaders, and present solutions. You will focus on identifying, pursuing, and winning new business workloads and driving engagement within existing ones.
+Google Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise-grade solutions that leverage Google’s technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.
+Responsibilities
+Develop and own the technical account plan and strategy, participate in planning and support the business goals.
+Combine sales, programming, and solutions architecture expertise to prove the value of Google Cloud Platform (GCP) across the portfolio through demos, pilots and workshops.
+Architect cross-pillar solutions, drive technical wins, and define initial delivery plans for customers, and continue to lead the technical engagement in the solution phase.
+Facilitate the post-sales transition by supporting pricing activities and transitioning the final delivery plan to implementation teams.
+Maintain awareness of progress against the delivery plan, provide support to cross-functional teams during ramp, delivery, migration or implementation phases.
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .",,linkedin
+IT Manager (Hanoi),CNK Consulting Vietnam,,"Hanoi, Hanoi, Vietnam",,,,7.0,"['Security', 'Cybersecurity']",Full-time,Not Applicable,2026-05-16,,"Job Description
+Position Summary
+The IT Manager is responsible for managing the company's IT infrastructure, systems, and digital transformation initiatives.
+Key Responsibilities
+Manage IT systems including hospital systems, ERP, and other internal platforms.
+Ensure system stability, cybersecurity, and data protection.
+Lead the IT team and manage daily IT operations.
+Coordinate with vendors and headquarters on system implementation.
+Manage IT infrastructure and technology upgrades.
+Control IT budgets and ensure efficient resource utilization.
+Requirements
+Bachelors degree in Information Technology, Computer Science, or related field.
+Minimum 7 years of IT experience with at least 3 years in a managerial role.
+Experience managing enterprise systems.
+Strong leadership and project management skills.
+Good English communication skills.
+Benefits
+Competitive salary package.
+Professional working environment.
+Opportunities for technology innovation.
+Contact: hang@cnk-consulting.com.vn (Ms. Lia Thu Hang)
+﻿﻿
+Note: ﻿We appreciate all applications; however, only shortlisted candidates will be contacted","Competitive salary package.
+Professional working environment.
+Opportunities for technology innovation.
+Contact: hang@cnk-consulting.com.vn (Ms. Lia Thu Hang)
+﻿﻿
+Note: ﻿We appreciate all applications; however, only shortlisted candidates will be contacted",linkedin
+Data Center Technician - Da Nang - On-site,Reboot Monkey,,"Đà Nang, Da Nang City, Vietnam",,,,3.0,"['Linux', 'Excel', 'VMware', 'Hyper-V', 'Networking', 'Firewall', 'VPN', 'Security']",Full-time,Entry level,2026-03-17,,"Reboot Monkey is a global leader in IT solutions, specializing in data center management that simplifies your IT operations. We provide hosting space, future-proof upgrades, and 24/7 support through our smart or remote hands, ensuring seamless, secure, and sustainable service. Our fully remote, round-the-clock management frees businesses from supervision hassles, setting new benchmarks in data center solutions. We’re seeking skilled Freelance Data Center Technicians to join our growing team. If you have expertise in data center operations and want flexible work, we’d love to hear from you.
+Job Overview:
+As a Freelance Data Center Technician,
+you will play a key role in delivering on-demand support to our global data centers. Your responsibilities will include hardware installation, troubleshooting complex issues, and managing network operations, ensuring optimal performance and reliability. We’re looking for someone with deep expertise in data center equipment and software who can work independently while collaborating with remote teams. In this role, you’ll be essential to maintaining smooth, secure, and efficient data center operations, contributing to our high standards of service excellence.
+Key Responsibilities:
+Install, configure, and maintain servers, networking equipment, and other hardware to ensure optimal performance and maximum uptime, facilitating seamless operations within the data center.
+Monitor data center operations both remotely and on-site, quickly diagnosing and resolving hardware, software, and connectivity issues to minimize downtime and maintain service reliability.
+Configure, manage, and troubleshoot networking devices, including Cisco and Juniper routers, switches, and firewalls, to ensure secure and efficient network operations that align with organizational standards.
+Manage and troubleshoot both Linux and Windows-based systems, performing essential updates, patches, and security enhancements to keep systems secure and up-to-date.
+Document all installations, repairs, maintenance tasks, and system performance, providing comprehensive reports to the remote management team to ensure transparency and accountability in operations.
+Implement and maintain security protocols to protect the integrity of the data center infrastructure, ensuring compliance with industry standards and best practices for data security.
+Collaborate with remote IT teams, vendors, and stakeholders to enhance data center operations, actively participating in the planning and execution of projects that drive efficiency and innovation.
+What We Offer:
+Flexibility: Work around your existing freelance or permanent job. You choose the tickets you want to pick up, with no minimum hour commitment.
+Professional Environment: Join a professional work environment where you can reconnect with the practical side of IT.
+Competitive Compensation: We offer competitive rewards for your compensation and efforts.
+Growth Opportunities: Work with compelling clients and seize opportunities to grow in your field.
+Education:
+Associate or Bachelor's degree in Computer Science, Information Technology, or a related field is preferred but not required.
+Experience:
+3+ years of experience in data center operations, with a strong focus on independent or freelance projects.
+Technical Skills:
+Extensive hands-on experience with Cisco and Juniper networking devices.
+Strong proficiency in managing and troubleshooting Windows and Linux-based systems.
+Solid understanding of networking principles (TCP/IP, DNS, VPN, VLANs).
+Experience with virtualization technologies such as VMware or Hyper-V is a plus.
+Certifications:
+Valid certifications like Cisco CCNA/CCNP, Juniper JNCIA/JNCIS, or CompTIA Linux+ are highly desirable.
+General Requirements:
+Ability to travel to various data center locations on short notice.
+Flexibility to work outside regular hours, including nights and weekends if required.
+Must have access to necessary tools and equipment to perform data center tasks.
+Strong problem-solving skills, with the ability to work independently and remotely.
+Excellent communication skills for collaboration with remote teams.","Flexibility: Work around your existing freelance or permanent job. You choose the tickets you want to pick up, with no minimum hour commitment.
+Professional Environment: Join a professional work environment where you can reconnect with the practical side of IT.
+Competitive Compensation: We offer competitive rewards for your compensation and efforts.
+Growth Opportunities: Work with compelling clients and seize opportunities to grow in your field.
+Education:
+Associate or Bachelor's degree in Computer Science, Information Technology, or a related field is preferred but not required.
+Experience:
+3+ years of experience in data center operations, with a strong focus on independent or freelance projects.
+Technical Skills:
+Extensive hands-on experience with Cisco and Juniper networking devices.
+Strong proficiency in managing and troubleshooting Windows and Linux-based systems.
+Solid understanding of networking principles (TCP/IP, DNS, VPN, VLANs).
+Experience with virtualization technologies su...",linkedin
+[HCM] IT HELPDESK (CỦ CHI),CMC Technology & Solution (CMC TS),,"Xã Các Sơn, Thanh Hoa, Vietnam",,,,,['Networking'],Full-time,Not Applicable,2026-06-09,,"[HCM] IT HELPDESK (Củ Chi)
+MÔ TẢ CÔNG VIỆC
+Theo dõi và xử lý các ticket IT cũng như yêu cầu hỗ trợ kỹ thuật hằng ngày.
+Hỗ trợ kỹ thuật cho người dùng cuối thông qua Microsoft Teams, Zalo, Email hoặc hỗ trợ trực tiếp tại chỗ.
+Cập nhật và ghi nhận đầy đủ thông tin ticket sau khi hoàn tất xử lý.
+Cài đặt, hỗ trợ và xử lý sự cố cho các ứng dụng nội bộ, Microsoft Office và các phần mềm liên quan.
+Kiểm tra, chẩn đoán và khắc phục sự cố phần cứng/phần mềm đối với laptop, desktop, máy in, hệ thống WiFi và các thiết bị CNTT khác.
+Kiểm tra và hỗ trợ thiết bị phòng họp khi phát sinh sự cố.
+Hỗ trợ thiết lập và đảm bảo kết nối cho các cuộc họp nội bộ, họp toàn quốc và họp tại nhà máy.
+Quản lý và hỗ trợ các thiết bị CNTT tại các văn phòng được phân công.
+Phối hợp với các bộ phận liên quan nhằm đảm bảo hệ thống CNTT vận hành ổn định.
+Hỗ trợ giao tiếp tiếng Anh cơ bản với người dùng nước ngoài khi cần thiết.
+YÊU CẦU CÔNG VIỆC
+Ứng viên có 1-2 năm kinh nghiệm ở vị trí IT Helpdesk / IT Support, từng hỗ trợ ở nhà máy là lợi thế lớn.
+Có kiến thức cơ bản về Windows OS, Microsoft 365, Networking, WiFi và máy in.
+Có khả năng xử lý và khắc phục sự cố phần cứng, phần mềm máy tính.
+Kỹ năng giao tiếp tốt, tư duy hỗ trợ khách hàng (customer-oriented mindset).
+Chủ động, có trách nhiệm và tinh thần học hỏi.
+Có khả năng giao tiếp tiếng Anh.
+THU NHẬP
+Mức lương cạnh tranh + phụ cấp dự án (gồm phụ cấp ca làm việc và chế độ nghỉ bù)
+Tổng thu nhập lên tới 13 tháng lương/năm
+Gói phúc lợi tiền mặt 9 triệu/năm vào các dịp Lễ, Tết, Sinh nhật Tập đoàn...
+Xét tăng lương theo năng lực và kết quả công việc định kỳ 1 lần/năm.
+CHẾ ĐỘ ĐÃI NGỘ
+Đóng BHXH đầy đủ và BH sức khỏe CMC Care ngay khi ký Hợp đồng chính thức
+Nghỉ phép: 12 ngày/ năm + 1 ngày nghỉ hưởng lương vào dịp sinh nhật bản thân
+Được tham gia các chương trình đào tạo chuyên môn, nghiệp vụ từ cơ bản đến nâng cao.
+Được trang bị laptop/thiết bị công nghệ trong quá trình làm việc
+Môi trường trẻ, năng động và chuyên nghiệp
+Tham gia Team building và các hoạt động văn hóa đa dạng
+Được vinh danh các giải thưởng năm của Tập đoàn CMC, CMC TS và khen thưởng trên các thành tích xuất sắc (dự án, kinh doanh, quản trị)
+Nộp đơn ứng tuyển công việc này
+Họ & tên bạn *
+Địa chỉ email *
+Số điện thoại *
+Thông tin thêm
+CV của bạn *
+Click để chọn & tải lên CV của bạn
+Mã bảo mật *
+Nộp đơn ứng tuyển",,linkedin
+Assistant Manager Tech Infrastructure,adidas,,"Củ Chi, Ho Chi Minh City, Vietnam",,,,1.0,"['Scala', 'Express', 'ITIL']",Full-time,Not Applicable,2026-06-10,,"Market business expects solid and best in class infrastructure support services, service management and project delivery. The Assistant Manager Tech Infrastructure will contribute to seamless running of IT services (day to day support) as well as project delivery (opening, closing & revamp activities) across a specific adidas market/country.He/she is also supporting the service quality of all end user services (e.g. Connectivity, Service Desk, Onsite Support a.k.a. Field Services and End Device Management) in order to deliver the right level of cross functional- or team services and actively participating with the Domain Product Owners and Business Partners on any Infrastructure related project and support service.
+Key Responsibilities
+Continual Improvement: Expect to take part in continual improvement initiatives and collaborate with relevant Domain Service Owners to highlight and contribute towards improvement activities.
+Relationship Management: Your scope will be within a specific adidas market where you will be expected to support in stakeholder engagement/communications. You will be updating stakeholders to ensure everyone is understanding and updated on agreed level of our service.
+Service Level Management: Monitors and logs the actual service provided, compared to that required by service level agreements.
+Project Management: In charge of various smaller infrastructure projects, which need to be executed on time, in full and in budget. You could be expected to engage with local vendors to ensure that contractual agreements are adhered to as well as monitoring vendor performance.
+Service Management & Incident Management
+Oversees external vendor incident management (support) process compliancy (ITIL standards) according to defined and agreed global process governance set by Product Domain
+Continuously keep business stakeholders updated on elevated incidents.
+Problem Management
+Investigates problems in systems, processes, and services.
+Assists with the implementation of agreed remedies and preventative measures.
+Key Relationships:
+Global Infrastructure (Tech Core) Service Owners for service improvements and vendor performance metrics
+SPOC to local business team members around overall service performance & escalation mgmt.
+External Service Providers for service review and service quality improvements.
+Requisite Education And Experience / Minimum Qualifications
+Four-year college or university degree with focus on Business Administration or IT orrelated areas, or equivalent combination of education and experience
+Proficient spoken and written command of English
+At least 3-year experience in IT
+1 year of experience in relevant area
+adidas celebrates diversity, supports inclusiveness and encourages individual expression in our workplace. We do not tolerate the harassment or discrimination toward any of our applicants or employees. We are an equal opportunity employer.",,linkedin
+IT Business Analyst I Vietnam relocate to UAE,PixelChain,,Ho Chi Minh City Metropolitan Area,,,,5.0,"['SQL', 'Agile', 'Scrum', 'Excel', 'Jira', 'Confluence', 'Figma']",Full-time,Mid-Senior level,2026-05-16,,"Our client is a
+software development and digital solutions company
+serving clients across the FinTech, iGaming, and Marketing sectors. The company has successfully delivered
+20+ innovative products
+across
+5 international markets
+, including Brazil, Armenia, Saudi Arabia, and the UAE.
+⟢
+Responsibilities
+:
+Collaborate with product managers and business teams to gather, analyze, and document product requirements.
+Translate business needs into clear, actionable user stories and functional specifications.
+Work closely with engineering teams to ensure proper understanding and implementation of product requirements.
+Conduct competitor and market research to identify trends and propose product improvements.
+Analyze user behavior and transaction data to evaluate product performance and suggest optimizations.
+Support the QA team during UAT (User Acceptance Testing) to ensure business requirements are met.
+Facilitate workshops, sprint planning, and backlog grooming sessions with cross-functional teams.
+Continuously improve documentation processes and internal workflows.
+⟢
+Requirements
+:
+5+ years of experience as a Business Analyst in a tech/product or E-commerce company.
+Strong understanding of E-commerce platforms, online shopping workflows, and customer journey optimization.
+Excellent analytical and problem-solving skills.
+Proficiency in writing clear and concise documentation (BRD, PRD, user flows, etc.).
+Experience with tools such as Jira, Confluence, Figma, or similar.
+Strong communication skills able to interface with both technical and non-technical stakeholders.
+Knowledge of SQL or analytics tools (e.g., Google Analytics, Mixpanel) is a plus.
+Fluent in English (written and spoken).
+Nice to Have:
+Experience working in Agile/Scrum environments.
+Background in UX research or product analytics.
+⟢ Benefits:
+Official employment in compliance with UAE labor law
+Partial coverage for breakfast and lunch
+Relocation package, including flight tickets and 4-8 weeks of accommodation in a company apartment
+Home visit benefit 4 flight tickets/year to reunite with your family
+Hybrid working & flexible hours
+Annual fitness budget for employees
+Multinational team with members from 16 countries, diverse yet supportive
+⟢ Recruitment Process:
+HR Interview
+Technical Interview
+Background Check
+Offer","Official employment in compliance with UAE labor law
+Partial coverage for breakfast and lunch
+Relocation package, including flight tickets and 4-8 weeks of accommodation in a company apartment
+Home visit benefit 4 flight tickets/year to reunite with your family
+Hybrid working & flexible hours
+Annual fitness budget for employees
+Multinational team with members from 16 countries, diverse yet supportive
+⟢ Recruitment Process:
+HR Interview
+Technical Interview
+Background Check
+Offer",linkedin
+IT Helpdesk,SUNJIN VIỆT NAM,,"Can Tho, Can Tho, Vietnam",,,,,['Windows Server'],Full-time,Not Applicable,2025-10-18,,"Số lượng: 1 người
+Kinh nghiệm: 1 - 2 năm
+Bằng cấp: Trung cấp trở lên
+Cấp bậc: Nhân viên
+Nơi làm việc: Đồng Nai
+Thu nhập/ tháng: 10 - 15 Triệu
+MÔ TẢ CÔNG VIỆC
+Vị trí IT Help Desk đóng vai trò quan trọng trong việc hỗ trợ kỹ thuật cho người dùng cuối, bảo đảm hệ thống thông tin của tổ chức hoạt động ổn định và hiệu quả. Cụ thể, người giữ vị trí này sẽ chịu trách nhiệm giải quyết các vấn đề kỹ thuật, từ đơn giản đến phức tạp, qua điện thoại hoặc trực tiếp. Họ cũng sẽ cung cấp hướng dẫn và tư vấn cho người dùng về cách sử dụng các ứng dụng và phần mềm hiệu quả. Bên cạnh đó, IT Help Desk còn theo dõi và ghi chép các sự cố kỹ thuật để phân tích và cải thiện chất lượng hệ thống thông tin.
+Xác định, chẩn đoán, giải quyết vấn đề của người sử dụng máy tính cá nhân, phần mềm máy tính và phần cứng, mạng, internet, e-mail, dial-in, các vấn đề truy cập mạng; và các vấn đề máy in, photo copy, điện thoại, camera…
+Cung cấp hỗ trợ cài đặt, cấu hình cho người dùng các phần cứng máy tính để bàn, phần mềm, và thiết bị ngoại vi.
+Vận hành và duy trì hệ thống server, mạng LAN, WAN, camera…
+Sửa chữa đúng hạn các thiết bị hoặc bảo hành, bảo trì từ nhà cung cấp bên thứ ba theo thỏa thuận hợp đồng.
+Chịu trách nhiệm bảo trì, sửa chữa các thiết bị máy tính, mạng toàn công ty. Thực hiện sửa chữa phần cứng máy tính, các thiết bị máy tính PC và các thiết bị ngoại vi không được thỏa thuận bảo dưỡng của bên thứ ba nhà cung cấp.
+Giúp cài đặt mạng nội bộ, hệ thống cáp và các thiết bị như card mạng, hub và switch.
+Hỗ trợ, hướng dẫn người dùng xử lý các vấn đề liên quan đến IT. Phối hợp với các kỹ thuật viên khác trong việc tạo ra tài liệu liệu hướng dẫn cho người dùng cuối câu hỏi thường gặp (FAQs).
+Kiểm kê, quản lý tài sản cố định & Các công việc khác theo yêu cầu của cấp trên.
+Yêu Cầu Công Việc
+Có kinh nghiệm ít nhất 1 năm, tốt nghiệp trung cấp, cao đẳng công nghệ thông tin trở lên
+Có kiến thức windows server, hệ thống camera, Database
+Có kiến thức chuyên môn cơ bản về các hệ thống máy chủ, các hệ điều hành
+Có kiến thức về hệ thống mạng LAN/WAN, cấu hình các thiết bị mạng
+Có khả năng làm việc độc lập hoặc làm việc theo nhóm tốt, luôn chủ động trong công việc, có tinh thần trách nhiệm và tính kỷ luật cao
+Có thể đọc - hiểu & làm báo cáo bằng Tiếng anh
+ĐỊA ĐIỂM & THỜI GIAN LÀM VIỆC:
+Địa điểm: Lô II - 11, KCN Hố Nai, Xã Hố Nai 3, Huyện Trảng Bom, Tỉnh Đồng Nai, Việt Nam
+Thời gian làm việc: 7:30 - 16:30 (Thứ 2 - Thứ 7), nghỉ 2 ngày thứ 7 trong tháng
+PHÚC LỢI
+Đóng BHXH trên tổng tiền lương
+Bảo hiểm tai nạn 24/24 cho nhân viên
+Nghỉ phép, nghỉ lễ và ngày thành lập công ty theo quy định
+Cung cấp bữa sáng và bữa trưa tại các nhà máy
+Tặng quà sinh nhật và quà các ngày lễ trong năm
+Du lịch hàng năm
+Đào tạo nội bộ và bên ngoài
+Thưởng tháng 13 + thưởng năng suất theo hiệu quả kinh doanh
+Chương trình thâm niên
+Phụ cấp ngoại ngữ
+Nghỉ hưởng lương ngày thành lập công ty
+Hỗ trợ xe đưa đón và xe công tác ngoài thị trường
+Hỗ trợ điện thoại, laptop, xe ô tô ( theo quy định của công ty)
+Liên hệ
+Ứng viên quan tâm vui lòng gửi CV/ Resume theo địa chỉ mail:
+Sunjinsouth@sj.co.kr
+Mọi thắc mắc cần được giải đáp xin vui lòng gọi
+Mr. Duc: 0337.416.150
+Ms. Mai: 0396.764.259
+Ms. Vũ: 0935.056.658",,linkedin
+Delivery Lead,Avensys Consulting,,"Ho Chi Minh City, Vietnam",,,,,"['Rust', 'Agile', 'Microservices', 'Excel', 'Security']",Full-time,Mid-Senior level,2026-06-10,,"Avensys is a reputed global IT professional services company headquartered in Singapore. Our service spectrum includes enterprise solution consulting, business intelligence, business process automation and managed services. Given our decade of success we have evolved to become one of the top trusted providers in Singapore and service a client base across banking and financial services, insurance, information technology, healthcare, retail and supply chain.
+Type of Contract: 1-Year Renewable Contract
+Work Mode: Hybrid (2-3 Days Work From Office)
+We’re seeking experienced Workplace Delivery Lead or Senior Consultant to support the delivery of our teams in Vietnam in building the next best Enterprise Technology experience. You will join our Workplace Delivery Team and be responsible for support the end-to-end delivery of the Engineering Teams in Vietnam, as well managing the release of multiple team’s features to production.
+Job Description
+Must have
+Good knowledge and experience of workplace remote access technologies including the end user computing, network, cloud, security & hosting
+Experience with documentation/user manuals/technical writing to assist with the organisational change involved with staff experience of these new technologies
+Expertise with working through complex technology projects and problem solving in all phases of delivery as required
+Good communication, coordination, analytical and problem-solving skills to support various technical groups that will be involved in delivery
+Agile skills and experience with Agile planning tools, progress elaboration and experience with NAB’s Tech Operating Model
+Previous experience in workplace technology deployments to culturally diverse and remotely located teams
+Previous experience desirable with Service NAB integration/automation for Incident Logging and Service Management
+Nice-to-have
+Experience working in large enterprise organisations e.g. banking
+Exposure to Microservices, Web and Cloud technologies
+Degree in Computer Science, Information System or similar
+Project Management Professional (PMP certification preferred)
+WHAT’S ON OFFER:
+You will be remunerated with an excellent base salary and entitled to attractive company benefits. Additionally, you will get the opportunity to enjoy a fun and collaborative work environment, alongside a strong career progression.
+CONSULTANT DETAILS
+:
+Consultant Name : JOYCE
+Avensys Consulting Pte Ltd
+EA Licence 12C5759
+Privacy Statement
+:
+Data collected will be used for recruitment purposes only. Personal data provided will be used strictly in accordance with the relevant data protection law and Avensys' privacy policy.",,linkedin
+NHÂN VIÊN IT,Công ty Cổ phần Đầu tư Xây dựng và Thương mại An Phát Vinh,,"Hanoi, Hanoi, Vietnam",,,,,['VPN'],Full-time,Not Applicable,2026-04-16,,"Mô tả công việc
+Quản lý mạng LAN, WAN, ... cho toàn bộ hệ thống 1 HO + 14 Brand
+Hỗ trợ enduser HO, 15 brand: internet, wifi, communication,...
+Duy trì kết nối Server (Domain, DNS, DHCP, Mail, ...), client, database, CCTV,...
+Nghiên cứu và triển khai các ứng dụng mới có ích cho Công ty.
+Triển khai VPN trên toàn hệ thống.
+Chi tiết công việc khác trao đổi khi phỏng vấn.
+Trung cấp",,linkedin
+AI Content Creator,Getz Group,,Vietnam,,,,,"['Scala', 'REST', 'AI', 'Excel']",Full-time,Not Applicable,2026-05-25,,"AI CONTENT CREATOR
+We are looking for an AI Content Creator to support our Product team in building high impact AI driven video content that accelerates sales conversion, improves product adoption and drives long term merchant success.
+The AI Content Creator is responsible for developing high-quality, engaging, and innovative content using AI tools and platforms. This role combines creativity, technical understanding, and strategic thinking to produce content that aligns with brand goals across digital channels. The ideal candidate is passionate about leveraging AI for content creation, stays updated with the latest trends in generative technology, and can translate requirements into compelling written, visual, or interactive outputs.
+The AI Content Creator will work closely with Product Sales and Marketing teams to design, produce and iterate AI generated video content across the full merchant conversion journey. This role is both creative and strategic with a strong focus on product storytelling, business outcomes and scalability.
+Key Responsibilities
+AI Video Content for Sales and Marketing Conversion
+Create AI generated videos for the main Getz website and sales decks that guide prospects through a sequential journey from lead to trial to paid subscription
+Translate complex product features into clear compelling and outcome driven narratives for different merchant personas
+Support sales teams with pitch-specific videos tailored for different verticals use cases and stages of the funnel
+Continuously optimise content based on conversion performance feedback from Sales and Marketing teams
+AI Video Content for Product Education and Merchant Growth
+Produce ongoing AI video content for new product feature releases enhancements and updates
+Create educational videos focused on helping merchants improve
+Sales optimisation and revenue growth
+Membership and loyalty exponential growth
+Automated targeted marketing and CRM usage
+Manpower time reduction through workflow automation
+Work closely with Product Managers to ensure content accuracy clarity and alignment with product roadmap
+Develop reusable scalable content templates that can be rapidly adapted as the product evolves
+Job Requirements
+Bachelor’s degree in Marketing, Communications, Digital Media, or a related field
+Proven experience as a content creator product marketer or digital media specialist in ecommerce environments
+Strong hands on experience with AI video and content tools such as HeyGen Descript or similar scalable AI platforms
+Ability to script storyboard and produce end to end video content independently
+Good understanding of product led growth funnels onboarding journeys and customer lifecycle marketing
+Excellent storytelling skills with the ability to balance creativity with business impact
+Comfortable working cross functionally with Product Sales Marketing and Design teams
+(Good to have) Familiarity with conversion optimisation onboarding analytics or content performance metrics
+(Good to have) Basic understanding of UX UI and how video content influences product adoption
+OUTSTANDING BENEFIT PROGRAMS
+Highly Competitive salary
+SHUI pay based on full salary
+Premium Healthcare Package for Staff and Family Members
+Diverse Holidays & Special Events Bonuses & incentives
+Family Financial Support - Education for up to 2 kids
+Lunch Allowance
+Well-stocked pantry with free coffee, tea, and snacks
+Internal activities with many experiences: team building, internal events,....
+Professional Training and Development Budget
+Global Exposure and Traveling Opportunities:
+○ Sponsored Trip to Singapore to broaden your horizon and training opportunities
+○ Annual company-wide Overseas Rest & Relax Trip
+Laptop/Other work support device
+WORKING TIME
+From
+Monday - Friday | 8:00 - 17:30
+(1h30 lunch break)
+WORK LOCATION
+Headquarter: Braddell Tech 15 Lorong 8 Toa Payoh #5-09 Singapore
+Vietnam Office: 8th floor, Vietnam Post Building, 271 Nguyen Van Linh, Danang, Vietnam
+CONTACT
+Application requirement: please send your CV to email recruit@getz.co
+If you are self-leading, eager to learn, dare to fail and willing to take any initiatives and transform it into business impact,
+join us now!
+Apply
+If you are self-leading, eager to learn, dare to fail and willing to take any initiatives and transform it into business impact, join us now!
+Apply
+If you are self-leading, eager to learn, dare to fail and willing to take any initiatives and transform it into business impact, join us now!
+Apply",,linkedin
+"Admin, Information Technology",Hoiana Resort & Golf,,"Da Nang City, Vietnam",,,,1.0,['Excel'],Full-time,Associate,2026-06-08,,"Key Responsibilities & Accountabilities:
+Planning and Budgeting:
+Assist in the preparation of annual IT budgets.
+Monitor and track IT department spending against budgetary goals.
+Develop financial models and forecasts for IT projects and initiatives.
+Financial Analysis:
+Analyze IT expenditures, including hardware, software, and personnel costs.
+Identify cost-saving opportunities and provide recommendations to optimize spending.
+Evaluate the ROI (Return on Investment) for IT projects and initiatives.
+Financial Reporting:
+Prepare and present financial reports and performance metrics to IT management and stakeholders.
+Maintain accurate and up-to-date financial records for the IT department.
+Vendor Management:
+Evaluate vendor contracts and agreements to ensure they are cost-effective.
+Negotiate contracts and pricing with IT vendors.
+Monitor vendor performance and spending related to IT services and products.
+Cost Allocation:
+Allocate IT costs to various business units or departments as necessary.
+Provide cost transparency and chargeback mechanisms to relevant stakeholders.
+Project Financial Management:
+Collaborate with project managers to track project expenditures.
+Ensure projects stay within budget and report any financial risks or deviations.
+Financial Compliance:
+Ensure IT spending complies with company policies, financial regulations, and accounting standards.
+Financial Process Improvement:
+Identify process inefficiencies and recommend improvements to optimize financial workflows.
+Implement best practices for financial management within the IT department.
+Other duties as assigned by Line Manager & the Company's management.
+Benefits
+Accommodation: Hoiana Village
+Working transportation to Da Nang and Hoi An.
+Competitive salaries, additional medical insurance and others.
+Attractive Hoiana employee in-house rates.
+Intensive career development.
+Attractive Hoiana employee in-house rates.
+Job Requirements
+Education & Experience: Bachelor's degree in Business, IT, or related fields; 1–2 years in admin/assistant roles.
+Proficient in MS Office, especially Excel; familiarity with ERP systems and PR/PO processes is an advantage.
+Strong organizational skills with the ability to manage documents, calendars, and meetings effectively.
+Good analytical and attention-to-detail skills with a sound understanding of basic financial and accounting principles.
+Able to coordinate across teams and communicate financial or administrative information clearly.
+Good English communication skills (written and spoken).","Accommodation: Hoiana Village
+Working transportation to Da Nang and Hoi An.
+Competitive salaries, additional medical insurance and others.
+Attractive Hoiana employee in-house rates.
+Intensive career development.
+Attractive Hoiana employee in-house rates.
+Job Requirements
+Education & Experience: Bachelor's degree in Business, IT, or related fields; 1–2 years in admin/assistant roles.
+Proficient in MS Office, especially Excel; familiarity with ERP systems and PR/PO processes is an advantage.
+Strong organizational skills with the ability to manage documents, calendars, and meetings effectively.
+Good analytical and attention-to-detail skills with a sound understanding of basic financial and accounting principles.
+Able to coordinate across teams and communicate financial or administrative information clearly.
+Good English communication skills (written and spoken).",linkedin
+IT SYSTEM ENGINEER /INFRASTRUCTURE ENGINEER,VINASEED,,"Hanoi, Hanoi, Vietnam",,,,,"['Linux', 'AI', 'Firewall', 'VPN']",Full-time,Not Applicable,2026-05-16,,"Tuyển dụng
+Thông tin tuyển dụng
+Tại sao chọn Vinaseed?
+Quy trình tuyển dụng
+Nộp hồ sơ trực tuyến
+Xem thêm Thu gọn
+Tin tuyển dụng khác
+NHÂN VIÊN KẾ HOẠCH VẬN HÀNH
+Số lượng: 01
+Hạn nộp HS: 31/05/2026
+NHÂN VIÊN CƠ KHÍ CHẾ BIẾN - CHI NHÁNH TÂY NGUYÊN
+Số lượng: 01
+Hạn nộp HS: 31/05/2026
+NHÂN VIÊN KINH DOANH CHI NHÁNH HÀ NAM
+Số lượng: 02
+Hạn nộp HS: 31/05/2026
+Thông tin tuyển dụng
+IT SYSTEM ENGINEER /INFRASTRUCTURE ENGINEER
+Nơi làm việc:
+Địa chỉ: Số 01 Lương Đình Của, P. Kim Liên, TP. Hà Nội
+Số lượng:
+01
+Hạn nộp HS>:
+31/05/2026
+Yêu cầu>
+Báo cáo cho: IT Manager
+Thời gian làm việc:
+Từ Thứ Hai đến Thứ Sáu
+Nam tốt nghiệp Cao đẳng, Đại học chuyên ngành IT hoặc kỹ thuật liên quan.
+Độ tuổi: 24 – 40 tuổi.
+Có ít nhất 03 năm kinh nghiệm làm việc trong lĩnh vực IT, quản trị hệ thống và hỗ trợ người dùng, ưu tiên có chứng chỉ quản trị hệ thống MCSA, CCNA.
+Có kinh nghiệm triển khai hệ thống mạng từ đầu. Trung thực, có tinh thần trách nhiệm và tận tâm với công việc, có tư duy thay đổi, sáng tạo và tối ưu trong công việc.
+Có khả năng làm việc độc lập/làm việc nhóm liên quan đến thiết kế, triển khai xây dựng hệ thống mạng và các dịch vụ CNTT trong doanh nghiệp lớn/nhiều chi nhánh.
+Công việc>
+Cài đặt, thiết lập từ đầu và quản trị hệ thống mạng của Tập đoàn và các Công ty thành viên. Hệ thống cơ bản bao gồm:
+Máy chủ ảo hóa (Windows hoặc Linux server, VPS , Cloud server…).
+Các máy trạm (Windows 7 đến windows 11)
+Các thiết bị mạng (Firewall, Switch, SAN, NAS, Wifi, kết nối Internet, VPN…)
+Cài đặt, cấu hình máy chủ, máy trạm, thiết bị mạng, hệ thống backup, thiết bị ngoại vi và các phần mềm ứng dụng.
+Nghiên cứu các giải pháp mới: AI, Ảo hóa, Bảo mật, Clouds, data center, giám sát hệ thống từ xa …
+Hỗ trợ người dùng trong một số trường hợp liên quan đến hệ thống, tư duy giảm thiểu tối đa lỗi phát sinh và không có lỗi lặp lại.
+Quyền lợi>
+Được làm việc trong môi trường năng động, top 1 về sản phẩm giống cây trồng tại Việt Nam, tiếp cận và triển khai từ đầu với mô hình mạng và các giải pháp CNTT cung cấp cho người dùng.
+Có nhiều cơ hội học hỏi phát triển chuyên môn, kỹ thuật, kỹ năng quản lý dự án, AI, … và nhiều kiến thức khác.
+Thưởng các dịp lễ, Tết;
+Chế độ bảo hiểm theo quy định của pháp luật.
+Cơ hội thăng tiến cao theo định hướng phát triển CNTT của tập đoàn theo hướng hiện đại, chuyên nghiệp.
+Ứng tuyển vị trí này>",,linkedin
+Deputy Chief Executive Officer – Infrastructure Division,VinSmart Future,,"Hanoi, Hanoi, Vietnam",,,,10.0,"['Scala', 'Kubernetes', 'REST', 'Machine Learning', 'AI', 'Excel', 'Networking', 'Security', 'Cybersecurity']",Full-time,Executive,2026-06-10,,"Position Purpose
+The Deputy CEO – Infrastructure Division is responsible for defining the strategy, governance, and operations of the organization's entire technology infrastructure landscape, including Data Centers, Cloud/Multi-Cloud environments, and GPU Computing Platforms supporting AI/ML workloads. The role ensures infrastructure availability, security, operational excellence, scalability, and alignment with business growth objectives.
+Key Responsibilities
+1. Data Center Infrastructure Management
+Define and execute the strategy for Data Center modernization and infrastructure development.
+Oversee servers, storage, networking, virtualization, and shared infrastructure platforms.
+Ensure high availability, scalability, resilience, and service continuity.
+Manage capacity planning, infrastructure expansion, and resource optimization.
+2. Cloud & Multi-Cloud Platform Management
+Develop and implement Cloud, Hybrid Cloud, and Multi-Cloud strategies.
+Lead operations of Cloud platforms, Kubernetes environments, and shared infrastructure services.
+Ensure security, governance, compliance, and cost optimization across cloud environments.
+Drive Infrastructure as Code (IaC), automation, and Platform Engineering initiatives.
+3. GPU Infrastructure & AI Platform Management
+Build and operate GPU infrastructure supporting AI, Machine Learning, and Generative AI workloads.
+Manage GPU resource allocation, utilization optimization, and performance monitoring.
+Establish governance policies for AI computing resources, including sharing and consumption models.
+Maximize infrastructure efficiency while optimizing investment and operational costs.
+4. Reliability, Security & Resilience
+Own infrastructure SLA, SLO, reliability, and performance targets.
+Establish monitoring, alerting, incident response, disaster recovery, and service restoration capabilities.
+Ensure compliance with cybersecurity, risk management, regulatory, and governance requirements.
+Develop Cyber Resilience and Business Continuity capabilities across infrastructure platforms.
+5. Financial & Vendor Management
+Develop infrastructure investment strategies, budgets, and long-term roadmaps.
+Manage CAPEX and OPEX for Data Centers, Cloud Platforms, and GPU Infrastructure.
+Oversee strategic technology vendors, service providers, and contract management.
+Drive cost efficiency and maximize infrastructure utilization.
+6. Leadership & Organizational Development
+Design and evolve the operating model for infrastructure and platform engineering functions.
+Lead Data Center Operations, Cloud Operations, Platform Engineering, and GPU Operations teams.
+Build organizational capabilities, operational processes, and a culture of engineering excellence.
+Contribute to enterprise technology strategy and digital transformation initiatives.
+Qualifications & Experience
+Minimum 10 years of experience in IT Infrastructure, Cloud, Data Center, or related technology domains.
+At least 5 years of leadership experience in senior management positions.
+Proven experience managing large-scale Hybrid Cloud or Multi-Cloud environments.
+Strong expertise in Data Center technologies, Compute, Storage, Networking, Virtualization, and Kubernetes.
+Experience building or operating GPU Infrastructure and AI Platforms is highly preferred.
+Solid understanding of Cloud Governance, FinOps, Cybersecurity, Disaster Recovery, and Business Continuity.
+Demonstrated leadership, financial management, risk management, and vendor management capabilities.
+Key Performance Indicators (KPIs)
+Achievement of infrastructure and platform SLA/SLO targets.
+Availability and reliability of Data Center, Cloud, and GPU Platforms.
+Infrastructure cost optimization (CAPEX/OPEX).
+Cloud and GPU resource utilization efficiency.
+Compliance with security, governance, and risk management requirements.
+Internal customer satisfaction across technology service users.
+Note: By submitting your application, you confirm that you have read and agreed to Vingroup’s Personal Data Protection Policy published at https://lnkd.in/gYEdaFHb, and consent to the processing of your personal data in accordance with applicable laws. Please register an account and select “Agree” to proceed.",,linkedin
+APAC Customer Service Associate,INFUSE,,"Nha Trang, Khanh Hoa, Vietnam",,,,,"['Scala', 'Machine Learning', 'Security']",Full-time,Mid-Senior level,2026-05-16,,"OUR HIRING PROCESS:
+We will review your application against our job requirements. We do not employ machine learning technologies during this phase as we believe every human deserves attention from another human. We do not think machines can evaluate your application quite like our seasoned recruiting professionals—every person is unique. We promise to give your candidacy a fair and detailed assessment.
+We may then invite you to submit a video interview for the review of the hiring manager. This video interview is often followed by a test or short project that allows us to determine whether you will be a good fit for the team.
+At this point, we will invite you to interview with our hiring manager and/or the interview team. Please note: We do not conduct interviews via text message, Telegram, etc. and we never hire anyone into our organization without having met you face-to-face (or via Zoom). You will be invited to come to a live meeting or Zoom, where you will meet our INFUSE team.
+From there on, it’s decision time! If you are still excited to join INFUSE and we like you as much, we will have a conversation about your offer. We do not make offers without giving you the opportunity to speak with us live.
+INFUSE is committed to complying with applicable data privacy and security laws and regulations. For more information, please see our Privacy Policy
+Are you driven by the desire to deliver exceptional client experiences and thrive in a dynamic environment? At INFUSE, we're seeking a passionate Client Success Specialist to join our team, where your efforts directly contribute to our clients' satisfaction and our company's success. This position offers an enriching path to professional growth and the unique opportunity to work with a variety of industries, ensuring no two days are the same. INFUSE has built a reputation as a beloved employer by prioritizing employee satisfaction and creating a workplace where everyone feels valued and connected. Joining our team means becoming part of a supportive community that celebrates every success and encourages continuous improvement. You'll discover how our employees love their jobs, driven by the meaningful connections they make and the positive impact they have on our clients' businesses. This role is designed for someone who thrives in dynamic environments and can seamlessly transition between tasks to support both internal teams and client needs.
+Key Responsibilities:
+Build and maintain strong, long-lasting client relationships
+Ensure the timely and successful delivery of our solutions according to client needs and objectives
+Communicate clearly the progress of monthly/quarterly initiatives to internal and external stakeholders
+Identify and grow opportunities within the territory and collaborate with sales teams to ensure growth attainment
+Assist with challenging client requests or issue escalations as needed
+Provide assistance across a variety of administrative and operational tasks, such as data entry, updating internal systems, or managing schedules.
+Responsibilities
+Proven track record of managing client relationships, preferably in a related field such as hospitality, client success, or sales
+Strong communication and interpersonal skills
+Can handle various tasks with attention to detail, managing priorities effectively in a fast-paced environment.
+Empathetic understanding of client needs and the ability to address them effectively
+Ability to address challenges and proactively offer solutions.
+If you're passionate about building meaningful relationships and delivering top-notch client experiences, we'd love to hear from you. Apply now to embark on a rewarding career journey with INFUSE, where your ambitions and contributions are recognized and valued. Don't miss your chance to be part of a team that genuinely enjoys making a difference. Submit your application today!
+We are an Equal Opportunity Employer. We make hiring decisions based on qualifications, merit, and business needs. We do not discriminate on the basis of race, color, religion, sex (including pregnancy, sexual orientation, and gender identity), national origin, age, disability, genetic information, or any other characteristic protected under applicable law. We welcome applicants from all backgrounds and believe that diversity of experience, culture, and perspective makes us stronger.",,linkedin
+Manual Tester (Junior/Middle),Amaris Consulting,,"Ho Chi Minh City, Vietnam",,,,2.0,"['SQL', 'Excel', 'Jira', 'API']",Full-time,Mid-Senior level,2026-06-01,,"ABOUT THE JOB
+Execute UAT/SIT test cases for onboarding and servicing flows.
+Perform regression testing and retesting.
+Prepare testing evidence and testing reports.
+Log and track defects using defect management tools.
+Coordinate with business analysts and IT teams for issue clarification.
+Support end-to-end testing activities.
+Validate frontend and backend results based on expected business flow.
+Support smoke test and deployment validation.
+ABOUT YOU
+Bachelor’s degree in Information Technology, Computer Science, or a related technical field.
+Minimum of
+2 years of experience
+in manual testing or UAT.
+Experience in Banking/Finance projects is a plus.
+Familiarity with the testing lifecycle and defect tracking.
+Good understanding of API, frontend, and backend validation.
+Strong attention to detail and analytical skills.
+Good communication and teamwork skills.
+Experience with Credit Card or Core Banking systems is a plus.
+Experience in migration or UAT projects is a plus.
+Experience with SQL or Excel validation is a plus.
+Experience using JIRA, ALM, or other test management tools is a plus.
+You demonstrate strong organizational skills and the ability to manage deadlines.
+You demonstrate analytical and critical thinking skills.
+WHY AMARIS?
+Competitive salary and 13th-month salary
+14+ annual leaves per year
+Premium healthcare insurance, starting from your probation period
+Project reviews and yearly performance appraisals
+Annual company trip
+Teambuilding activities: Team lunch/dinner, events, and celebrations, sports clubs (football, basketball, badminton, pickleball)
+International team with flexible working time
+Tailor-made career path
+Technical workshops and training courses
+Mobility: Opportunities to be on-site abroad in our offices in over 60+ countries
+Equal Opportunity
+Amaris Consulting is proud to be an equal opportunity workplace. We are committed to promote diversity within the workforce and creating an inclusive working environment. For this purpose, we welcome applications from all qualified candidates regardless of gender, sexual orientation, race, ethnicity, beliefs, age, marital status, disability, or other characteristics.",,linkedin
+(Senior/Middle) System Administrator,Aperia,,Ho Chi Minh City Metropolitan Area,,,,,"['Scala', 'AWS', 'Azure', 'Linux', 'Unix', 'Windows Server', 'REST', 'Salesforce', 'ServiceNow', 'ITIL', 'VMware', 'Hyper-V', 'Firewall', 'VPN', 'Security']",Full-time,Mid-Senior level,2026-05-16,,"Summary
+Join Aperia Solutions, a leader in SaaS solutions for the Payments and Compliance industries. Aperia is a Texas-based fintech and managed consultancy firm that creates custom SaaS applications and other software-based solutions for the payments, banking, and processing industry. Founded in 1999, Aperia offers business intelligence, risk management, compliance, and customer intelligence platforms. With offices in Dallas, Washington DC, and Vietnam, Aperia is a fast-paced, global organization that strives to improve efficiency in compliance, risk, and customer service operations. Aperia’s clients include banks, processors, payment facilitators, merchant service providers, independent sales organizations, and government entities. A career at Aperia promises a great challenge, culture, and opportunities to forge your own path.
+Job Description
+At Aperia, we rely on a dynamic team of IT. We’re seeking
+a (Senior/Middle) System Administrator
+who is ready to work with new technologies and architectures in a forward-thinking organization that’s always pushing boundaries. This person will have mainly System/Infrastructure responsible. The ideal candidate is also able to cover Network/Security areas and Help Desk tasks (when required).
+Core Responsibilities
+Troubleshoot incident report, updating information and restoring/delivering service request IT service(s) within Operation Level Agreements / Service Level Agreement.
+Analyze, collaborate and resolve the root causes in problem task.
+Create, implement and document in authorized change. Also attending CAB’s meetings when required.
+Overview and update CMDB is accurate and up to date.
+Evaluate, present and discuss with line manager on Objective and Key Results (OKRs)/KPI method monthly and quarterly.
+Work on flexible shift patterns (on called duty or onsite) to deliver 247 IT Managed services, with Customer service mindset, when required.
+Functional Responsibilities
+Comply and contribute to IT policies, standards, SOP and guidelines.
+Act as a team player with other internal departments/teams, on technical views, to offer and convince requester to follow best practice designing and continue improvement solutions.
+Self-study and propose valuable training courses (soft and hard skill) and technology trending to manager.
+Volunteer to conduct internal training and working with sharing knowledge spirit.
+Compliance with Conversation, Feedback and Recognitions (CFRs) method to build up company’s culture.
+Communicate and network with 3rd partner’s experts in escalated situations.
+Deliver acceptance into service into operational state.
+Assist and contribute on-going projects if required.
+Technical Skills
+Good command of spoken and written English
+Int'l certified or hand-on >= 3 years’ experience providing administrative and technical support to enterprise level clients
+Cloud technologies, in at least TWO of the below areas
+Private:
+VMWare: ESXi, vSphere, vMotion, HA, DRS, FT, SRM…
+Microsoft Hyper-V: OS, SCCM…
+Other platforms.
+Public:
+Int’l provider: Azure, AWS, IBM, Google, Salesforce, Fujitsu…
+Local provider: CMC, Viettel, FPT, VNPT…
+Enterprise level support environments, in at least FOUR of the below areas
+Application/System Services:
+AD, DNS, DHCP, file sharing, print, web and email.
+Unified Communications & Collaboration Sys.: PBX, conference and message services.
+Office 365 or other online services.
+OS series: Windows Server, Unix & Linux server.
+Physical devices:
+Server Device (non-blade/blade): IBM, Dell, HP, Cisco or other servers with console technologies, such as: IMM, iDRAC, iLO…
+End user device: PC, office equipment, mobility device…
+Network
+LAN: wired (access switch), wireless (access point) …
+WAN: connection (FTTH, leased line), router, VPN, Load Balancer…
+Security
+Total Visibility: ACS, CCTV, RADIUS, monitoring, Proxy…
+Complete Control: firewall, WAF, antispam, WSUS patching, McAfee, Symantec, TrendMicro, BitLocker, SafeGuard, MFA…
+Things that will separate you from the
+rest.
+Experience in leading team.
+ITIL qualification or awareness of the ITIL processes and ticket systems (ServiceNOW, Atlassian, TOPdesk, ZenDesk…).
+Experience in a multi-client solutions provider with or without legacy systems.
+Education or Certifications
+BSc/BA, preferred in Information Technology, System
+Job Type
+Full-Time
+Work Location (Hybrid)
+The Six8 Building, 24-26 Phan Dinh Giot Street, Ward 2, Tan Binh District, HCMC
+Benefits
+Health insurance
+Dental insurance
+Life insurance
+Paid time off
+Parental leave
+Childcare assistance
+Education reimbursement
+This job description is not intended to be all-inclusive. An employee may also perform other reasonable related business duties as assigned by their immediate supervisor or management. Principals only.
+Recruiters please don't contact this job poster. DO NOT contact us with unsolicited services or offers.","Health insurance
+Dental insurance
+Life insurance
+Paid time off
+Parental leave
+Childcare assistance
+Education reimbursement
+This job description is not intended to be all-inclusive. An employee may also perform other reasonable related business duties as assigned by their immediate supervisor or management. Principals only.
+Recruiters please don't contact this job poster. DO NOT contact us with unsolicited services or offers.",linkedin
+IT Helpdesk,Golden Gate Restaurant Group,,"Hanoi, Hanoi, Vietnam",,,,,['Linux'],Full-time,Not Applicable,2026-04-16,,"MÔ TẢ CÔNG VIỆC
+Quản lý hệ thống, xử lý lỗi, hỗ trợ người dùng, tư vấn nâng cấp hệ thống hoặc thiết bị thay thế;
+Cài đặt, sửa chữa phần mềm, hệ điều hành;
+Xử lý các sự cố thông thường về hệ thống mạng, điện thoại, wifi, điện, camera, Pos, Fax,...;
+Giám sát hệ thống và cá thiết bị mạng trong văn phòng;
+Nghiên cứu và triển khai các tools, ứng dụng phục vụ công việc
+YÊU CẦU
+Tốt nghiệp các trường, trung tâm đào tạo về chuyên ngành IT phầ ucwnsg mạng;
+Nắm vững về hệ thống phần cứng máy vi tính, máy in, máy pos, fax camera có kinh nghiệm xử lý các trục trặc về phần cứng;
+Cài đặt cấu hình và sử dụng thành thạo hệ thống phần mềm: hệ điều hành thông thường, hệ điều hành server, phần mềm tiện ích, ứng dụng văn phòng;
+Nắm vững các khái niệm về hệ thống mạng máy tính, có kinh nghiệm về việc lắp đặt, vận hành, giám sát và quản trị hoạt động của mạng LAN và các két nối internet (LAN, ADSL, cáp quang,...);
+Nắm vững về hệ điều hành Window và Linux;
+Có khả năng tự tìm tòi học hỏi, yêu thích và đam mê ứng dụng các công nghệ mới;
+Có tinh thần làm việc nhóm, có trách nhiệm trong công việc;
+Ưu tiên ứng viên có các chứng chỉ liên quan.
+QUYỀN LỢI
+Đãi Ngộ
+Lương cạnh tranh + thưởng hiệu suất + tháng lương 13,...
+Được tham gia các khóa huấn luyện, đào tạo nâng cao kỹ năng, nghiệp vụ của Golden Gate.
+Cơ hội thử thách và phát triển:
+Cơ hội được làm việc trong môi trường làm việc chuyên nghiệp, là tập đoàn F&B hàng đầu Việt Nam.
+Được ủng hộ, trao quyền cho những ý kiến sáng tạo và đột phá.
+Văn hoá môi trường làm việc:
+Làm việc Thứ 2 - Thứ 6 (8h30 - 17h30)
+Môi trường làm việc trẻ, năng động, sáng tạo, công bằng, kỷ luật.
+Có lộ trình thăng tiến rõ ràng.",,linkedin
+Chief Technology Officer (CTO) - AI & Platform Transformation,CNK Consulting Vietnam,,"Hanoi, Hanoi, Vietnam",,,,5.0,"['Scala', 'AI', 'Excel', 'Security']",Full-time,Director,2026-06-08,,"About The Company
+Our client is a leading technology company in Vietnam undergoing a significant transformation from a traditional software provider into an AI-first technology organization. With a vision to deliver AI-as-a-Service and Agent-as-a-Service solutions, the company serves hundreds of thousands of enterprises, government agencies, and business households while continuously expanding its technology ecosystem.
+To support this ambitious growth strategy, we are seeking an experienced Chief Technology Officer (CTO) to drive technology innovation, accelerate AI adoption, and build scalable platforms that will shape the company's future.
+Key Responsibilities
+Technology Leadership & Strategy
+Define and execute the company's long-term technology vision, roadmap, and architecture strategy in alignment with business objectives.
+Provide strategic leadership across technology, engineering, infrastructure, and data functions.
+Ensure the organization maintains its position as a technology leader within Vietnam and strengthens its competitiveness across the region.
+Evaluate and leverage emerging technologies to create sustainable business advantages and improve customer outcomes.
+AI Strategy & Innovation
+Lead the strategic direction, development, and implementation of AI initiatives across the organization.
+Drive the adoption of advanced AI technologies, including Agentic AI and intelligent automation solutions.
+Ensure AI products and solutions deliver measurable business value and meaningful customer impact.
+Foster a culture of innovation and continuous technological advancement.
+Data Governance & Data Platform
+Establish and oversee a comprehensive data strategy covering data collection, management, governance, security, and utilization.
+Build scalable data platforms that support AI development and business decision-making.
+Ensure data assets are effectively managed and leveraged as a strategic business capability.
+Promote data-driven decision-making across the organization.
+System Architecture & Platform Scalability
+Design and govern modern, scalable, and high-performance technology architectures.
+Lead architecture modernization initiatives to support future growth and evolving business needs.
+Ensure reliability, security, scalability, and operational excellence across all technology platforms.
+Drive engineering best practices and technology standardization across the organization.
+Engineering Leadership & Talent Development
+Build, develop, and inspire a high-performing engineering organization.
+Establish competency frameworks, development methodologies, and talent development programs.
+Foster a culture of continuous learning, collaboration, innovation, and accountability.
+Strengthen leadership capabilities across engineering teams to support long-term organizational growth.
+Candidate Requirements
+Required Qualifications
+Strong strategic thinking, analytical capability, creativity, and decision-making skills.
+Minimum 5 years of experience as a CTO or equivalent senior technology leadership role within large-scale technology organizations.
+Proven experience leading engineering organizations comprising 500+ software engineers.
+Demonstrated success in operating and scaling platforms serving millions of users and hundreds of thousands of business customers.
+Deep understanding of Artificial Intelligence and practical experience developing AI products or integrating AI capabilities into software solutions.
+Bachelor's degree in Computer Science, Information Technology, Engineering, or a related discipline.
+Excellent English communication skills with experience presenting, speaking, or representing organizations at conferences, industry forums, or executive events.
+Preferred Qualifications
+Master's degree or PhD in Computer Science, Artificial Intelligence, Information Technology, or related fields.
+Experience working within product-driven technology organizations.
+Exposure to large-scale platform businesses and digital transformation initiatives.
+What We Offer
+Competitive Rewards
+Attractive executive compensation package aligned with experience and performance.
+Performance-based incentives and long-term reward programs.
+Opportunity to participate in the company's long-term growth journey.
+Professional Growth & Impact
+Play a key role in shaping the technology strategy of one of Vietnam's leading technology companies.
+Lead large-scale AI transformation initiatives with significant business impact.
+Work on complex technology challenges involving AI, data, architecture, and platform scalability.
+Influence the development of products and services serving millions of users.
+Global Exposure
+Collaborate with leading technology experts, partners, and industry leaders in Vietnam and internationally.
+Represent the company in strategic discussions, conferences, and industry events.
+Location: Hanoi, Vietnam
+Contact: Lia Thu Hang - 0915 206 917; Email: hang@cnk-consulting.com.vn We appreciate all applications; however, only shortlisted candidates will be contacted.","Competitive Rewards
+Attractive executive compensation package aligned with experience and performance.
+Performance-based incentives and long-term reward programs.
+Opportunity to participate in the company's long-term growth journey.
+Professional Growth & Impact
+Play a key role in shaping the technology strategy of one of Vietnam's leading technology companies.
+Lead large-scale AI transformation initiatives with significant business impact.
+Work on complex technology challenges involving AI, data, architecture, and platform scalability.
+Influence the development of products and services serving millions of users.
+Global Exposure
+Collaborate with leading technology experts, partners, and industry leaders in Vietnam and internationally.
+Represent the company in strategic discussions, conferences, and industry events.
+Location: Hanoi, Vietnam
+Contact: Lia Thu Hang - 0915 206 917; Email: hang@cnk-consulting.com.vn We appreciate all applications; however, only shortlisted candidates will be ...",linkedin
+Technical Support Engineer,tesa,,Hanoi Capital Region,,,,5.0,"['REST', 'AI', 'Excel']",Full-time,Associate,2026-06-01,,"Are you passionate about solving complex technical problems and providing world-class support to customers? We're seeking a dynamic
+Technical Support Engineer (TSE)
+to join our team! In this role, you will collaborate closely with our customers, distribution partners, and sales teams to provide technical guidance, product recommendations, and innovative solutions in line with market needs. If you're a hands-on problem solver with a background in technical support, we want to hear from you!
+Why You’ll Love Working With Us:
+Innovative Environment:
+Be part of a forward-thinking company that values creativity and innovation.
+Build your expertise:
+Enjoy learning opportunities for professional development and build your field expertise
+Impactful Work:
+Make a significant impact in a rapidly growing market.
+Competitive Benefits:
+Receive a competitive salary and comprehensive benefits package.
+Key Responsibilities:
+Assists the sales team in various segments (Electronics, Automotive, Industrial Trade& Converter, Home Appliance, Electrical System and Printing and Packaging solution) in presenting and supporting technical aspects of the selling process through customer consultations, application test management and solution recommendation including product Spec-in activities.
+Actively adopts and leverages use of AI in enhancing technical supports and speed in responding and supporting the customers.
+To handle technical inquiry including qulity issue related to tesa product and application.
+Provides training support to customers on product introduction/process solutions/ roll out and application knowledge.
+Provides training support to internal sales team on technical aspects-adhesive tape, product introduction and application knowledge.
+Provides reports on activities on a focus projects update on a monthly basis as stipulated by management.
+Handling the projects assigned by Manager.
+Skills and Knowledge:
+Bachelor's or Master’s degree in Chemistry, Mechanical or equivalent.
+Minimum 3-5 years of experience in technical sales support and customer consultancy in industrial consumables and investment goods.
+Strong analytical and problem-solving skills.
+Proficiency in English with excellent written and verbal communication skills.
+High-quality technical support and strong customer relationship skills.
+Collaborative and inclusive team player.
+Ability to manage multiple tasks and adapt to changing priorities.
+Openness and integrity.
+Assertiveness and persuasiveness.
+Logical thinking and problem-solving.
+Strong interpersonal and communication skills.
+Good time-management skills and tolerance for multi-tasking.
+Demonstrated openness and ability to use AI-enabled and digital tools productively and responsibly in the workplace.
+Understanding of the need for human validation, data protection, confidentiality, and ethical use when applying AI in business activities.
+We appreciate your interest in tesa tape. Please submit your CV to employment.SEA@tesa.com. If we wish to arrange a personal interview, we will contact you by mail or phone.","Receive a competitive salary and comprehensive benefits package.
+Key Responsibilities:
+Assists the sales team in various segments (Electronics, Automotive, Industrial Trade& Converter, Home Appliance, Electrical System and Printing and Packaging solution) in presenting and supporting technical aspects of the selling process through customer consultations, application test management and solution recommendation including product Spec-in activities.
+Actively adopts and leverages use of AI in enhancing technical supports and speed in responding and supporting the customers.
+To handle technical inquiry including qulity issue related to tesa product and application.
+Provides training support to customers on product introduction/process solutions/ roll out and application knowledge.
+Provides training support to internal sales team on technical aspects-adhesive tape, product introduction and application knowledge.
+Provides reports on activities on a focus projects update on a monthly basis as...",linkedin
+IT SYSTEM ENGINEER /INFRASTRUCTURE ENGINEER,VINASEED,,"Hanoi, Hanoi, Vietnam",,,,,"['Linux', 'AI', 'Firewall', 'VPN']",Full-time,Not Applicable,2026-05-16,,"Tuyển dụng
+Thông tin tuyển dụng
+Tại sao chọn Vinaseed?
+Quy trình tuyển dụng
+Nộp hồ sơ trực tuyến
+Xem thêm Thu gọn
+Tin tuyển dụng khác
+NHÂN VIÊN KẾ HOẠCH VẬN HÀNH
+Số lượng: 01
+Hạn nộp HS: 31/05/2026
+NHÂN VIÊN CƠ KHÍ CHẾ BIẾN - CHI NHÁNH TÂY NGUYÊN
+Số lượng: 01
+Hạn nộp HS: 31/05/2026
+NHÂN VIÊN KINH DOANH CHI NHÁNH HÀ NAM
+Số lượng: 02
+Hạn nộp HS: 31/05/2026
+Thông tin tuyển dụng
+IT SYSTEM ENGINEER /INFRASTRUCTURE ENGINEER
+Nơi làm việc:
+Địa chỉ: Số 01 Lương Đình Của, P. Kim Liên, TP. Hà Nội
+Số lượng:
+01
+Hạn nộp HS>:
+31/05/2026
+Yêu cầu>
+Báo cáo cho: IT Manager
+Thời gian làm việc:
+Từ Thứ Hai đến Thứ Sáu
+Nam tốt nghiệp Cao đẳng, Đại học chuyên ngành IT hoặc kỹ thuật liên quan.
+Độ tuổi: 24 – 40 tuổi.
+Có ít nhất 03 năm kinh nghiệm làm việc trong lĩnh vực IT, quản trị hệ thống và hỗ trợ người dùng, ưu tiên có chứng chỉ quản trị hệ thống MCSA, CCNA.
+Có kinh nghiệm triển khai hệ thống mạng từ đầu. Trung thực, có tinh thần trách nhiệm và tận tâm với công việc, có tư duy thay đổi, sáng tạo và tối ưu trong công việc.
+Có khả năng làm việc độc lập/làm việc nhóm liên quan đến thiết kế, triển khai xây dựng hệ thống mạng và các dịch vụ CNTT trong doanh nghiệp lớn/nhiều chi nhánh.
+Công việc>
+Cài đặt, thiết lập từ đầu và quản trị hệ thống mạng của Tập đoàn và các Công ty thành viên. Hệ thống cơ bản bao gồm:
+Máy chủ ảo hóa (Windows hoặc Linux server, VPS , Cloud server…).
+Các máy trạm (Windows 7 đến windows 11)
+Các thiết bị mạng (Firewall, Switch, SAN, NAS, Wifi, kết nối Internet, VPN…)
+Cài đặt, cấu hình máy chủ, máy trạm, thiết bị mạng, hệ thống backup, thiết bị ngoại vi và các phần mềm ứng dụng.
+Nghiên cứu các giải pháp mới: AI, Ảo hóa, Bảo mật, Clouds, data center, giám sát hệ thống từ xa …
+Hỗ trợ người dùng trong một số trường hợp liên quan đến hệ thống, tư duy giảm thiểu tối đa lỗi phát sinh và không có lỗi lặp lại.
+Quyền lợi>
+Được làm việc trong môi trường năng động, top 1 về sản phẩm giống cây trồng tại Việt Nam, tiếp cận và triển khai từ đầu với mô hình mạng và các giải pháp CNTT cung cấp cho người dùng.
+Có nhiều cơ hội học hỏi phát triển chuyên môn, kỹ thuật, kỹ năng quản lý dự án, AI, … và nhiều kiến thức khác.
+Thưởng các dịp lễ, Tết;
+Chế độ bảo hiểm theo quy định của pháp luật.
+Cơ hội thăng tiến cao theo định hướng phát triển CNTT của tập đoàn theo hướng hiện đại, chuyên nghiệp.
+Ứng tuyển vị trí này>",,linkedin
+SQL Developer,DXC Technology Vietnam,,"Ho Chi Minh City, Vietnam",,,,,"['Python', 'Scala', 'SQL', 'AI', 'SAP', 'ServiceNow', 'Security']",Full-time,Mid-Senior level,2026-06-08,,"We are seeking a SQL Application Support Engineer to support application and data-related operations. This role focuses on handling incidents, troubleshooting data issues, and supporting application/database activities using SQL and stored procedures.
+The ideal candidate should be comfortable working in a support environment, investigating data discrepancies, and resolving production issues at the database/application level.
+Key Responsibilities
+Handle incident tickets related to application and data issues
+Investigate and troubleshoot data discrepancies, identify root causes
+Write SQL queries to:
+Extract and analyze data
+Validate data accuracy
+Investigate data-related issues
+Perform data verification and reconciliation
+Fix data issues directly when applicable, or escalate to higher-level teams when required
+Work with stored procedures to support troubleshooting and minor enhancements
+Provide support at the application/database layer (not infrastructure level)
+Collaborate with internal stakeholders (BA, Developers, Operations) to resolve issues
+Maintain clear documentation of incidents, root causes, and resolutions
+Requirements
+Must-have
+Experience in Application Support / Production Support / Data Support environment
+Solid understanding of SQL and relational database structure (tables, relationships, data flow)
+Ability to write SQL queries for:
+Data extraction
+Data analysis and troubleshooting
+Basic knowledge of stored procedures (able to read, understand, and modify simple logic)
+Experience handling:
+Incident / ticket-based support
+Data-related issues in production
+Strong analytical and problem-solving skills
+Good English communication skills (able to explain issues clearly and work with stakeholders)
+Nice to have
+Ability to write or optimize stored procedures independently
+Basic knowledge of Python
+Experience in data validation / reconciliation
+Exposure to reporting systems or data processing environments
+About DXC Technology
+DXC Technology
+(NYSE: DXC) is a leading independent IT services company serving nearly 6,000 clients in 70 countries, delivering end-to-end, next-generation solutions through global expertise and strong partnerships.
+DXC Vietnam
+, part of DXC Technology (Fortune 500), has nearly 30 years of presence with about 1,300 engineers, providing high‑quality, cost‑effective technology services to global and local clients. Our expertise covers AI, RPA, ServiceNow, SAP, Mobility, and application development.
+EMPLOYEE BENEFITS AND PERKS
+Attractive and competitive salary package.
+Full salary-based contributions to Social Insurance, Health Insurance, and Unemployment Insurance in accordance with Social Security Law.
+13th-month salary (guaranteed).
+Generous leave policy: 12 annual leave days, 6 personal leave days, 1 volunteer leave day, plus sick leave, maternity/paternity leave, and childcare leave.
+Premium Healthcare Insurance (1+1 for employees and dependents).
+Employee Assistance Program (EAP) with 1:1 confidential consultation to support physical and mental well-being.
+Opportunities to access the Well-being Hub with programs focused on health, mental wellness, and financial planning.
+Learning & development support, including access to training resources and voucher sponsorship for professional certification exams.
+Opportunities to work on global projects, collaborate with international teams, and potentially overseas assignments or relocation.
+Special allowances and gifts: English and Japanese language allowances, wedding gifts, newborn gifts, and more.
+Remote work support with a company-provided laptop.
+Annual team activities and company events.
+Collaborative and inclusive international working environment that fosters teamwork, knowledge sharing, and continuous growth.","Attractive and competitive salary package.
+Full salary-based contributions to Social Insurance, Health Insurance, and Unemployment Insurance in accordance with Social Security Law.
+13th-month salary (guaranteed).
+Generous leave policy: 12 annual leave days, 6 personal leave days, 1 volunteer leave day, plus sick leave, maternity/paternity leave, and childcare leave.
+Premium Healthcare Insurance (1+1 for employees and dependents).
+Employee Assistance Program (EAP) with 1:1 confidential consultation to support physical and mental well-being.
+Opportunities to access the Well-being Hub with programs focused on health, mental wellness, and financial planning.
+Learning & development support, including access to training resources and voucher sponsorship for professional certification exams.
+Opportunities to work on global projects, collaborate with international teams, and potentially overseas assignments or relocation.
+Special allowances and gifts: English and Japanese language allowances, ...",linkedin
+Junior End User Onsite Support,DXC Technology Vietnam,,"Ho Chi Minh City, Vietnam",,,,,['ServiceNow'],Full-time,Associate,2026-06-08,,"We are looking for a
+Junior End User Field Support Engineer
+to provide on-site technical support and troubleshooting services for end users at the client site.
+Working time:
+09:00 AM – 06:00 PM, Monday to Friday
+, onsite at the
+client office, Sai Gon Ward
+.
+Job Description:
+A full-time position working at designated client site, required to provide high-quality, onsite technical and troubleshooting services covering below support activities within the required SLA time frame
+Hardware support: technical diagnosis and coordination with OEM vendors for repair of defective hardware for a variety of devices including desktops/laptops/workstations, mobile devices, tablets, meeting room equipment, printers etc.
+Software support: diagnosis and resolution of software functionality for both the operating system and standard desktop applications
+IMACD: physical installations, moves, adds, changes, and de-installs for a wide variety of supported hardware devices including desktops/laptops/workstations, mobile devices, tablets, meeting room equipment, printers and etc. and supported software
+Enhanced support for VIP users including 7x24 on-call support
+Coordinate with infrastructure teams to resolve issues with network, servers or other infrastructure devices or services that impact the normal work of end users
+Support hardware and software changes (e.g. hardware device change/refresh, system upgrade/migration, patch update, etc.) for end users
+Asset management support for end user devices by following defined processes
+Provide smart hand support for all kinds of hardware such as printers, servers, network devices, backup devices, meeting room equipment, scientific devices etc.
+Onsite support for events such as trade shows or special meetings
+Regular checks for IT Room devices and Meeting Room equipment when required
+Deployment services for large-scale efforts include asset auditing and discovery, project support, image integration, on-site installation, user self-installation, migration, and asset recovery governed with full project status and reporting
+Requirements:
+2+ years of deskside support experience
+(MNC support experience and VIP support experience preferred)
+Experience in using ServiceNow is preferred
+Good deskside support technical skills and basic infrastructure knowledge
+Good communication and coordination skills
+Good English reading/writing/speaking skills
+Be polite, patient, helpful
+Have a good sense of service mindset
+Have a good capacity of adaptability
+Willing to work overtime when required",,linkedin
+Data Center Technician - Vietnam - Ho Chi Minh - On-site,Reboot Monkey,,"Xã Thái Mỹ, Ho Chi Minh City, Vietnam",,,,,[],Full-time,Entry level,2026-03-17,,"About The Role
+We are seeking an experienced
+Data Center Technician
+for freelance/contract work in
+Ho Chi Minh, Vietnam
+. This is an on-site position supporting mission-critical infrastructure at premier data center facilities.
+Compensation
+₫200000-280000/hr
+(VND hourly)
+Rates vary based on experience level and project complexity. Emergency and after-hours work may qualify for premium rates.
+Engagement Type
+Contract/Freelance basis
+Flexible scheduling available
+Project-based or ongoing support
+Remote hands and smart hands services
+Key Responsibilities
+Perform hardware installations, decommissions, and migrations
+Execute structured cabling (copper and fiber optic)
+Conduct server racking, stacking, and labeling
+Perform cross-connects and patch panel work
+Troubleshoot connectivity and hardware issues
+Document all work with photos and detailed notes
+Coordinate with remote NOC and client teams
+2+ years data center or IT infrastructure experience
+Strong cabling skills (Cat5e/6/6a, single-mode/multi-mode fiber)
+Experience with server hardware (Dell, HP, Supermicro)
+Ability to lift 50+ lbs and work in raised floor environments
+Own transportation and ability to work on-site
+Professional communication skills in English
+Data center certifications (CDCP, CDCS, or similar) - preferred
+Network certifications (CCNA, CompTIA Network+) - preferred
+Experience with DCIM and ticketing systems - preferred
+Familiarity with major colocation providers - preferred
+Standard tools: screwdrivers, cable testers, label makers, fiber inspection equipment",,linkedin
+SQL Data Analyst,DXC Technology Vietnam,,"Ho Chi Minh City, Vietnam",,,,5.0,"['Python', '.NET', 'SQL', 'Git', 'Agile', 'Scrum', 'AI', 'SAP', 'ServiceNow', 'Security']",Full-time,Mid-Senior level,2026-05-16,,"We are looking for
+a Data Analyst with solid hands-on experience in SQL.
+The role involves building data-driven reports, integrating systems, and collaborating with both internal teams and clients. This position requires strong technical ownership and the ability to work independently on assigned modules.
+Key Responsibilities
+Design, develop, and maintain SSRS reports and dashboards for business users.
+Write optimized
+SQL queries
+, stored procedures, and data processing logic.
+Collaborate with BA, QA, and other developers to deliver high-quality solutions.
+Participate in client meetings and interviews for requirement clarification and solution discussion.
+Ensure code quality, documentation, and adherence to best practices.
+Required Skills
+3 - 5 years
+of experience in software development.
+Bachelor’s degree in Computer Science or related field.
+Proficiency in:
+SQL / Database development.
+Strong understanding of software development lifecycle, debugging, and version control (Git).
+Good communicate in English.
+Ability to work independently and deliver tasks with minimal supervision.
+Nice to Have
+Python
+.NET
+Knowledge of Agile/Scrum methodologies.
+Knowledge of SSRS.
+Experience working directly with international clients.
+About DXC Technology
+DXC Technology
+(NYSE: DXC) is a leading independent IT services company serving nearly 6,000 clients in 70 countries, delivering end-to-end, next-generation solutions through global expertise and strong partnerships.
+DXC Vietnam
+, part of DXC Technology (Fortune 500), has nearly 30 years of presence with about 1,300 engineers, providing high‑quality, cost‑effective technology services to global and local clients. Our expertise covers AI, RPA, ServiceNow, SAP, Mobility, and application development.
+EMPLOYEE BENEFITS AND PERKS
+Attractive and competitive salary package.
+Full salary-based contributions to Social Insurance, Health Insurance, and Unemployment Insurance in accordance with Social Security Law.
+13th-month salary (guaranteed).
+Generous leave policy: 12 annual leave days, 6 personal leave days, 1 volunteer leave day, plus sick leave, maternity/paternity leave, and childcare leave.
+Premium Healthcare Insurance (1+1 for employees and dependents).
+Employee Assistance Program (EAP) with 1:1 confidential consultation to support physical and mental well-being.
+Opportunities to access the Well-being Hub with programs focused on health, mental wellness, and financial planning.
+Learning & development support, including access to training resources and voucher sponsorship for professional certification exams.
+Opportunities to work on global projects, collaborate with international teams, and potentially overseas assignments or relocation.
+Special allowances and gifts: English and Japanese language allowances, wedding gifts, newborn gifts, and more.
+Remote work support with a company-provided laptop.
+Annual team activities and company events.
+Collaborative and inclusive international working environment that fosters teamwork, knowledge sharing, and continuous growth.","Attractive and competitive salary package.
+Full salary-based contributions to Social Insurance, Health Insurance, and Unemployment Insurance in accordance with Social Security Law.
+13th-month salary (guaranteed).
+Generous leave policy: 12 annual leave days, 6 personal leave days, 1 volunteer leave day, plus sick leave, maternity/paternity leave, and childcare leave.
+Premium Healthcare Insurance (1+1 for employees and dependents).
+Employee Assistance Program (EAP) with 1:1 confidential consultation to support physical and mental well-being.
+Opportunities to access the Well-being Hub with programs focused on health, mental wellness, and financial planning.
+Learning & development support, including access to training resources and voucher sponsorship for professional certification exams.
+Opportunities to work on global projects, collaborate with international teams, and potentially overseas assignments or relocation.
+Special allowances and gifts: English and Japanese language allowances, ...",linkedin
+Digitization Service Analyst (Open for Fresher),Anduin Transactions,,"Ho Chi Minh City, Vietnam",,,,1.0,['Excel'],Full-time,Mid-Senior level,2026-06-11,,"The private markets are a multi-trillion-dollar powerhouse that funds everything from tech startups to major infrastructure projects, yet much of it still operates on fragmented, inefficient legacy systems. At Anduin, we're changing that. The Anduin platform is built for the complete investor experience. We're not just improving a process; we're creating a better way for the entire industry to operate.
+The Anduin Platform has supported over $205 billion in capital raised, helping more than 1,180 funds and 64,000 investors transact in a more efficient and investor-friendly way. This remarkable traction is a testament to the powerful, tangible value we deliver to our clients every day, solidifying our position as a leader in the financial technology space.
+We're a global team of over 140 talented individuals with deep private market expertise across North America, Europe, and Asia. Since our founding in 2014, we've remained focused on our mission to revolutionize investing in alts and empower LP-GP relationships. If you're ready to join a team that is transforming an entire industry and making a real impact, we encourage you to apply.
+We are looking for a Digitization Service Analyst who will work closely with both engineering, legal, and digitization operation teams to take part in various production phases of Anduin Fund Subscription and Fund Operation products (https://fundsub.io).
+Job Responsibilities:
+-
+Digitize PDF subscription documents into web-based forms using internal tools, including but not limited to:
+Communicate effectively with customers to understand their expectations and gather required information for digitization;
+Analyze subscription documents to determine the required form logic and optimal digitization approach;
+Use Anduin’s platform and tools to digitize subscription documents;
+Coordinate effectively with technology engineers to implement form logic, and with cross-functional teams to address customer requests;
+Partly involved in logic implementation (using simple programming language) and testing to ensure quality and accuracy before delivery.
+-
+Align with company and team goals, and adapt to changes in technology and processes.
+-
+Actively contribute to discussions and initiatives to improve processes, tools, and products.
+-
+Demonstrate flexibility and the ability to quickly adapt to new tools, technologies, and evolving responsibilities.
+Job Qualifications:
+Excellent English skills (MUST).
+Strong logical thinking with good analytical and problem-solving skills.
+Tech-oriented mindset with solid computer skills and openness to new technologies.
+Ability to document and troubleshoot errors.
+Agility and willingness to learn and adapt to changes.
+High sense of responsibility and strong work ethic.
+Ability to handle pressure and maintain work quality during high-demand periods.
+Excellent time management and strong attention to detail.
+STEM background is a plus.
+1+ year of relevant work experience is preferred",,linkedin
