@@ -1,0 +1,91 @@
+job_title,company_name,location,posted_date,salary_min,salary_max,salary_currency,job_type,job_level,experience_required,skills,source,salary_missing
+Product Manager/Owner,Công ty TNHH Công nghệ và Truyền thông Thiên Khôi,Hanoi,2026-05-28,,,,Full-time,Mid,,"Jira, Scrum, Agile",itviec,True
+Security Engineer,TIKI,Ho Chi Minh City,2026-05-28,,,,Full-time,Fresher,,"CI/CD, Python",itviec,True
+Database Administrator,Ngân hàng TMCP Thịnh vượng và Phát triển (PGBank),Hanoi,2026-05-28,,,,Full-time,Fresher,,"Oracle, Python, SQL, PostgreSQL",itviec,True
+ERP/CRM Specialist,xboss,Ho Chi Minh City,2026-05-28,,,,Full-time,Fresher,,"Oracle, SAP, ERP, Odoo",itviec,True
+Business Analyst,AITS | Vietnam Airlines,Hanoi,2026-05-28,,,,Full-time,Junior,,English,itviec,True
+AI/ML Engineer,Techcombank,Hanoi,2026-05-28,,,,Full-time,Senior,,"AI, Databricks, LLM, Python",itviec,True
+QA/Tester,Smilegate Vietnam,Ho Chi Minh City,2026-05-27,,,,Full-time,Fresher,,"Automation Test, Scrum, Selenium, Agile",itviec,True
+IT Support,Spiraledge,Ho Chi Minh City,2026-05-27,,,,Full-time,Intern,,"Linux, AI",itviec,True
+Backend Developer,NEC Vietnam,Ho Chi Minh City,2026-05-27,,,,Full-time,Senior,,".NET, React, CI/CD, ASP.NET, Japanese",itviec,True
+Frontend Developer,My Audit Corner,Hanoi,2026-05-27,,,,Remote,Fresher,,"FastAPI, English, TypeScript, Vue, Python",itviec,True
+Embedded Engineer,Hella Vietnam,Ho Chi Minh City,2026-05-27,,,,Full-time,Fresher,,Embedded,itviec,True
+Data Analyst,CÔNG TY CỔ PHẦN CHỨNG KHOÁN KAFI,Ho Chi Minh City,2026-05-27,,,,Full-time,Senior,,"Power BI, Oracle, PostgreSQL, SQL",itviec,True
+QA/Tester,Gene Solutions,Ho Chi Minh City,2026-05-27,,,,Full-time,Fresher,,"API, Postman, SQL",itviec,True
+DevOps/Infra Engineer,Mynavi TechTus Vietnam,Da Nang,2026-05-27,,,,Full-time,Fresher,,"DevOps, Terraform, Linux, Kubernetes, AWS",itviec,True
+Solution Architect,National Citizen Bank | NCB,Hanoi,2026-05-27,,,,Full-time,Fresher,,"Docker, Microservices",itviec,True
+Frontend Developer,CubiCasa,Ho Chi Minh City,2026-05-27,,,,Full-time,Intern,,"English, Git, Vue",itviec,True
+Backend Developer,CodeLink,Hanoi,2026-05-27,,,,Full-time,Senior,,"Ruby on Rails, AI, Security, React Native, React, Python",itviec,True
+Fullstack/Software Engineer,Kingfoodmart,Ho Chi Minh City,2026-05-27,,,,Full-time,Fresher,,Automation Test,itviec,True
+IT Manager,"Southern Technology Development Company, Ltd",Ho Chi Minh City,2026-05-27,,,,Full-time,Manager+,,"SAP, Oracle",itviec,True
+Solution Architect,Dirox,Ho Chi Minh City,2026-05-27,,,,Full-time,Fresher,,"AWS, DevOps",itviec,True
+Backend Developer,DTS Software Vietnam,Hanoi,2026-05-27,,,,Full-time,Intern,,"C++, C#",itviec,True
+Game Developer,Athena Studio,Ho Chi Minh City,2026-05-27,,,,Full-time,Senior,,"Agile, English, AI, C#",itviec,True
+DevOps/Infra Engineer,One Mount Group,Hanoi,2026-05-27,,,,Full-time,Fresher,,"Docker, Nginx, Node.js, JavaScript, Python, Kubernetes",itviec,True
+AI/ML Engineer,Chotot,Ho Chi Minh City,2026-05-27,,,,Full-time,Fresher,,"Machine Learning, English, SQL, Python, AI",itviec,True
+Project Manager,NEC Vietnam,Hanoi,2026-05-27,,,,Full-time,Senior,,"Japanese, Project Management",itviec,True
+AI/ML Engineer,Smart Pay,Ho Chi Minh City,2026-05-27,,,,Full-time,Manager+,,AI,itviec,True
+Backend Developer,CÔNG TY CỔ PHẦN METAFORCE,Hanoi,2026-05-27,,,,Full-time,Fresher,,"Java, Spring Boot, OOP, C++, SQL",itviec,True
+Fullstack/Software Engineer,RAKSUL Vietnam,Ho Chi Minh City,2026-05-27,,,,Full-time,Fresher,,"Ruby on Rails, Spring Boot, Java, JavaScript, AWS",itviec,True
+AI/ML Engineer,MB Bank,Hanoi,2026-05-27,,,,Full-time,Senior,,"AI, LLM, Deep Learning, Machine Learning, Computer Vision, NLP",itviec,True
+QA/Tester,Titan DMS,Ho Chi Minh City,2026-05-27,,,,Full-time,Senior,,"CI/CD, Automation Test, Agile, English",itviec,True
+Backend Developer,Transaction Technologies,Ho Chi Minh City,2026-05-27,,,,Full-time,Fresher,,"Java, OOP, NoSQL, Oracle, SQL",itviec,True
+AI/ML Engineer,"MONEY FORWARD VIETNAM CO.,LTD",Hanoi,2026-05-27,,,,Full-time,Fresher,,"DevOps, LLM, AWS, AI, English",itviec,True
+Backend Developer,VNGGames,Ho Chi Minh City,2026-05-27,,,,Full-time,Senior,,"Java, Go",itviec,True
+QA/Tester,KMS Technology,Ho Chi Minh City,2026-05-27,,,,Full-time,Fresher,,"Automation Test, English",itviec,True
+AI/ML Engineer,KMS Technology,Ho Chi Minh City,2026-05-27,,,,Full-time,Senior,,"LLM, AI, English",itviec,True
+Security Engineer,Parcel Perform,Ho Chi Minh City,2026-05-27,,,,Full-time,Fresher,,"Security, AI, AWS",itviec,True
+Mobile Developer,KMS Technology,Ho Chi Minh City,2026-05-27,,,,Full-time,Manager+,,"React Native, GraphQL, JavaScript, English",itviec,True
+AI/ML Engineer,Ahamove,Ho Chi Minh City,2026-05-27,,,,Full-time,Senior,,"Machine Learning, Python, SQL, AI",itviec,True
+QA/Tester,Ingenico Vietnam,Hanoi,2026-05-27,,75000000.0,VND,Full-time,Fresher,,"Automation Test, English",itviec,False
+IT Manager,MEGAZONE,Hanoi,2026-05-27,,,,Full-time,Manager+,,"Project Management, English, Agile",itviec,True
+Consultant,NAB Innovation Centre Vietnam,Hanoi,2026-05-27,,,,Full-time,Senior,,"React, DevOps, Java",itviec,True
+DevOps/Infra Engineer,Con Cưng,Ho Chi Minh City,2026-05-27,,,,Full-time,Fresher,,"DevOps, AWS, Python, English",itviec,True
+IT Manager,ITviec Recruitment Consulting,Hanoi,2026-05-27,,,,Full-time,Senior,,"Project Management, Agile, Japanese",itviec,True
+Business Analyst,Katalon,Ho Chi Minh City,2026-05-27,,,,Full-time,Senior,,"ERP, LLM, API, AI",itviec,True
+AI/ML Engineer,Ngân Hàng Á Châu | ACB,Ho Chi Minh City,2026-05-27,,,,Full-time,Fresher,,"Java, AI, Python, ERP, Oracle",itviec,True
+Project Manager,Simpson Strong-Tie Vietnam,Ho Chi Minh City,2026-05-27,,,,Full-time,Fresher,,"Scrum, English, Jira, Agile",itviec,True
+Project Manager,ONE Tech Stop Vietnam Company Ltd,Da Nang,2026-05-27,,,,Full-time,Manager+,,"Project Management, Scrum, Agile",itviec,True
+Cloud Engineer,Accenture,Ho Chi Minh City,2026-05-27,,,,Full-time,Senior,,"GCP, Azure, Kubernetes, Terraform, Python",itviec,True
+Data Analyst,FPT Digital,Ho Chi Minh City,2026-05-27,,,,Full-time,Senior,,"Tableau, Python, SQL, Power BI",itviec,True
+QA/Tester,Zuhlke Engineering Vietnam,Other,2026-05-27,,,,Full-time,Senior,,"Java, Automation Test, Cypress",itviec,True
+Backend Developer,VRB,Hanoi,2026-05-27,,,,Full-time,Fresher,,".NET, Java, API, Oracle, SQL, PHP",itviec,True
+System/Network Admin,VRB,Hanoi,2026-05-27,,,,Full-time,Fresher,,"Windows Server, SQL, Kubernetes, Docker, Unix, Linux",itviec,True
+Database Administrator,VRB,Hanoi,2026-05-27,,,,Full-time,Fresher,,"SQL, Unix, Linux",itviec,True
+AI/ML Engineer,Vega Corporation,Hanoi,2026-05-26,,,,Full-time,Senior,,"AI, Deep Learning, TensorFlow, PyTorch, Computer Vision",itviec,True
+Fullstack/Software Engineer,CÔNG TY TNHH CÔNG NGHỆ VÀ THƯƠNG MẠI ÁNH DƯƠNG,Hanoi,2026-05-26,,,,Full-time,Fresher,,"Cybersecurity, Networking, Security",itviec,True
+Backend Developer,"Rakuten Fintech Vietnam Co., Ltd.",Ho Chi Minh City,2026-05-26,,,,Full-time,Senior,,"Java, Spring Boot, Spring, SQL, English",itviec,True
+AI/ML Engineer,CÔNG TY TNHH FINAN,Ho Chi Minh City,2026-05-26,,,,Full-time,Senior,,"AI, Go, API, SQL, Python, LLM",itviec,True
+AI/ML Engineer,FPT IS,Hanoi,2026-05-26,,,,Full-time,Senior,,"AI, Computer Vision, NLP, LLM",itviec,True
+Mobile Developer,Rexy Technology,Ho Chi Minh City,2026-05-26,,,,Full-time,Fresher,,"React, API, HTML5, JavaScript, React Native",itviec,True
+AI/ML Engineer,Scandinavian Software Park,Hanoi,2026-05-26,,,,Full-time,Fresher,,".NET, English, LLM, AI, API, C#",itviec,True
+IT Manager,NEC Vietnam,Hanoi,2026-05-26,,,,Full-time,Senior,,"Japanese, Project Management",itviec,True
+Backend Developer,Motorola Solutions,Ho Chi Minh City,2026-05-26,,,,Full-time,Fresher,,"Python, Networking, PowerShell, C#, Linux",itviec,True
+Fullstack/Software Engineer,KMS Technology,Ho Chi Minh City,2026-05-26,,,,Full-time,Senior,,,itviec,True
+Fullstack/Software Engineer,Gradion,Ho Chi Minh City,2026-05-26,,,,Full-time,Senior,,"Git, React, Node.js, TypeScript",itviec,True
+AI/ML Engineer,SSTech,Ho Chi Minh City,2026-05-26,,,,Full-time,Senior,,"Power BI, English, Sharepoint",itviec,True
+Embedded Engineer,LG Electronics Development Vietnam (LGEDV),Hanoi,2026-05-26,,,,Full-time,Fresher,,"Agile, Embedded, Python",itviec,True
+Backend Developer,NAB Innovation Centre Vietnam,Ho Chi Minh City,2026-05-26,,,,Full-time,Senior,,"Java, Spring Boot, Microservices, English",itviec,True
+IT Manager,NGÂN HÀNG THƯƠNG MẠI TNHH MTV KỶ NGUYÊN THỊNH VƯỢNG (GPBANK),Hanoi,2026-05-26,,,,Full-time,Fresher,,"Security, Cybersecurity",itviec,True
+Security Engineer,ITviec Recruitment Consulting,Hanoi,2026-05-26,,,,Full-time,Senior,,"Python, API, CI/CD, Security, AWS",itviec,True
+Solution Architect,PVcomBank,Hanoi,2026-05-26,,,,Full-time,Senior,,,itviec,True
+Backend Developer,FE CREDIT,Ho Chi Minh City,2026-05-26,,,,Full-time,Fresher,,"Java, Oracle, OOP",itviec,True
+Product Manager/Owner,NAB Innovation Centre Vietnam,Ho Chi Minh City,2026-05-26,,,,Full-time,Fresher,,"Agile, English",itviec,True
+Mobile Developer,RONTECH,Ho Chi Minh City,2026-05-26,,,,Full-time,Senior,,"Go, Java",itviec,True
+Product Manager/Owner,One Mount Group,Hanoi,2026-05-26,,,,Full-time,Senior,,"Scrum, ERP, Agile",itviec,True
+Fullstack/Software Engineer,NAB Innovation Centre Vietnam,Hanoi,2026-05-26,,,,Full-time,Senior,,Python,itviec,True
+AI/ML Engineer,HRS Group,Ho Chi Minh City,2026-05-26,,,,Full-time,Senior,,"Java, React, Next.js, AI, Python, English",itviec,True
+DevOps/Infra Engineer,Onpoint,Ho Chi Minh City,2026-05-26,,,,Full-time,Senior,,"DevOps, Microservices, AWS, Python, Go, Elixir",itviec,True
+Data Engineer,VietFul,Ho Chi Minh City,2026-05-26,,,,Full-time,Intern,,"MongoDB, PostgreSQL, SQL",itviec,True
+Security Engineer,OnePay,Hanoi,2026-05-26,,,,Full-time,Fresher,,"Security, Unix, Linux, Firewall",itviec,True
+DevOps/Infra Engineer,"MONEY FORWARD VIETNAM CO.,LTD",Hanoi,2026-05-26,,,,Full-time,Senior,,"DevOps, Terraform, Kubernetes, Docker, AWS",itviec,True
+AI/ML Engineer,Sunteco,Hanoi,2026-05-26,,,,Full-time,Fresher,,"AI, API, LLM, Machine Learning, Docker, Kubernetes",itviec,True
+Embedded Engineer,Saigon New Port,Ho Chi Minh City,2026-05-26,,,,Full-time,Fresher,,Networking,itviec,True
+DevOps/Infra Engineer,Saigon Technology,Ho Chi Minh City,2026-05-25,,,,Full-time,Senior,,"DevOps, Azure, CI/CD, Kubernetes, PostgreSQL, AWS",itviec,True
+Fullstack/Software Engineer,Pizza Hut Digital & Technology,Ho Chi Minh City,2026-05-25,,,,Full-time,Fresher,,"React Native, React, English",itviec,True
+Business Analyst,EMESOFT,Ho Chi Minh City,2026-05-25,,,,Full-time,Fresher,,English,itviec,True
+Solution Architect,FPT Digital,Hanoi,2026-05-25,,,,Full-time,Fresher,,"ERP, AWS, GCP, Azure",itviec,True
+QA/Tester,EMESOFT,Ho Chi Minh City,2026-05-25,,,,Full-time,Senior,,"Scrum, Agile, Postman, Jira, SQL",itviec,True
+AI/ML Engineer,Công Ty TNHH CMMB Việt Nam,Hanoi,2026-05-25,,,,Full-time,Intern,,"CRM, Linux, API, AI",itviec,True
+Fullstack/Software Engineer,Motorola Solutions,Ho Chi Minh City,2026-05-25,,,,Full-time,Fresher,,"OpenCV, Linux",itviec,True
+Other,MB Bank,Hanoi,2026-05-25,,,,Full-time,Fresher,,"VBA, SQL",itviec,True

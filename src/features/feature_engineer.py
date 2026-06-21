@@ -160,7 +160,7 @@ class FeatureEngineer:
 
     def _encode_job_level(self, df):
         df = df.copy()
-        for level in ["Intern", "Junior", "Mid", "Senior", "Manager+"]:
+        for level in ["Intern", "Fresher", "Junior", "Mid", "Senior", "Manager+"]:
             col = f"job_level_{level.replace('+', 'Plus')}"
             df[col] = (df["job_level"] == level).astype(int)
         return df

@@ -18,4 +18,4 @@ MAX_RETRIES = 3
 
 # Valid categorial values
 VALID_JOB_TYPES = ["Full-time", "Part-time", "Internship", "Contract", "Remote"]
-VALID_JOB_LEVELS = ["Intern", "Junior", "Mid", "Senior", "Manager+"]
+VALID_JOB_LEVELS = ["Intern", "Fresher", "Junior", "Mid", "Senior", "Manager+"]

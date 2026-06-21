@@ -33,11 +33,18 @@ JOB_LEVEL_NORMALIZE = {
     "intern": "Intern", "internship": "Intern", "fresher": "Intern",
     "fresh graduate": "Intern", "student / intern": "Intern",
     "junior": "Junior", "entry level": "Junior", "associate": "Junior",
-    "staff": "Mid", "mid-senior level": "Mid", "not applicable": "Mid", "middle": "Mid",
+    "staff": "_nhanvien", "mid-senior level": "Mid", "not applicable": "Mid", "middle": "Mid",
+    "nhân viên": "_nhanvien",
     "senior": "Senior", "team lead": "Senior", "team lead / supervisor": "Senior",
+    "trưởng nhóm": "Senior", "trưởng nhóm / giám sát": "Senior",
     "manager": "Manager+", "manager / supervisor": "Manager+",
     "department head / deputy": "Manager+", "director": "Manager+",
     "executive": "Manager+", "vice director": "Manager+",
+    "quản lý": "Manager+", "quản lý / giám sát": "Manager+",
+    "trưởng/phó phòng": "Manager+", "giám đốc": "Manager+",
+    "phó giám đốc": "Manager+", "tổng giám đốc": "Manager+",
+    "trưởng chi nhánh": "Manager+",
+    "sinh viên/ thực tập sinh": "Intern", "mới tốt nghiệp": "Intern",
 }
 
 class Cleaner:
@@ -65,6 +72,12 @@ class Cleaner:
 
         # Fix level/title mismatch
         df = self._fix_level_mismatch(df)
+
+        # Infer job_level from title when missing
+        df = self._infer_level_from_title(df)
+
+        # Resolve "Nhân viên"/_nhanvien based on experience
+        df = self._resolve_nhanvien_by_experience(df)
 
         # Clean salary
         df["salary_min"] = df["salary_min"].apply(self._clean_salary)
@@ -145,6 +158,70 @@ class Cleaner:
         fixed = mask.sum()
         if fixed:
             logger.info("Fixed %d level mismatches (title=Senior, level=Mid)", fixed)
+        return df
+
+    @staticmethod
+    def _infer_level_from_title(df: pd.DataFrame) -> pd.DataFrame:
+        """For records still missing job_level, infer from title keywords.
+        Default to 'Fresher' unless title suggests senior/lead/manager."""
+        empty_mask = df["job_level"].fillna("").str.strip() == ""
+        if not empty_mask.any():
+            return df
+
+        title_lower = df.loc[empty_mask, "job_title"].str.lower()
+
+        # Senior indicators
+        senior_mask = title_lower.str.contains(
+            r"senior|lead|principal|expert|trưởng nhóm|technical leader", na=False
+        )
+        df.loc[empty_mask & senior_mask, "job_level"] = "Senior"
+
+        # Manager indicators
+        manager_mask = title_lower.str.contains(
+            r"manager|director|head of|trưởng phòng|giám đốc|quản lý", na=False
+        )
+        df.loc[empty_mask & manager_mask, "job_level"] = "Manager+"
+
+        # Everything else still empty → Fresher
+        still_empty = df["job_level"].fillna("").str.strip() == ""
+        df.loc[still_empty, "job_level"] = "Fresher"
+
+        inferred = empty_mask.sum()
+        logger.info("Inferred job_level for %d records (default=Fresher)", inferred)
+        return df
+
+    @staticmethod
+    def _resolve_nhanvien_by_experience(df: pd.DataFrame) -> pd.DataFrame:
+        """Resolve '_nhanvien' (Nhân viên/Staff) into Fresher/Junior/Mid
+        based on experience_required:
+          - 0-1 years or missing → Fresher
+          - 1-3 years → Junior
+          - 3+ years → Mid
+        """
+        mask = df["job_level"] == "_nhanvien"
+        if not mask.any():
+            return df
+
+        exp = pd.to_numeric(df.loc[mask, "experience_required"], errors="coerce")
+
+        # 3+ years → Mid
+        mid_mask = mask & (exp >= 3)
+        df.loc[mid_mask, "job_level"] = "Mid"
+
+        # 1-3 years → Junior
+        junior_mask = mask & (exp >= 1) & (exp < 3)
+        df.loc[junior_mask, "job_level"] = "Junior"
+
+        # 0-1 years or NaN → Fresher
+        still_nv = df["job_level"] == "_nhanvien"
+        df.loc[still_nv, "job_level"] = "Fresher"
+
+        logger.info(
+            "Resolved 'Nhân viên' by experience: Fresher=%d, Junior=%d, Mid=%d",
+            still_nv.sum() if not still_nv.any() else (df.loc[mask, "job_level"] == "Fresher").sum(),
+            (df.loc[mask, "job_level"] == "Junior").sum(),
+            (df.loc[mask, "job_level"] == "Mid").sum(),
+        )
         return df
 
     @staticmethod

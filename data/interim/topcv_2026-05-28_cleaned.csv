@@ -1,0 +1,131 @@
+job_title,company_name,location,posted_date,salary_min,salary_max,salary_currency,job_type,job_level,experience_required,skills,source,salary_missing
+Other,Công ty Cổ phần Chứng thực số Toàn Cầu Việt Nam,Hanoi,2026-05-28,10000000.0,20000000.0,VND,Full-time,Junior,2.0,"Linux, Windows Server, DNS, TCP/IP, firewall, AWS, Security",topcv,False
+Fullstack/Software Engineer,CÔNG TY TNHH THƯƠNG MẠI QUỐC TẾ BLUESTARS VIỆT NAM,Hanoi,2026-05-28,28000000.0,35000000.0,VND,Full-time,Mid,3.0,"Elasticsearch, PostgreSQL, Python, Next.js, React, Java, JavaScript, TypeScript, FastAPI, Docker, CI/CD, Redis, Agile, Linux, REST, AI, API",topcv,False
+Consultant,Công Ty TNHH CNLGAMING,Ho Chi Minh City,2026-05-28,12000000.0,,VND,Full-time,Fresher,0.0,,topcv,False
+System/Network Admin,Công ty TNHH Yura Corporation Bắc Ninh_Chi nhánh Hà Nội,Hanoi,2026-05-28,,,,Full-time,Junior,1.0,"C++, Python, Security, Cybersecurity",topcv,True
+QA/Tester,CÔNG TY CỔ PHẦN GIÁO DỤC THÔNG MINH GENIETEACH,Hanoi,2026-05-28,15000000.0,30000000.0,VND,Full-time,Mid,3.0,"SQL, Agile, Scrum, REST, AI, Selenium, API",topcv,False
+Sales/Presales,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ VEXERE,Hanoi,2026-05-28,20000000.0,35000000.0,VND,Full-time,Junior,1.0,,topcv,False
+Business Analyst,Công ty TNHH Sản xuất Thương mại Dịch vụ Xuất nhập khẩu PEX,Hanoi,2026-05-28,,,,Full-time,Junior,2.0,"ERP, Power BI, tableau, Excel",topcv,True
+QA/Tester,CÔNG TY TNHH MỘT THÀNH VIÊN ACTIVE MEDIA VIỆT NAM,Ho Chi Minh City,2026-05-28,,,,Full-time,Mid,3.0,,topcv,True
+QA/Tester,Công ty Cổ phần Công nghệ Tài chính Goline,Hanoi,2026-05-28,14000000.0,20000000.0,VND,Full-time,Senior,2.0,"SQL, API",topcv,False
+Fullstack/Software Engineer,CÔNG TY TNHH DRMS VIỆT NAM,Hanoi,2026-05-28,12000000.0,,VND,Full-time,Junior,2.0,"CSS, HTML, Javascript, PHP, Figma, API, Wordpress, Java",topcv,False
+UI/UX Designer,CÔNG TY TNHH DH VENTURES VIETNAM,Ho Chi Minh City,2026-05-28,12000000.0,18000000.0,VND,Full-time,Junior,1.0,AI,topcv,False
+Fullstack/Software Engineer,CÔNG TY CỔ PHẦN GIÁO DỤC THÔNG MINH GENIETEACH,Hanoi,2026-05-28,20000000.0,35000000.0,VND,Full-time,Mid,3.0,"Git, Nestjs, Node.js, PostgreSQL, Mysql, Python, TypeScript, FastAPI, Redis, Kafka, Agile, REST, Microservices, AI, API",topcv,False
+IT Manager,Công Ty Tài Chính TNHH MTV Mirae Asset,Ho Chi Minh City,2026-05-28,,,,Full-time,Manager+,5.0,"Kubernetes, Jenkins, CI/CD, SQL, Git, Security",topcv,True
+Other,Công ty TNHH Quảng Tin,Ho Chi Minh City,2026-05-28,8000000.0,13000000.0,VND,Full-time,Junior,1.0,,topcv,False
+Fullstack/Software Engineer,"Magenest.,JSC",Ho Chi Minh City,2026-05-28,,,,Full-time,Senior,5.0,"Python, Java, Go, Node.js, Spring, Spring Boot, Docker, Kubernetes, AWS, Jenkins, CI/CD, DevOps, PostgreSQL, MySQL, Redis, Kafka, RabbitMQ, Agile, Scrum, REST, Microservices, AI, API, Security, Jira",topcv,True
+Data Engineer,Công ty TNHH Horus Productions,Hanoi,2026-05-28,15000000.0,30000000.0,VND,Full-time,Junior,1.0,"Python, Java, AWS, Azure, GCP, SQL",topcv,False
+Data Analyst,Công ty CP Khoa học Dữ liệu,Hanoi,2026-05-28,15000000.0,30000000.0,VND,Full-time,Junior,2.0,"Python, SQL, AI, Tableau, Excel, ERP",topcv,False
+Fullstack/Software Engineer,CÔNG TY CỔ PHẦN SEPAY,Ho Chi Minh City,2026-05-28,,,,Full-time,Junior,2.0,"Bootstrap, CSS, HTML, Javascript, JQuery, Laravel, MySQL, PHP, Go, Figma, AI, Tailwind, API",topcv,True
+Fullstack/Software Engineer,CÔNG TY CỔ PHẦN CÔNG NGHỆ KIOTVIET,Hanoi,2026-05-28,15000000.0,30000000.0,VND,Full-time,Junior,1.0,,topcv,False
+Fullstack/Software Engineer,CÔNG TY CỔ PHẦN KINH DOANH BẤT ĐỘNG SẢN MAYHOMES,Hanoi,2026-05-28,20000000.0,32000000.0,VND,Full-time,Mid,3.0,"Python, Java, JavaScript, Vue, Django, Flask, FastAPI, Docker, CI/CD, PostgreSQL, MySQL, Git, REST, HTML, CSS, Security, ERP, CRM",topcv,False
+UI/UX Designer,CÔNG TY TNHH PFAM,Ho Chi Minh City,2026-05-28,,,,Full-time,Senior,3.0,"Photoshop, AI",topcv,True
+Fullstack/Software Engineer,CHI NHÁNH CÔNG TY TNHH KDDI VIỆT NAM TẠI THÀNH PHỐ HỒ CHÍ MINH,Ho Chi Minh City,2026-05-28,,,,Full-time,Mid,5.0,"Azure, Firewall, Security, Active Directory, VMware",topcv,True
+UI/UX Designer,Genesis Escape,Hanoi,2026-05-28,,,,Full-time,Junior,2.0,"Photoshop, Figma",topcv,True
+Fullstack/Software Engineer,CÔNG TY CỔ PHẦN GIẢI PHÁP CÔNG NGHỆ ZENIFY,Hanoi,2026-05-28,,20000000.0,VND,Full-time,Junior,2.0,"Java, Javascript, MongoDB, MySQL, PostgreSQL, Websocket, TypeScript, Spring Boot, REST, React, Node.js, SQL, NoSQL, Redis, Agile, AI, Tailwind, API, JWT, CRM",topcv,False
+System/Network Admin,Chi nhánh Miền Nam – Công ty Cổ phần Đầu Tư và Dịch Vụ Kho Vận A+,Ho Chi Minh City,2026-05-28,9000000.0,12000000.0,VND,Full-time,Junior,1.0,Excel,topcv,False
+UI/UX Designer,CN TẠI MIỀN NAM - CÔNG TY CỔ PHẦN THIẾT KẾ LỤC GIÁC,Ho Chi Minh City,2026-05-28,8000000.0,13000000.0,VND,Full-time,Junior,1.0,,topcv,False
+Frontend Developer,Công ty TNHH Thiết kế T&T,Hanoi,2026-05-28,18000000.0,25000000.0,VND,Full-time,Junior,2.0,"MySQL, PostgreSQL, React, AI, .NET, SQL, REST, API",topcv,False
+Fullstack/Software Engineer,CÔNG TY CỔ PHẦN CÔNG NGHỆ THANH TOÁN THÀNH PHỐ THÔNG MINH,Ho Chi Minh City,2026-05-28,,,,Full-time,Mid,3.0,"SQL, React Native, React, Spring Boot, REST, Java, Spring, Docker, DevOps, MySQL, Redis, RabbitMQ, Microservices, API, Security",topcv,True
+Fullstack/Software Engineer,XIPAT FLEXIBLE SOLUTIONS COMPANY LIMITED,Hanoi,2026-05-28,,,,Full-time,Mid,3.0,"Go, PostgreSQL, MongoDB, DynamoDB, Redis, CI/CD, Docker, Python, PHP, React, Node.js, NoSQL, MySQL, REST, GraphQL, AI, API",topcv,True
+QA/Tester,Công ty Cổ phần Giải pháp phần mềm Tài Chính,Hanoi,2026-05-28,12000000.0,20000000.0,VND,Full-time,Mid,3.0,AI,topcv,False
+Other,CÔNG TY CỔ PHẦN GENKI TECH SOLUTIONS,Ho Chi Minh City,2026-05-28,25000000.0,37500000.0,VND,Full-time,Junior,2.0,"REST, AI, Excel, Project Management",topcv,False
+Game Developer,Công ty TNHH Horus Productions,Hanoi,2026-05-28,15000000.0,50000000.0,VND,Full-time,Junior,1.0,C#,topcv,False
+AI/ML Engineer,CÔNG TY TNHH PHẦN MỀM ALLIANCE,Ho Chi Minh City,2026-05-28,3000000.0,,VND,Full-time,Intern,0.0,AI,topcv,False
+System/Network Admin,CÔNG TY TNHH CUNG CẤP GIẢI PHÁP DỊCH VỤ GIÁ TRỊ GIA TĂNG (Vivas),Hanoi,2026-05-28,8000000.0,15000000.0,VND,Full-time,Junior,1.0,"DevOps, Firewall, VPN, Jira",topcv,False
+Business Analyst,Công ty Cổ phần METUB Việt Nam,Ho Chi Minh City,2026-05-28,,,,Full-time,Mid,3.0,,topcv,True
+System/Network Admin,CÔNG TY TNHH APPEN DATA TECHNOLOGY VIỆT NAM,Hanoi,2026-05-28,5000000.0,,VND,Full-time,Intern,0.0,AI,topcv,False
+Fullstack/Software Engineer,CÔNG TY CỔ PHẦN TẬP ĐOÀN MEDIPHA,Hanoi,2026-05-28,,,,Full-time,Junior,1.0,"Java, JavaScript, TypeScript, React, Node.js, MongoDB, MySQL, REST, API, JWT",topcv,True
+Fullstack/Software Engineer,Công ty Cổ phần Giải pháp phần mềm Tài Chính,Hanoi,2026-05-28,12000000.0,23000000.0,VND,Full-time,Junior,2.0,"kafka, React, Java, Spring, Spring Boot, AI",topcv,False
+Fullstack/Software Engineer,Viettel IDC,Hanoi,2026-05-28,,,,Full-time,Mid,3.0,"Django, Java, Python, Go, .NET, SQL, Agile, API",topcv,True
+Fullstack/Software Engineer,CÔNG TY CỔ PHẦN YANSOFT,Hanoi,2026-05-28,,25000000.0,VND,Full-time,Junior,2.0,"TypeScript, C++, Docker, CI/CD, React, Next.js, Node.js, MongoDB, PostgreSQL, MySQL, REST, AI, API",topcv,False
+Business Analyst,Công ty cổ phần FDS,Hanoi,2026-05-28,,,,Full-time,Mid,3.0,API,topcv,True
+Other,CÔNG TY TNHH CCTY VIỆT NAM,Other,2026-05-28,17000000.0,35000000.0,VND,Full-time,Junior,1.0,,topcv,False
+UI/UX Designer,CÔNG TY TNHH ENRICH OPERATING SYSTEM,Ho Chi Minh City,2026-05-28,12000000.0,20000000.0,VND,Full-time,Junior,2.0,"AI, Figma",topcv,False
+AI/ML Engineer,CÔNG TY TNHH SONIC FUSION,Ho Chi Minh City,2026-05-28,20000000.0,60000000.0,VND,Full-time,Mid,4.0,"PostgreSQL, Python, Redis, Docker, Go, NLP, Pytorch, Nestjs, Machine Learning, LLM, FastAPI, Deep Learning, Microservices, Next.js, Kafka, AI, API",topcv,False
+Frontend Developer,CÔNG TY TNHH DỊCH VỤ KẾ TOÁN CÔNG NGHỆ SMARTTAX,Hanoi,2026-05-28,10000000.0,20000000.0,VND,Full-time,Junior,2.0,"TypeScript, React, .NET, AI, CSS, Tailwind, API",topcv,False
+Project Manager,SHINHAN FINANCE,Ho Chi Minh City,2026-05-28,,,,Full-time,Manager+,5.0,"SQL, Agile, Scrum, Networking, Security, PMP",topcv,True
+UI/UX Designer,CÔNG TY TNHH MASKER MEDIA,Ho Chi Minh City,2026-05-28,,25000000.0,VND,Full-time,Junior,1.0,,topcv,False
+Embedded Engineer,TỔNG CÔNG TY CÔNG NGHIỆP CÔNG NGHỆ CAO VIETTEL,Hanoi,2026-05-28,15000000.0,62500000.0,VND,Full-time,Junior,2.0,Linux,topcv,False
+Fullstack/Software Engineer,CÔNG TY TNHH THƯƠNG MẠI LIÊN Á,Ho Chi Minh City,2026-05-28,13000000.0,15000000.0,VND,Full-time,Junior,1.0,"Git, Python, Jira, CI/CD, confluence, RTOS, Java, Kotlin, Cybersecurity, Agile, Scrum, Android, Security",topcv,False
+AI/ML Engineer,Công ty Cổ phần Tập Đoàn Dược Phẩm và Thương Mại Sohaco,Hanoi,2026-05-28,,,,Full-time,Junior,1.0,"Python, SQL, AI, Power BI, Excel, API",topcv,True
+System/Network Admin,CÔNG TY TRÁCH NHIỆM HỮU HẠN THƯƠNG MẠI SHIBA SHIBA,Ho Chi Minh City,2026-05-28,15000000.0,25000000.0,VND,Full-time,Mid,3.0,"SQL, AI, API, ERP, CRM",topcv,False
+AI/ML Engineer,CÔNG TY TNHH MEKTEC MANUFACTURING (VIỆT NAM),Hanoi,2026-05-28,,,,Full-time,Mid,3.0,"Python, SQL, NoSQL, MongoDB, AI, TensorFlow, PyTorch, Excel",topcv,True
+Backend Developer,CÔNG TY CỔ PHẦN CÔNG NGHỆ VCS VIỆT NAM,Hanoi,2026-05-28,13000000.0,18000000.0,VND,Full-time,Junior,2.0,".NET, ASP.NET, C#, Java, JavaScript, TypeScript, React, Angular, Vue, Docker, CI/CD, SQL, PostgreSQL, Git, REST, HTML, API",topcv,False
+Fullstack/Software Engineer,TỔNG CÔNG TY CÔNG NGHIỆP CÔNG NGHỆ CAO VIETTEL,Hanoi,2026-05-28,15000000.0,62500000.0,VND,Full-time,Junior,2.0,"Java, Go, SQL, iOS, Android",topcv,False
+IT Manager,CÔNG TY CP ĐẦU TƯ THƯƠNG MẠI SMC,Ho Chi Minh City,2026-05-28,,,,Full-time,Manager+,5.0,"AI, ERP",topcv,True
+Backend Developer,CÔNG TY CỔ PHẦN COWATECH,Hanoi,2026-05-28,18000000.0,26000000.0,VND,Full-time,Mid,3.0,"C#, Docker, React, .NET, SQL, REST, API, ERP",topcv,False
+Cloud Engineer,Viettel IDC,Hanoi,2026-05-28,,,,Full-time,Junior,2.0,,topcv,True
+Sales/Presales,CÔNG TY CỔ PHẦN AN NINH DỮ LIỆU VIỆT NAM,Hanoi,2026-05-28,,,,Full-time,Junior,2.0,,topcv,True
+AI/ML Engineer,CÔNG TY TNHH THE WANN,Ho Chi Minh City,2026-05-28,,,,Full-time,Mid,4.0,"Python, React, Vue, Next.js, Node.js, MongoDB, PostgreSQL, MySQL, AI, API",topcv,True
+Fullstack/Software Engineer,Công ty cổ phần công nghệ PosApp,Hanoi,2026-05-28,15000000.0,25000000.0,VND,Full-time,Junior,1.0,"Excel, CRM",topcv,False
+Sales/Presales,CÔNG TY CỔ PHẦN DU LỊCH VIỆT NAM VNTRAVEL,Hanoi,2026-05-28,,,,Full-time,Fresher,0.0,"AI, CRM",topcv,True
+Data Analyst,CÔNG TY CỔ PHẦN SÀN GIAO DỊCH TÀI SẢN MÃ HÓA VIỆT NAM THỊNH VƯỢNG,Hanoi,2026-05-28,,,,Full-time,Mid,5.0,"Python, SQL",topcv,True
+System/Network Admin,Công ty TNHH HS Hyosung Global Logistics Vina,Ho Chi Minh City,2026-05-28,,,,Full-time,Junior,1.0,"Agile, Excel",topcv,True
+Other,CÔNG TY TNHH DIGI-TEXX,Ho Chi Minh City,2026-05-28,65000000.0,75000000.0,VND,Full-time,Junior,1.0,,topcv,False
+Database Administrator,CÔNG TY TNHH SAMSUNG SDS VIỆT NAM,Hanoi,2026-05-28,,,,Full-time,Mid,4.0,"Python, SQL, PostgreSQL, MySQL, Linux, Excel",topcv,True
+ERP/CRM Specialist,Công ty TNHH Đầu tư và Thương mại Nam Dũng,Hanoi,2026-05-28,,,,Full-time,Junior,1.0,"SQL, Excel, REST, AI, API, ERP",topcv,True
+Other,CÔNG TY CỔ PHẦN GIẢI PHÁP CÔNG NGHỆ ZENIFY,Hanoi,2026-05-28,,30000000.0,VND,Full-time,Fresher,0.0,"AI, CRM",topcv,False
+Data Analyst,Công ty CP Kinh doanh F88,Hanoi,2026-05-28,30000000.0,45000000.0,VND,Full-time,Mid,5.0,"Python, SQL, Agile, Scrum, Power BI, Tableau",topcv,False
+UI/UX Designer,CÔNG TY TNHH MTS VN CORPORATION,Ho Chi Minh City,2026-05-28,15000000.0,23000000.0,VND,Full-time,Mid,3.0,"Photoshop, Figma, AI, HTML, CSS",topcv,False
+Data Analyst,Công Ty TNHH Điện Tử Việt Nhật,Other,2026-05-28,10000000.0,30000000.0,VND,Full-time,Junior,1.0,,topcv,False
+Backend Developer,CÔNG TY TNHH SONIC FUSION,Ho Chi Minh City,2026-05-28,55000000.0,,VND,Full-time,Junior,2.0,,topcv,False
+Game Developer,CÔNG TY TNHH NSTAGE VIỆT NAM,Hanoi,2026-05-28,,,,Full-time,Manager+,5.0,,topcv,True
+Sales/Presales,CLS VIỆT NAM - CÔNG TY TNHH DỊCH VỤ QUẢN LÝ HỆ THỐNG HỌC TẬP,Hanoi,2026-05-28,,,,Full-time,Junior,2.0,,topcv,True
+System/Network Admin,BASE BUSINESS SOLUTIONS,Ho Chi Minh City,2026-05-28,16000000.0,22000000.0,VND,Full-time,Mid,3.0,"firewall, VPN, ITIL",topcv,False
+Fullstack/Software Engineer,Công ty Cổ phần MISA,Hanoi,2026-05-28,,,,Full-time,Junior,1.0,"AI, Power BI, Jira",topcv,True
+Fullstack/Software Engineer,CÔNG TY CỔ PHẦN GIẢI PHÁP CÔNG NGHỆ ARITO,Hanoi,2026-05-28,,,,Full-time,Junior,1.0,"Networking, ERP",topcv,True
+Sales/Presales,CÔNG TY TNHH KỸ THUẬT THÔNG TIN JUNIWER VIỆT NAM,Hanoi,2026-05-28,,,,Full-time,Junior,2.0,,topcv,True
+Sales/Presales,Công Ty Cổ Phần Công Nghệ Và Truyền Thông Lanit,Hanoi,2026-05-28,,,,Full-time,Junior,1.0,"Excel, CRM",topcv,True
+System/Network Admin,CÔNG TY CỔ PHẦN CÔNG NGHỆ GIẢI PHÁP THI THIÊN,Ho Chi Minh City,2026-05-28,11000000.0,30000000.0,VND,Full-time,Junior,1.0,,topcv,False
+Security Engineer,SALADIN.VN,Ho Chi Minh City,2026-05-28,,,,Full-time,Junior,1.0,,topcv,True
+Fullstack/Software Engineer,CÔNG TY CỔ PHẦN CÔNG NGHỆ NANOSOFT,Hanoi,2026-05-28,20000000.0,30000000.0,VND,Full-time,Junior,1.0,,topcv,False
+Other,CÔNG TY TNHH SONIC FUSION,Ho Chi Minh City,2026-05-28,18000000.0,30000000.0,VND,Full-time,Junior,1.0,"CRM, Postman, Swagger, REST, API, OAuth",topcv,False
+AI/ML Engineer,OpenCommerce Group,Hanoi,2026-05-28,,35000000.0,VND,Full-time,Junior,1.0,"Ai, Erp, Agile, CRM",topcv,False
+Fullstack/Software Engineer,CÔNG TY TNHH ĐẦU TƯ NGHIÊN CỨU VÀ PHÁT TRIỂN PHẦN MỀM VIỆT NAM,Hanoi,2026-05-28,10000000.0,25000000.0,VND,Full-time,Junior,1.0,,topcv,False
+Product Manager/Owner,CÔNG TY TNHH EAERA VIỆT NAM,Hanoi,2026-05-28,15000000.0,21000000.0,VND,Full-time,Junior,2.0,Excel,topcv,False
+Other,Công ty VTC Online,Hanoi,2026-05-28,13000000.0,18000000.0,VND,Full-time,Mid,3.0,,topcv,False
+Data Analyst,CÔNG TY TNHH NEXTAD STUDIO,Ho Chi Minh City,2026-05-28,10000000.0,15000000.0,VND,Full-time,Junior,1.0,"SQL, Excel, Power BI, Tableau",topcv,False
+IT Support,CÔNG TY TNHH DCOM EXPRESS,Ho Chi Minh City,2026-05-28,,,,Full-time,Junior,2.0,"VPN, Active Directory",topcv,True
+Sales/Presales,CÔNG TY TNHH THIẾT BỊ VÀ CÔNG NGHỆ BẰNG VIỆT,Hanoi,2026-05-28,15000000.0,30000000.0,VND,Full-time,Junior,1.0,"AI, CRM",topcv,False
+UI/UX Designer,CÔNG TY TNHH TRUYỀN THÔNG GIẢI TRÍ STT,Ho Chi Minh City,2026-05-28,,,,Full-time,Junior,1.0,,topcv,True
+UI/UX Designer,Công ty TNHH Quốc tế Luminix,Hanoi,2026-05-28,12000000.0,16000000.0,VND,Full-time,Junior,1.0,,topcv,False
+Mobile Developer,CÔNG TY CỔ PHẦN TOH GROUP,Hanoi,2026-05-28,13000000.0,18000000.0,VND,Full-time,Mid,3.0,AI,topcv,False
+Backend Developer,PORTERS ASIA VIETNAM COMPANY LIMITED,Ho Chi Minh City,2026-05-28,27500000.0,80000000.0,VND,Full-time,Mid,3.0,"Python, Java, JavaScript, TypeScript, PHP, React, Angular, Spring, Spring Boot, Docker, AWS, Jenkins, SQL, MySQL, Agile, REST, API",topcv,False
+System/Network Admin,CÔNG TY TNHH ALOHA CONSULTING GROUP,Hanoi,2026-05-28,,,,Full-time,Senior,5.0,"Python, Docker, Kubernetes, Ansible, Linux, Networking, Firewall, Security, VMware",topcv,True
+Sales/Presales,Công ty TNHH Phần mềm Nhân Hòa,Hanoi,2026-05-28,10000000.0,30000000.0,VND,Full-time,Junior,1.0,,topcv,False
+Game Developer,SonatGame Studio,Hanoi,2026-05-28,,25000000.0,VND,Full-time,Junior,1.0,,topcv,False
+Sales/Presales,CÔNG TY CỔ PHẦN SMARTSCALE,Ho Chi Minh City,2026-05-28,,,,Full-time,Fresher,0.0,,topcv,True
+Business Analyst,CÔNG TY TNHH CÔNG NGHỆ VÀ DỊCH VỤ THUẾ TAXNET,Hanoi,2026-05-28,,22000000.0,VND,Full-time,Mid,3.0,"Agile, Scrum",topcv,False
+Business Analyst,Công ty cổ phần phần mềm ITSOL Holdings,Hanoi,2026-05-28,18000000.0,25000000.0,VND,Full-time,Junior,2.0,,topcv,False
+Sales/Presales,FSI DIGITAL DATA SOLUTION JOINT STOCK COMPANY,Hanoi,2026-05-28,20000000.0,30000000.0,VND,Full-time,Mid,3.0,CRM,topcv,False
+UI/UX Designer,CÔNG TY TNHH THẾ GIỚI NGHỆ THUẬT,Da Nang,2026-05-28,10000000.0,14000000.0,VND,Full-time,Junior,1.0,,topcv,False
+UI/UX Designer,CÔNG TY TNHH DEVNOVA,Hanoi,2026-05-28,12000000.0,15000000.0,VND,Full-time,Junior,2.0,"Photoshop, Figma",topcv,False
+System/Network Admin,Công ty TNHH Tổng công ty Công nghệ & Giải pháp CMC,Ho Chi Minh City,2026-05-28,,,,Full-time,Junior,1.0,SAP,topcv,True
+Sales/Presales,CÔNG TY CỔ PHẦN ALLIEX VIỆT NAM,Hanoi,2026-05-28,20000000.0,30000000.0,VND,Full-time,Junior,1.0,,topcv,False
+Sales/Presales,CÔNG TY TNHH GIẢI PHÁP CÔNG NGHỆ SỐ VN,Ho Chi Minh City,2026-05-28,10000000.0,30000000.0,VND,Full-time,Junior,1.0,,topcv,False
+Business Analyst,Công ty Cổ phần MISA,Hanoi,2026-05-28,,,,Full-time,Junior,2.0,"AI, Power BI, Jira",topcv,True
+UI/UX Designer,Công ty TNHH MTV Truyền thông và Tổ chức sự kiện Perfect Media,Hanoi,2026-05-28,15000000.0,20000000.0,VND,Full-time,Mid,3.0,,topcv,False
+UI/UX Designer,CÔNG TY TNHH MTV HAMY,Hanoi,2026-05-28,,,,Part-time,Junior,1.0,Photoshop,topcv,True
+AI/ML Engineer,CÔNG TY CỔ PHẦN CMC OPENAI,Hanoi,2026-05-28,,60000000.0,VND,Full-time,Manager+,5.0,"Docker, Kubernetes, CI/CD, AWS, Azure, GCP, Terraform, Jenkins, DevOps, Kafka, REST, Microservices, AI, API, Networking, Security",topcv,False
+Fullstack/Software Engineer,CÔNG TY TNHH FEDERATE GROUP,Hanoi,2026-05-28,37500000.0,75000000.0,VND,Full-time,Senior,4.0,"Python, Java, TypeScript, Go, PHP, React, Vue, Next.js, Node.js, FastAPI, Spring, Spring Boot, Laravel, Docker, Kubernetes, AWS, Azure, GCP, Terraform, Jenkins, CI/CD, DevOps, PostgreSQL, Redis, Kafka, RabbitMQ, REST, Microservices, API, OAuth, JWT, Networking, Security",topcv,False
+IT Manager,CÔNG TY TNHH MIDWAY METALS VIỆT NAM,Hanoi,2026-05-28,,,,Full-time,Manager+,5.0,Excel,topcv,True
+Fullstack/Software Engineer,CÔNG TY TNHH WIN TECH SOLUTION,Ho Chi Minh City,2026-05-28,,25000000.0,VND,Full-time,Junior,1.0,"ERP, CRM",topcv,False
+Business Analyst,CÔNG TY TNHH CUNG ỨNG LAO ĐỘNG NGUỒN GỐC NIỀM TIN VIỆT NAM,Hanoi,2026-05-28,,,,Full-time,Senior,5.0,"Excel, SAP, Project Management",topcv,True
+Sales/Presales,Công ty cổ phần Onenet,Hanoi,2026-05-28,15000000.0,40000000.0,VND,Full-time,Junior,1.0,CRM,topcv,False
+Embedded Engineer,TopCV Search,Hanoi,2026-05-28,70000000.0,110000000.0,VND,Full-time,Manager+,5.0,"Agile, Scrum, Project Management, PMP",topcv,False
+System/Network Admin,Công ty cổ phần Hùng Phát,Other,2026-05-28,12000000.0,17000000.0,VND,Full-time,Junior,2.0,,topcv,False
+QA/Tester,CÔNG TY TNHH MỘT THÀNH VIÊN KIẾN THỨC VIỆT,Other,2026-05-28,12000000.0,18000000.0,VND,Full-time,Junior,2.0,,topcv,False
+System/Network Admin,Công ty TNHH dịch vụ công nghệ NMT,Hanoi,2026-05-28,5000000.0,7000000.0,VND,Part-time,Junior,1.0,Security,topcv,False
+System/Network Admin,CÔNG TY TNHH THERM-X SYSTEM VIỆT NAM TECHNOLOGY,Ho Chi Minh City,2026-05-28,,,,Full-time,Junior,1.0,,topcv,True
+Security Engineer,CÔNG TY CỔ PHẦN TƯ VẤN VÀ DỊCH VỤ CÔNG NGHỆ ASIC,Hanoi,2026-05-28,,,,Full-time,Junior,2.0,Security,topcv,True
+Fullstack/Software Engineer,CÔNG TY TNHH GIẢI PHÁP ATZ,Ho Chi Minh City,2026-05-28,,,,Full-time,Senior,5.0,,topcv,True
+Fullstack/Software Engineer,CÔNG TY TNHH THERM-X SYSTEM VIỆT NAM TECHNOLOGY,Ho Chi Minh City,2026-05-28,,,,Full-time,Junior,1.0,,topcv,True
+DevOps/Infra Engineer,CÔNG TY TNHH ALOHA CONSULTING GROUP,Hanoi,2026-05-28,,,,Full-time,Manager+,5.0,"Kubernetes, Terraform, Ansible, Jenkins, CI/CD, DevOps, Elasticsearch, Git, AI",topcv,True
+Fullstack/Software Engineer,CÔNG TY TNHH CÔNG NGHIỆP JINKO SOLAR (VIỆT NAM),Other,2026-05-28,,,,Full-time,Mid,3.0,".NET, Oracle, SQL",topcv,True
+UI/UX Designer,CÔNG TY TNHH ALOHA CONSULTING GROUP,Ho Chi Minh City,2026-05-28,,,,Full-time,Senior,4.0,"REST, AI",topcv,True
+UI/UX Designer,CÔNG TY TNHH YIN SHUO,Ho Chi Minh City,2026-05-28,12000000.0,16000000.0,VND,Full-time,Junior,1.0,AI,topcv,False
+Business Analyst,CÔNG TY TRÁCH NHIỆM HỮU HẠN GIẢI PHÁP CÔNG NGHỆ CỘNG,Hanoi,2026-05-28,,,,Full-time,Mid,5.0,"Agile, SQL, REST, Jira, Confluence",topcv,True
+Solution Architect,Công ty TNHH Tổng công ty Công nghệ & Giải pháp CMC,Hanoi,2026-05-28,,,,Full-time,Junior,2.0,"Python, AWS, Azure, SQL, Machine Learning, Power BI, Tableau",topcv,True
+UI/UX Designer,CÔNG TY CỔ PHẦN VIC MEDIA ENTERTAINMENT,Hanoi,2026-05-28,10000000.0,15000000.0,VND,Full-time,Junior,2.0,ASP.NET,topcv,False
+AI/ML Engineer,CÔNG TY CỔ PHẦN TOH GROUP,Hanoi,2026-05-28,17500000.0,25000000.0,VND,Full-time,Mid,3.0,"Python, SQL, AI, Machine Learning, Pandas, NumPy",topcv,False
