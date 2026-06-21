@@ -31,6 +31,8 @@ models/
 reports/figures/*
 reports/tables/*
 !reports/**/README.md
+reports/artifacts/*
+!reports/artifacts/README.md
 
 # === Environment & secrets ===
 .env

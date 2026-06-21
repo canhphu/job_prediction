@@ -84,6 +84,7 @@ def main():
     parser = argparse.ArgumentParser(description="ETL: raw → interim → cleaned")
     parser.add_argument("--reprocess-all", action="store_true",
                         help="Reprocess all raw files (rebuild interim, but still APPEND to existing processed)")
+    parser.add_argument("--rebuild", action="store_true", help="Rebuild processed data from all raw files")
     parser.add_argument("--date-from", type=str, default=None,
                         help="Only keep new records posted on or after this date (YYYY-MM-DD)")
     parser.add_argument("--date-to", type=str, default=None,
@@ -94,7 +95,7 @@ def main():
     logger.info("ETL PIPELINE START")
     logger.info("=" * 50)
 
-    new_files = get_new_raw_files(reprocess_all=args.reprocess_all)
+    new_files = get_new_raw_files(reprocess_all=args.reprocess_all or args.rebuild)
     if not new_files:
         logger.info("No new raw files to process.")
         return
@@ -151,7 +152,7 @@ def main():
 
     # Step 4: APPEND to existing jobs_cleaned_full.csv
     DATA_PROCESSED.mkdir(parents=True, exist_ok=True)
-    if OUTPUT_FILE.exists():
+    if OUTPUT_FILE.exists() and not args.rebuild:
         df_existing = pd.read_csv(OUTPUT_FILE, dtype=str)
         logger.info("Existing cleaned file: %d records", len(df_existing))
         df_combined = pd.concat([df_existing, df_new], ignore_index=True)

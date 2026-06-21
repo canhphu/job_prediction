@@ -37,6 +37,8 @@ def main():
     parser.add_argument("--all", action="store_true")
     parser.add_argument("--max-pages", type=int, default=None)
     parser.add_argument("--skip-crawl", action="store_true", help="Skip crawling, only run ETL + features")
+    parser.add_argument("--train-model", action="store_true")
+    parser.add_argument("--build-analytics", action="store_true")
     args = parser.parse_args()
 
     logger.info("=" * 60)
@@ -68,6 +70,10 @@ def main():
     # Step 3: Feature Engineering
     if not run_step("run_features.py"):
         logger.error("Feature engineering failed. Stopping.")
+        sys.exit(1)
+    if args.train_model and not run_step("run_modeling.py"):
+        sys.exit(1)
+    if args.build_analytics and not run_step("run_analytics.py"):
         sys.exit(1)
 
     logger.info("=" * 60)

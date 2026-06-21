@@ -2,6 +2,20 @@
 
 This repository supports a data science course project on analyzing and forecasting IT hiring trends in Vietnam.
 
+## Run locally
+
+```powershell
+.venv\Scripts\Activate.ps1
+python -m pip install -r requirements.txt
+python scripts/run_modeling.py
+python scripts/run_analytics.py
+uvicorn src.api.main:app --reload
+```
+
+In a second terminal run `streamlit run dashboard/app.py`. The dashboard keeps its existing EDA pages and calls the API for salary prediction and production skill forecasts. Model artifacts are generated in `reports/artifacts/` and are not committed.
+
+The salary model is a baseline estimate trained only on jobs with disclosed salaries; consult its MAE/RMSE/R² before using a prediction. Rebuild all processed data only when intended: `python scripts/run_etl.py --rebuild`.
+
 ## Structure
 
 - data/

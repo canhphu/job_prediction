@@ -9,8 +9,10 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 from typing import Any
+import os
 
 import pandas as pd
+import requests
 
 
 @dataclass
@@ -25,11 +27,20 @@ class PredictionResult:
 
 
 def predict_salary(payload: dict[str, Any]) -> PredictionResult:
-    """Placeholder contract for future model integration."""
-    return PredictionResult(
-        is_available=False,
-        message="Salary model is not integrated yet. This page is ready for the model handoff.",
-    )
+    """Call the local FastAPI predictor without coupling Streamlit to model code."""
+    api_url = os.getenv("API_BASE_URL", "http://127.0.0.1:8000").rstrip("/")
+    request = {
+        "title": payload.get("job_title", ""), "location": payload.get("location", ""),
+        "experience": payload.get("experience_required", 0), "job_level": payload.get("job_level", ""),
+        "description": ", ".join(payload.get("skills", [])),
+    }
+    try:
+        response = requests.post(f"{api_url}/v1/predict-salary", json=request, timeout=10)
+        response.raise_for_status()
+        data = response.json()
+        return PredictionResult(True, data.get("disclaimer", "Baseline estimate."), data["predicted_salary_vnd"], currency="VND", model_version=data.get("model", "baseline"))
+    except requests.RequestException as exc:
+        return PredictionResult(False, f"Salary API unavailable: {exc}. Run run_modeling.py, run_analytics.py, then uvicorn src.api.main:app --reload.")
 
 
 def market_benchmark(df: pd.DataFrame, payload: dict[str, Any]) -> dict[str, float | int | None]:

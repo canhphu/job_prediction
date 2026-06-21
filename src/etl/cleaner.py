@@ -55,7 +55,7 @@ class Cleaner:
         logger.info("Cleaning pipeline start: %d records", original_count)
 
         # Drop unnecessary columns
-        drop_cols = ["job_description", "benefits", "company_size", "deadline"]
+        drop_cols = ["benefits", "company_size", "deadline"]
         df = df.drop(columns=[c for c in drop_cols if c in df.columns], errors="ignore")
 
         # Remove low-quality records
@@ -89,6 +89,8 @@ class Cleaner:
 
         # Parse skills (whitelist only)
         df["skills"] = df["skills"].apply(self._parse_skills)
+        if "job_description" in df.columns:
+            df["description"] = df["job_description"].apply(self._clean_description)
 
         # Clean experience
         df["experience_required"] = df["experience_required"].apply(self._clean_experience)
@@ -107,7 +109,7 @@ class Cleaner:
         output_cols = [
             "job_title", "company_name", "location", "posted_date",
             "salary_min", "salary_max", "salary_currency",
-            "job_type", "job_level", "experience_required", "skills",
+            "job_type", "job_level", "experience_required", "skills", "description",
             "source", "salary_missing",
         ]
         df = df[[c for c in output_cols if c in df.columns]]
@@ -244,6 +246,12 @@ class Cleaner:
             return str(float(val))
         except (ValueError, TypeError):
             return ""
+
+    @staticmethod
+    def _clean_description(val) -> str:
+        if not val or pd.isna(val):
+            return ""
+        return re.sub(r"\s+", " ", str(val)).strip()
 
     @staticmethod
     def _parse_skills(skills_str) -> str:

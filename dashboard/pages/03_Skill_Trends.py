@@ -7,6 +7,8 @@ from pathlib import Path
 
 import plotly.express as px
 import streamlit as st
+import os
+import requests
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 if str(PROJECT_ROOT) not in sys.path:
@@ -66,6 +68,16 @@ if require_data(df):
             )
             fig.update_layout(xaxis_title=timeline_axis_label(timeline_mode), yaxis_title="Jobs")
             st.plotly_chart(fig, use_container_width=True)
+
+    st.subheader("Production forecast (next 1–3 months)")
+    try:
+        api_url = os.getenv("API_BASE_URL", "http://127.0.0.1:8000").rstrip("/")
+        forecast = requests.get(f"{api_url}/v1/analytics/trends", timeout=8).json().get("forecast", [])
+        if forecast:
+            st.dataframe(forecast, use_container_width=True)
+            st.caption("Forecast is a baseline and should be interpreted with the data-quality warning shown in each row.")
+    except requests.RequestException:
+        st.info("Forecast artifacts are unavailable. Start the API after running scripts/run_analytics.py.")
 
     top_roles = filtered["job_title"].value_counts().head(12).index
     top_skill_names = top_skills["skill"].head(12).tolist()

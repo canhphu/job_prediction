@@ -11,6 +11,8 @@ DATA_INTERIM = PROJECT_ROOT / "data" / "interim"
 DATA_PROCESSED = PROJECT_ROOT / "data" / "processed"
 DATA_FEATURES = PROJECT_ROOT / "data" / "features"
 LOGS_DIR = PROJECT_ROOT / "logs"
+REPORTS_DIR = PROJECT_ROOT / "reports"
+ARTIFACTS_DIR = REPORTS_DIR / "artifacts"
 
 # Crawler settings
 CRAWL_DELAY = 2.0
