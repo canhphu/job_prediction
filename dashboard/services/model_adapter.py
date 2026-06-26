@@ -45,7 +45,7 @@ def predict_salary(payload: dict[str, Any]) -> PredictionResult:
 
 def market_benchmark(df: pd.DataFrame, payload: dict[str, Any]) -> dict[str, float | int | None]:
     """Compute a simple data benchmark for the selected inputs."""
-    if df.empty or "salary_avg" not in df.columns:
+    if df.empty:
         return {"count": 0, "median": None, "p25": None, "p75": None}
 
     subset = df.copy()
@@ -65,7 +65,16 @@ def market_benchmark(df: pd.DataFrame, payload: dict[str, Any]) -> dict[str, flo
             )
         ]
 
-    salary = pd.to_numeric(subset["salary_avg"], errors="coerce").dropna()
+    # The dashboard can receive either feature-engineered data (salary_avg)
+    # or an older cleaned schema containing only salary_min/salary_max.
+    if "salary_avg" in subset.columns:
+        salary_source = subset["salary_avg"]
+    elif {"salary_min", "salary_max"}.issubset(subset.columns):
+        salary_source = subset[["salary_min", "salary_max"]].apply(pd.to_numeric, errors="coerce").mean(axis=1)
+    else:
+        return {"count": 0, "median": None, "p25": None, "p75": None}
+
+    salary = pd.to_numeric(salary_source, errors="coerce").dropna()
     if salary.empty:
         return {"count": 0, "median": None, "p25": None, "p75": None}
 
