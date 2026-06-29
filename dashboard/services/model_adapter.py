@@ -27,20 +27,53 @@ class PredictionResult:
 
 
 def predict_salary(payload: dict[str, Any]) -> PredictionResult:
-    """Call the local FastAPI predictor without coupling Streamlit to model code."""
+    """Call the local FastAPI predictor, fallback to offline local predictor if unavailable."""
     api_url = os.getenv("API_BASE_URL", "http://127.0.0.1:8000").rstrip("/")
     request = {
-        "title": payload.get("job_title", ""), "location": payload.get("location", ""),
-        "experience": payload.get("experience_required", 0), "job_level": payload.get("job_level", ""),
+        "title": payload.get("job_title", ""),
+        "location": payload.get("location", ""),
+        "experience": payload.get("experience_required", 2.0),
+        "job_level": payload.get("job_level", ""),
         "description": ", ".join(payload.get("skills", [])),
     }
     try:
-        response = requests.post(f"{api_url}/v1/predict-salary", json=request, timeout=10)
+        response = requests.post(f"{api_url}/v1/predict-salary", json=request, timeout=2)
         response.raise_for_status()
         data = response.json()
-        return PredictionResult(True, data.get("disclaimer", "Baseline estimate."), data["predicted_salary_vnd"], currency="VND", model_version=data.get("model", "baseline"))
-    except requests.RequestException as exc:
-        return PredictionResult(False, f"Salary API unavailable: {exc}. Run run_modeling.py, run_analytics.py, then uvicorn src.api.main:app --reload.")
+        return PredictionResult(
+            is_available=True,
+            message=data.get("disclaimer", "Mức lương ước tính dựa trên mô hình phân tích tuyển dụng IT Việt Nam."),
+            prediction=data["predicted_salary_vnd"],
+            lower_bound=data.get("estimated_salary_min"),
+            upper_bound=data.get("estimated_salary_max"),
+            currency="VND",
+            model_version=data.get("model", "baseline")
+        )
+    except requests.RequestException:
+        # Fallback to local offline prediction directly using the python model code
+        try:
+            from src.models.salary_predictor import predict_salary as local_predict
+            res = local_predict(
+                title=request["title"],
+                location=request["location"],
+                experience=request["experience"],
+                job_level=request["job_level"],
+                description=request["description"]
+            )
+            return PredictionResult(
+                is_available=True,
+                message=res.get("disclaimer", "Mức lương ước tính dựa trên mô hình cục bộ (Local Fallback)."),
+                prediction=res["predicted_salary_vnd"],
+                lower_bound=res.get("estimated_salary_min"),
+                upper_bound=res.get("estimated_salary_max"),
+                currency="VND",
+                model_version=res.get("model", "local-offline")
+            )
+        except Exception as local_exc:
+            return PredictionResult(
+                is_available=False,
+                message=f"Không thể kết nối API hoặc chạy mô hình cục bộ. Chi tiết: {local_exc}"
+            )
 
 
 def market_benchmark(df: pd.DataFrame, payload: dict[str, Any]) -> dict[str, float | int | None]:
@@ -65,8 +98,6 @@ def market_benchmark(df: pd.DataFrame, payload: dict[str, Any]) -> dict[str, flo
             )
         ]
 
-    # The dashboard can receive either feature-engineered data (salary_avg)
-    # or an older cleaned schema containing only salary_min/salary_max.
     if "salary_avg" in subset.columns:
         salary_source = subset["salary_avg"]
     elif {"salary_min", "salary_max"}.issubset(subset.columns):

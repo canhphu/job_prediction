@@ -1,0 +1,882 @@
+/* Google Fonts - Inter & Space Grotesk for tech look */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@500;700&display=swap');
+
+/* Global Style Override - Creative Light Tech Theme */
+html, body, .stApp {
+    font-family: 'Inter', sans-serif !important;
+    background-color: #f0f4f8 !important;
+    /* Animated technology gradient background with subtle grid overlay */
+    background-image: 
+        radial-gradient(circle at 5% 5%, rgba(99, 102, 241, 0.08) 0%, transparent 40%),
+        radial-gradient(circle at 95% 95%, rgba(6, 182, 212, 0.08) 0%, transparent 40%),
+        radial-gradient(circle at 50% 50%, rgba(236, 72, 153, 0.04) 0%, transparent 50%),
+        radial-gradient(rgba(99, 102, 241, 0.15) 1.5px, transparent 0);
+    background-size: 100% 100%, 100% 100%, 100% 100%, 28px 28px;
+    background-attachment: fixed;
+    color: #1e293b !important; /* High contrast slate body text */
+}
+
+/* Sidebar Custom Styling - Highly Highlighted */
+section[data-testid="stSidebar"] {
+    background-color: #ffffff !important;
+    border-right: 3px solid #6366f1; /* Thick Indigo tech separator */
+    box-shadow: 5px 0 25px rgba(99, 102, 241, 0.05);
+}
+
+section[data-testid="stSidebar"] [data-testid="stMarkdownContainer"] {
+    color: #0f172a;
+    font-weight: 500;
+}
+
+section[data-testid="stSidebar"] h1, 
+section[data-testid="stSidebar"] h2, 
+section[data-testid="stSidebar"] h3, 
+section[data-testid="stSidebar"] h4, 
+section[data-testid="stSidebar"] span {
+    color: #4f46e5 !important; /* Bold Indigo headers in Sidebar */
+    font-weight: 800 !important;
+}
+
+section[data-testid="stSidebar"] label {
+    color: #4f46e5 !important;
+    font-weight: 800 !important;
+}
+
+/* Header Text Styles - Futuristic, Highlighted & High Contrast */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Space Grotesk', 'Inter', sans-serif !important;
+    font-weight: 800 !important;
+    letter-spacing: -0.03em;
+}
+
+h1 {
+    font-size: 2.5rem !important;
+    font-weight: 800 !important;
+    background: linear-gradient(135deg, #4f46e5 0%, #ec4899 50%, #2563eb 100%); /* Rực rỡ Tím - Hồng - Xanh */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 1.5rem !important;
+}
+
+/* Highlight subheaders across sections */
+h2, h3, h4 {
+    color: #4f46e5 !important; /* Highlight Tech Indigo for Subheadings */
+    background: none !important;
+    -webkit-text-fill-color: initial !important;
+    margin-top: 2rem !important;
+}
+
+/* Emphasize important text elements */
+strong {
+    color: #7c3aed !important; /* Vivid Purple for highlights */
+    font-weight: 700 !important;
+}
+
+/* Page Subheader Highlight Section */
+.page-subheader-highlight {
+    background: linear-gradient(90deg, rgba(99, 102, 241, 0.12) 0%, rgba(255, 255, 255, 0) 100%);
+    border-left: 5px solid #4f46e5;
+    padding: 0.85rem 1.5rem;
+    border-radius: 0 10px 10px 0;
+    font-family: 'Space Grotesk', 'Inter', sans-serif;
+    font-weight: 800;
+    font-size: 1.15rem;
+    color: #4f46e5 !important; /* Highlight purple subheader text */
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 12px rgba(99, 102, 241, 0.03);
+}
+
+/* Tech Landing Banner - Dynamic Cyber-Light style */
+.tech-banner {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.9) 0%, rgba(224, 231, 255, 0.9) 100%);
+    padding: 3rem 2.5rem;
+    border-radius: 20px;
+    border: 3px solid #4f46e5; /* Neon indigo border */
+    box-shadow: 0 20px 30px rgba(79, 70, 229, 0.08);
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 2.5rem;
+}
+
+.tech-banner::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0; height: 6px;
+    background: linear-gradient(90deg, #4f46e5, #ec4899, #2563eb);
+}
+
+.tech-banner h1 {
+    font-size: 3rem !important;
+    font-weight: 800 !important;
+    margin: 0 0 0.75rem 0 !important;
+    background: linear-gradient(135deg, #0f172a 0%, #4f46e5 60%, #ec4899 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.tech-banner p {
+    font-size: 1.2rem;
+    color: #334155 !important;
+    margin: 0 !important;
+    font-weight: 600;
+    line-height: 1.6;
+}
+
+/* Custom Card Container for Metrics (Solid Glassmorphic Highlighted Cards) */
+.metric-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 3rem;
+}
+
+.glass-card {
+    background: rgba(255, 255, 255, 0.85) !important;
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 2px solid transparent !important;
+    background-clip: padding-box !important;
+    border-radius: 18px;
+    padding: 1.75rem;
+    box-shadow: 0 10px 20px rgba(99, 102, 241, 0.05), 0 4px 6px rgba(0, 0, 0, 0.02);
+    position: relative;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    /* Neon Border Glow Effect using gradient */
+    background-image: linear-gradient(#ffffff, #ffffff), linear-gradient(135deg, #4f46e5 0%, #06b6d4 100%) !important;
+    background-origin: border-box !important;
+    background-clip: padding-box, border-box !important;
+}
+
+.glass-card::after {
+    content: '// TECH_METRIC';
+    position: absolute;
+    top: 10px; right: 15px;
+    font-family: monospace;
+    font-size: 0.65rem;
+    color: #6366f1;
+    font-weight: 700;
+    opacity: 0.8;
+}
+
+.glass-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 20px 25px rgba(99, 102, 241, 0.12), 0 10px 10px rgba(99, 102, 241, 0.06);
+}
+
+.glass-card .card-title {
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: #4f46e5 !important; /* Metric Card Title Indigo */
+    margin-bottom: 0.75rem;
+    font-weight: 800;
+}
+
+.glass-card .card-value {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: #1e3a8a !important;
+    margin: 0;
+    background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%) !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+}
+
+.glass-card .card-subtitle {
+    font-size: 0.9rem;
+    color: #0f172a !important;
+    margin-top: 0.5rem;
+    font-weight: 700; /* Bold subtitle */
+}
+
+/* Quick Navigation Cards (Highly Highlighted Tech Cards) */
+.nav-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.nav-card {
+    background: rgba(255, 255, 255, 0.9) !important;
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 2px solid transparent !important;
+    background-clip: padding-box !important;
+    border-radius: 18px;
+    padding: 2.25rem 2rem;
+    text-decoration: none !important;
+    color: inherit !important;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 10px 25px rgba(79, 70, 229, 0.06);
+    cursor: pointer;
+    background-image: linear-gradient(#ffffff, #ffffff), linear-gradient(135deg, #8b5cf6 0%, #ec4899 100%) !important;
+    background-origin: border-box !important;
+    background-clip: padding-box, border-box !important;
+}
+
+.nav-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 25px 30px rgba(139, 92, 246, 0.15), 0 10px 10px rgba(139, 92, 246, 0.08);
+}
+
+.nav-card .nav-title {
+    font-size: 1.4rem;
+    font-weight: 800;
+    color: #4f46e5 !important; /* Highlighted card titles */
+    margin-bottom: 0.75rem;
+    position: relative;
+    padding-bottom: 0.5rem;
+}
+
+.nav-card .nav-title::after {
+    content: '';
+    position: absolute;
+    bottom: 0; left: 0;
+    width: 3rem; height: 3px;
+    background: linear-gradient(90deg, #8b5cf6, #ec4899);
+    transition: width 0.3s ease;
+}
+
+.nav-card:hover .nav-title::after {
+    width: 6rem;
+}
+
+.nav-card .nav-desc {
+    font-size: 1rem;
+    color: #0f172a;
+    line-height: 1.6;
+    margin: 0;
+    font-weight: 600;
+}
+
+/* Ghi đè nhãn các Widget của Streamlit (Labels) */
+label[data-testid="stWidgetLabel"] p {
+    color: #4f46e5 !important; /* Widget Label Indigo Highlight */
+    font-weight: 800 !important;
+    font-size: 1.05rem !important;
+}
+
+/* ĐÓNG BĂNG/GHI ĐÈ TRIỆT ĐỂ BẤT KỲ MÀU NỀN ĐEN NÀO CỦA CÁC INPUT WIDGET TRONG LIGHT MODE */
+.stSelectbox, .stMultiSelect, .stNumberInput, .stTextInput, .stForm,
+div[data-baseweb="select"], div[data-baseweb="input"], input, select, textarea,
+div[data-baseweb="select"] > div, div[data-baseweb="input"] > div,
+div[role="combobox"] {
+    background-color: #ffffff !important;
+    background: #ffffff !important;
+    color: #0f172a !important;
+    border-color: #cbd5e1 !important;
+}
+
+/* Highlight style cho các ô input selectbox đơn có dropdown - ÁP DỤNG TRỰC TIẾP LÊN THẺ CON VẼ VIỀN */
+.stSelectbox div[data-baseweb="select"] > div {
+    border: 2px solid #a5b4fc !important; /* Viền Indigo thực tế */
+    border-radius: 8px !important;
+    background-color: #ffffff !important;
+    transition: all 0.2s ease-in-out !important;
+}
+
+.stSelectbox:hover div[data-baseweb="select"] > div,
+.stSelectbox div[data-baseweb="select"]:focus-within > div {
+    border-color: #4f46e5 !important; /* Glowing Indigo Highlight on hover */
+    box-shadow: 0 0 10px rgba(79, 70, 229, 0.2) !important;
+}
+
+/* Chữ hiển thị bên trong ô chọn đơn (selectbox) */
+.stSelectbox [data-testid="stSelectboxSelectedValue"] *,
+.stSelectbox div[aria-selected="true"] *,
+.stSelectbox div[data-baseweb="select"] span,
+.stSelectbox div[data-baseweb="select"] p {
+    color: #4f46e5 !important; /* Bold Indigo text for single select value */
+    font-weight: 800 !important;
+}
+
+/* Đảm bảo text được chọn, nhãn con, và placeholder có màu tối rõ ràng - CHỈ ÁP DỤNG TRÊN CÁC KHỐI INPUT CHÍNH (KHÔNG ĐÈ LÊN TAGS) */
+div[data-baseweb="select"] > div,
+div[data-baseweb="select"] [role="button"],
+div[data-baseweb="input"] input,
+.stSelectbox > div {
+    color: #0f172a !important;
+    background-color: transparent !important;
+}
+
+/* GHI ĐÈ TRIỆT ĐỂ CHO TẤT CẢ CÁC TAG MULTISELECT TRONG TOÀN BỘ DASHBOARD - CHÍNH XÁC VỚI SPECIFICITY CAO */
+.stMultiSelect div[data-testid="stMultiSelectItem"]:nth-of-type(5n+1),
+.stMultiSelect span[data-testid="stMultiSelectItem"]:nth-of-type(5n+1),
+.stMultiSelect [data-baseweb="tag"]:nth-of-type(5n+1),
+div[data-baseweb="tag"]:nth-of-type(5n+1) {
+    background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%) !important;
+    border: 2px solid #3b82f6 !important;
+    color: #1d4ed8 !important;
+}
+.stMultiSelect div[data-testid="stMultiSelectItem"]:nth-of-type(5n+1) *,
+.stMultiSelect span[data-testid="stMultiSelectItem"]:nth-of-type(5n+1) *,
+.stMultiSelect [data-baseweb="tag"]:nth-of-type(5n+1) *,
+div[data-baseweb="tag"]:nth-of-type(5n+1) * {
+    color: #1d4ed8 !important;
+    background-color: transparent !important;
+}
+
+.stMultiSelect div[data-testid="stMultiSelectItem"]:nth-of-type(5n+2),
+.stMultiSelect span[data-testid="stMultiSelectItem"]:nth-of-type(5n+2),
+.stMultiSelect [data-baseweb="tag"]:nth-of-type(5n+2),
+div[data-baseweb="tag"]:nth-of-type(5n+2) {
+    background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%) !important;
+    border: 2px solid #10b981 !important;
+    color: #047857 !important;
+}
+.stMultiSelect div[data-testid="stMultiSelectItem"]:nth-of-type(5n+2) *,
+.stMultiSelect span[data-testid="stMultiSelectItem"]:nth-of-type(5n+2) *,
+.stMultiSelect [data-baseweb="tag"]:nth-of-type(5n+2) *,
+div[data-baseweb="tag"]:nth-of-type(5n+2) * {
+    color: #047857 !important;
+    background-color: transparent !important;
+}
+
+.stMultiSelect div[data-testid="stMultiSelectItem"]:nth-of-type(5n+3),
+.stMultiSelect span[data-testid="stMultiSelectItem"]:nth-of-type(5n+3),
+.stMultiSelect [data-baseweb="tag"]:nth-of-type(5n+3),
+div[data-baseweb="tag"]:nth-of-type(5n+3) {
+    background: linear-gradient(135deg, #fffbeb 0%, #fef3c7 100%) !important;
+    border: 2px solid #f59e0b !important;
+    color: #b45309 !important;
+}
+.stMultiSelect div[data-testid="stMultiSelectItem"]:nth-of-type(5n+3) *,
+.stMultiSelect span[data-testid="stMultiSelectItem"]:nth-of-type(5n+3) *,
+.stMultiSelect [data-baseweb="tag"]:nth-of-type(5n+3) *,
+div[data-baseweb="tag"]:nth-of-type(5n+3) * {
+    color: #b45309 !important;
+    background-color: transparent !important;
+}
+
+.stMultiSelect div[data-testid="stMultiSelectItem"]:nth-of-type(5n+4),
+.stMultiSelect span[data-testid="stMultiSelectItem"]:nth-of-type(5n+4),
+.stMultiSelect [data-baseweb="tag"]:nth-of-type(5n+4),
+div[data-baseweb="tag"]:nth-of-type(5n+4) {
+    background: linear-gradient(135deg, #fff5f5 0%, #fee2e2 100%) !important;
+    border: 2px solid #ef4444 !important;
+    color: #b91c1c !important;
+}
+.stMultiSelect div[data-testid="stMultiSelectItem"]:nth-of-type(5n+4) *,
+.stMultiSelect span[data-testid="stMultiSelectItem"]:nth-of-type(5n+4) *,
+.stMultiSelect [data-baseweb="tag"]:nth-of-type(5n+4) *,
+div[data-baseweb="tag"]:nth-of-type(5n+4) * {
+    color: #b91c1c !important;
+    background-color: transparent !important;
+}
+
+.stMultiSelect div[data-testid="stMultiSelectItem"]:nth-of-type(5n),
+.stMultiSelect span[data-testid="stMultiSelectItem"]:nth-of-type(5n),
+.stMultiSelect [data-baseweb="tag"]:nth-of-type(5n),
+div[data-baseweb="tag"]:nth-of-type(5n) {
+    background: linear-gradient(135deg, #f5f3ff 0%, #e2e8f0 100%) !important;
+    border: 2px solid #8b5cf6 !important;
+    color: #6d28d9 !important;
+}
+.stMultiSelect div[data-testid="stMultiSelectItem"]:nth-of-type(5n) *,
+.stMultiSelect span[data-testid="stMultiSelectItem"]:nth-of-type(5n) *,
+.stMultiSelect [data-baseweb="tag"]:nth-of-type(5n) *,
+div[data-baseweb="tag"]:nth-of-type(5n) * {
+    color: #6d28d9 !important;
+    background-color: transparent !important;
+}
+
+/* Base style for tag spacing and font weights */
+div[data-testid="stMultiSelectItem"],
+span[data-testid="stMultiSelectItem"],
+div[data-baseweb="tag"] {
+    border-radius: 6px !important;
+    font-weight: 700 !important;
+    padding: 0.25rem 0.65rem !important;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05) !important;
+    margin: 2px !important;
+    display: inline-flex !important;
+    align-items: center !important;
+}
+
+div[data-baseweb="input"] input {
+    background-color: #ffffff !important;
+    color: #0f172a !important;
+}
+
+/* Ghi đè triệt để Dropdown list box của Streamlit (BaseWeb Popover) để không bị màu đen */
+div[data-baseweb="popover"],
+div[data-baseweb="popover"] *,
+div[role="listbox"],
+div[role="listbox"] *,
+div[role="option"] {
+    background-color: #ffffff !important;
+    background: #ffffff !important;
+    color: #0f172a !important;
+}
+
+/* Ghi đè nền của dropdown list tuyển chọn khi hover */
+div[role="option"]:hover, div[role="option"][aria-selected="true"] {
+    background-color: #eff6ff !important;
+    background: #eff6ff !important;
+    color: #1e40af !important;
+}
+
+/* SAFE DATAFRAME OVERRIDES: Avoid children overrides to keep Glide Data Grid visible */
+div[data-testid="stDataFrame"] {
+    border: 2px solid #cbd5e1 !important;
+    border-radius: 12px !important;
+    overflow: hidden !important;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.03) !important;
+}
+
+/* Khung viền highlight thiết kế riêng cho các biểu đồ Plotly trong Giao diện Sáng */
+div[data-testid="stPlotlyChart"] {
+    background-color: #ffffff !important;
+    border: 2px solid #cbd5e1 !important;
+    border-radius: 20px !important;
+    padding: 1.5rem !important;
+    box-shadow: 0 10px 25px rgba(148, 163, 184, 0.06) !important;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+}
+
+div[data-testid="stPlotlyChart"]:hover {
+    border-color: #3b82f6 !important; /* Border turns neon blue on hover */
+    box-shadow: 0 15px 30px rgba(59, 130, 246, 0.12) !important;
+}
+
+/* Solid White Input Form styling */
+div[data-testid="stForm"] {
+    background-color: #ffffff !important;
+    border: 2px solid #6366f1 !important; /* Solid Indigo Highlight */
+    border-radius: 20px !important;
+    padding: 2.5rem !important;
+    box-shadow: 0 15px 30px rgba(99, 102, 241, 0.06) !important;
+}
+
+/* Custom Button & Download Button Styling */
+div.stButton > button, 
+div[data-testid="stFormSubmitButton"] > button,
+.stDownloadButton > button {
+    background: linear-gradient(90deg, #4f46e5 0%, #2563eb 100%) !important;
+    color: #ffffff !important;
+    border: none !important;
+    border-radius: 8px !important;
+    padding: 0.85rem 2.25rem !important;
+    font-weight: 700 !important;
+    font-size: 1.05rem !important;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1) !important;
+    box-shadow: 0 4px 15px rgba(79, 70, 229, 0.25) !important;
+    letter-spacing: 0.025em !important;
+}
+
+div.stButton > button:hover, 
+div[data-testid="stFormSubmitButton"] > button:hover,
+.stDownloadButton > button:hover {
+    transform: translateY(-2px) !important;
+    box-shadow: 0 8px 25px rgba(79, 70, 229, 0.35) !important;
+    filter: brightness(1.05);
+}
+
+/* Simulated System Status Indicator (Light) */
+.system-status-indicator {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 1rem;
+    font-size: 0.8rem;
+    font-family: monospace;
+    color: #2563eb; /* High Contrast Blue */
+    margin-bottom: 1.5rem;
+    padding-right: 0.5rem;
+    font-weight: 800;
+}
+
+.status-dot {
+    width: 10px;
+    height: 10px;
+    background-color: #10b981;
+    border-radius: 50%;
+    box-shadow: 0 0 10px #10b981;
+    animation: statusPulse 1.5s infinite alternate;
+}
+
+@keyframes statusPulse {
+    from { opacity: 0.4; }
+    to { opacity: 1; }
+}
+
+/* Simulated Job Offer Card (Solid Light White - Gradient highlighted) */
+.job-offer-container {
+    background: linear-gradient(135deg, #eff6ff 0%, #fff1f2 100%) !important; /* Creative Gradient background */
+    border: 3px solid transparent !important;
+    background-clip: padding-box !important;
+    border-radius: 20px;
+    padding: 2.25rem;
+    box-shadow: 0 15px 35px rgba(37, 99, 235, 0.15);
+    position: relative;
+    overflow: hidden;
+    margin-top: 1.5rem;
+    /* Gradient Border */
+    background-image: linear-gradient(135deg, #eff6ff 0%, #fff1f2 100%), linear-gradient(135deg, #6366f1 0%, #ec4899 100%) !important;
+    background-origin: border-box !important;
+    background-clip: padding-box, border-box !important;
+}
+
+.job-offer-watermark {
+    position: absolute;
+    right: -20px;
+    bottom: -20px;
+    font-size: 8rem;
+    font-weight: 900;
+    color: rgba(37, 99, 235, 0.04);
+    pointer-events: none;
+    user-select: none;
+}
+
+.job-offer-header {
+    border-bottom: 2px solid #bfdbfe;
+    padding-bottom: 1rem;
+    margin-bottom: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.job-offer-title {
+    font-size: 1.45rem;
+    font-weight: 800;
+    color: #1d4ed8;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.job-offer-company {
+    font-size: 0.9rem;
+    color: #475569;
+    font-family: monospace;
+    font-weight: 700;
+}
+
+.job-offer-salary {
+    font-size: 3rem;
+    font-weight: 800;
+    color: #1e40af !important;
+    text-align: center;
+    margin: 1.5rem 0;
+    background: none !important;
+    -webkit-text-fill-color: #1e40af !important;
+}
+
+.job-offer-details {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    font-size: 1rem;
+    color: #0f172a !important;
+    margin-bottom: 1.5rem;
+    border-top: 1.5px dashed #cbd5e1 !important;
+    border-bottom: 1.5px dashed #cbd5e1 !important;
+    padding: 1rem 0;
+    font-weight: 700; /* Bold attributes values */
+}
+
+.job-offer-details strong {
+    color: #4f46e5 !important; /* Indigo for labels */
+}
+
+.job-offer-benefits {
+    font-size: 0.9rem;
+    color: #1e293b !important;
+    line-height: 1.6;
+    font-weight: 500;
+}
+
+.job-offer-benefits strong {
+    color: #4f46e5 !important;
+}
+
+/* Benchmark Card (Solid Light White - Gradient highlighted) */
+.benchmark-card {
+    background: linear-gradient(135deg, #f0fdf4 0%, #ecfeff 100%) !important;
+    border: 3px solid #10b981 !important; /* Highlight Benchmark */
+    border-radius: 20px;
+    padding: 2rem;
+    box-shadow: 0 12px 25px rgba(16, 185, 129, 0.1);
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.benchmark-card .bench-label {
+    font-size: 1.1rem;
+    color: #059669 !important; /* Green highlighted label */
+    font-weight: 800;
+    margin-bottom: 0.5rem;
+}
+
+.benchmark-card .bench-value {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: #059669 !important;
+    background: none !important;
+    -webkit-text-fill-color: #059669 !important;
+    margin: 0.5rem 0;
+}
+
+.prediction-result-card {
+    background: #ffffff !important;
+    border: 3px solid #6366f1 !important; /* Highlight Result Card */
+    border-radius: 20px;
+    padding: 2rem;
+    box-shadow: 0 12px 25px rgba(99, 102, 241, 0.1);
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.prediction-result-card .pred-value {
+    font-size: 2.75rem;
+    font-weight: 800;
+    color: #4f46e5 !important;
+    background: none !important;
+    -webkit-text-fill-color: #4f46e5 !important;
+}
+
+.prediction-result-card .pred-label {
+    font-size: 1.1rem;
+    color: #4f46e5 !important;
+    font-weight: 800;
+}
+
+/* Salary Range Visualizer CSS (Solid Light) */
+.salary-visualizer-container {
+    padding: 2.25rem 1.5rem 1.5rem 1.5rem;
+    background: #ffffff !important;
+    border: 2px solid #cbd5e1 !important;
+    border-radius: 20px;
+    margin-top: 2rem;
+    box-shadow: 0 8px 25px rgba(148, 163, 184, 0.08);
+}
+
+.salary-visualizer-title {
+    font-size: 0.95rem;
+    text-transform: uppercase;
+    letter-spacing: 0.075em;
+    color: #4f46e5; /* Highlight Visualizer Title */
+    margin-bottom: 2.25rem;
+    text-align: center;
+    font-weight: 800;
+}
+
+.salary-visualizer-track {
+    height: 14px; /* Slightly thicker */
+    background: linear-gradient(to right, #10b981 0%, #3b82f6 35%, #8b5cf6 65%, #ef4444 100%) !important; /* Rainbow gradient */
+    border-radius: 7px;
+    position: relative;
+    margin-bottom: 2rem;
+}
+
+.salary-visualizer-pointer {
+    width: 28px;
+    height: 28px;
+    background: #ffffff;
+    border: 5px solid #6366f1; /* Thicker border */
+    border-radius: 50%;
+    position: absolute;
+    top: -7px;
+    transform: translateX(-50%);
+    box-shadow: 0 0 15px #6366f1, 0 0 30px #6366f1;
+    z-index: 10;
+    transition: left 0.5s ease-out;
+}
+
+.salary-visualizer-current-label {
+    position: absolute;
+    top: -32px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #6366f1;
+    color: #ffffff;
+    padding: 3px 8px;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    font-weight: 800;
+    white-space: nowrap;
+    box-shadow: 0 3px 10px rgba(99, 102, 241, 0.25);
+}
+
+.salary-visualizer-labels {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.9rem;
+    color: #0f172a;
+    font-weight: 700;
+}
+
+.salary-visualizer-min {
+    color: #059669;
+}
+
+.salary-visualizer-max {
+    color: #dc2626;
+}
+
+hr {
+    border-color: #cbd5e1 !important;
+}
+
+/* CRITICAL ULTIMATE OVERRIDES AT THE BOTTOM OF THE FILE TO PREVENT ANY CASCADING CONFLICTS */
+
+/* Dropdown Option 1 (e.g. "Weekly") styling */
+[role="listbox"] > *:nth-child(5n+1),
+[role="listbox"] > *:nth-child(5n+1) [role="option"],
+[role="listbox"] > *:nth-child(5n+1) div,
+[role="listbox"] > *:nth-child(5n+1) span {
+    background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%) !important;
+    color: #1d4ed8 !important;
+    font-weight: 800 !important;
+    border-left: 4px solid #3b82f6 !important;
+}
+
+[role="listbox"] > *:nth-child(5n+1):hover,
+[role="listbox"] > *:nth-child(5n+1):hover [role="option"],
+[role="listbox"] > *:nth-child(5n+1):hover div,
+[role="listbox"] > *:nth-child(5n+1):hover span {
+    background: linear-gradient(135deg, #dbeafe 0%, #bfdbfe 100%) !important;
+}
+
+/* Dropdown Option 2 (e.g. "Monthly") styling */
+[role="listbox"] > *:nth-child(5n+2),
+[role="listbox"] > *:nth-child(5n+2) [role="option"],
+[role="listbox"] > *:nth-child(5n+2) div,
+[role="listbox"] > *:nth-child(5n+2) span {
+    background: linear-gradient(135deg, #f5f3ff 0%, #e0e7ff 100%) !important;
+    color: #6d28d9 !important;
+    font-weight: 800 !important;
+    border-left: 4px solid #8b5cf6 !important;
+}
+
+[role="listbox"] > *:nth-child(5n+2):hover,
+[role="listbox"] > *:nth-child(5n+2):hover [role="option"],
+[role="listbox"] > *:nth-child(5n+2):hover div,
+[role="listbox"] > *:nth-child(5n+2):hover span {
+    background: linear-gradient(135deg, #e0e7ff 0%, #c7d2fe 100%) !important;
+}
+
+/* Dropdown Option 3 styling */
+[role="listbox"] > *:nth-child(5n+3),
+[role="listbox"] > *:nth-child(5n+3) [role="option"],
+[role="listbox"] > *:nth-child(5n+3) div,
+[role="listbox"] > *:nth-child(5n+3) span {
+    background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%) !important;
+    color: #047857 !important;
+    font-weight: 800 !important;
+    border-left: 4px solid #10b981 !important;
+}
+
+[role="listbox"] > *:nth-child(5n+3):hover,
+[role="listbox"] > *:nth-child(5n+3):hover [role="option"],
+[role="listbox"] > *:nth-child(5n+3):hover div,
+[role="listbox"] > *:nth-child(5n+3):hover span {
+    background: linear-gradient(135deg, #dcfce7 0%, #bbf7d0 100%) !important;
+}
+
+/* Dropdown Option 4 styling */
+[role="listbox"] > *:nth-child(5n+4),
+[role="listbox"] > *:nth-child(5n+4) [role="option"],
+[role="listbox"] > *:nth-child(5n+4) div,
+[role="listbox"] > *:nth-child(5n+4) span {
+    background: linear-gradient(135deg, #fffbeb 0%, #fef3c7 100%) !important;
+    color: #b45309 !important;
+    font-weight: 800 !important;
+    border-left: 4px solid #f59e0b !important;
+}
+
+[role="listbox"] > *:nth-child(5n+4):hover,
+[role="listbox"] > *:nth-child(5n+4):hover [role="option"],
+[role="listbox"] > *:nth-child(5n+4):hover div,
+[role="listbox"] > *:nth-child(5n+4):hover span {
+    background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%) !important;
+}
+
+/* Dropdown Option 5 styling */
+[role="listbox"] > *:nth-child(5n),
+[role="listbox"] > *:nth-child(5n) [role="option"],
+[role="listbox"] > *:nth-child(5n) div,
+[role="listbox"] > *:nth-child(5n) span {
+    background: linear-gradient(135deg, #fff5f5 0%, #fee2e2 100%) !important;
+    color: #b91c1c !important;
+    font-weight: 800 !important;
+    border-left: 4px solid #ef4444 !important;
+}
+
+[role="listbox"] > *:nth-child(5n):hover,
+[role="listbox"] > *:nth-child(5n):hover [role="option"],
+[role="listbox"] > *:nth-child(5n):hover div,
+[role="listbox"] > *:nth-child(5n):hover span {
+    background: linear-gradient(135deg, #fee2e2 0%, #fecaca 100%) !important;
+}
+
+/* Ẩn dải trang trí và các nút deploy, hamburger ở góc phải header */
+div[data-testid="stDecoration"],
+header[data-testid="stHeader"] div[data-testid="stHeaderActionElements"],
+header[data-testid="stHeader"] [data-testid="stAppDeployButton"] {
+    display: none !important;
+    visibility: hidden !important;
+}
+
+/* Làm trong suốt header để không che nội dung và cho phép click chuột */
+header[data-testid="stHeader"] {
+    background-color: transparent !important;
+    background: transparent !important;
+    box-shadow: none !important;
+    border: none !important;
+    pointer-events: none !important;
+}
+
+/* Style cho nút duy nhất hiển thị ở header chính là nút toggle Sidebar */
+header[data-testid="stHeader"] button {
+    pointer-events: auto !important;
+    display: flex !important;
+    visibility: visible !important;
+    background-color: rgba(255, 255, 255, 0.95) !important;
+    border: 2px solid #a5b4fc !important;
+    border-radius: 50% !important;
+    box-shadow: 0 4px 12px rgba(99, 102, 241, 0.15) !important;
+    margin-left: 1rem !important;
+    transition: all 0.2s ease-in-out !important;
+}
+
+header[data-testid="stHeader"] button:hover {
+    border-color: #4f46e5 !important;
+    transform: scale(1.08) !important;
+}
+
+/* Custom styling for Streamlit Toggle Switch (st.toggle) in Light Mode */
+div[data-testid="stCheckbox"] {
+    background-color: rgba(99, 102, 241, 0.08) !important;
+    border: 2px solid #a5b4fc !important;
+    border-radius: 20px !important;
+    padding: 0.5rem 1rem !important;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+    box-shadow: 0 4px 10px rgba(99, 102, 241, 0.03) !important;
+}
+
+div[data-testid="stCheckbox"]:hover {
+    border-color: #4f46e5 !important;
+    box-shadow: 0 6px 15px rgba(79, 70, 229, 0.12) !important;
+}
+
+/* Style the track of st.toggle */
+div[data-testid="stCheckbox"] div[role="switch"] {
+    background-color: #cbd5e1 !important;
+    border: 1px solid #94a3b8 !important;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+}
+
+div[data-testid="stCheckbox"] div[role="switch"][aria-checked="true"] {
+    background-color: #4f46e5 !important;
+    border-color: #3730a3 !important;
+}
+
+/* Style the knob (nút gạt tròn) */
+div[data-testid="stCheckbox"] div[role="switch"] > div {
+    background-color: #ffffff !important;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25) !important;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+}
