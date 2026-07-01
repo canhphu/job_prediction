@@ -1,0 +1,877 @@
+/* Google Fonts - Inter & Space Grotesk for tech look */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@500;700&display=swap');
+
+/* Global Style Override - Cyber Dark Theme */
+html, body, .stApp {
+    font-family: 'Inter', sans-serif !important;
+    background-color: #030712 !important; /* Cosmic Deep Dark background */
+    /* Futuristic grid matrix with multi-glow neon backgrounds */
+    background-image: 
+        radial-gradient(circle at 5% 5%, rgba(6, 182, 212, 0.12) 0%, transparent 45%),
+        radial-gradient(circle at 95% 95%, rgba(236, 72, 153, 0.08) 0%, transparent 45%),
+        radial-gradient(circle at 50% 50%, rgba(99, 102, 241, 0.06) 0%, transparent 50%),
+        radial-gradient(rgba(99, 102, 241, 0.12) 1.5px, transparent 0);
+    background-size: 100% 100%, 100% 100%, 100% 100%, 32px 32px;
+    background-attachment: fixed;
+    color: #cbd5e1 !important; /* Clean light text for high contrast */
+}
+
+/* Sidebar Custom Styling */
+section[data-testid="stSidebar"] {
+    background-color: #050814 !important;
+    border-right: 3px solid #00f2fe; /* Glowing Cyan border separator */
+    box-shadow: 5px 0 25px rgba(0, 242, 254, 0.05);
+}
+
+section[data-testid="stSidebar"] h1, 
+section[data-testid="stSidebar"] h2, 
+section[data-testid="stSidebar"] h3, 
+section[data-testid="stSidebar"] h4, 
+section[data-testid="stSidebar"] span {
+    color: #00f2fe !important; /* Cyber Cyan headings in Sidebar */
+    font-weight: 800 !important;
+}
+
+section[data-testid="stSidebar"] label {
+    color: #00f2fe !important;
+    font-weight: 800 !important;
+}
+
+/* Header Text Styles - Tech HUD style */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Space Grotesk', 'Inter', sans-serif !important;
+    font-weight: 800 !important;
+    letter-spacing: -0.03em;
+}
+
+h1 {
+    font-size: 2.5rem !important;
+    background: linear-gradient(135deg, #00f2fe 0%, #ec4899 50%, #ffffff 100%); /* Neon Cyan - Pink - White */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 1.5rem !important;
+}
+
+/* Highlight subheadings across sections in Dark mode */
+h2, h3, h4 {
+    color: #00f2fe !important; /* Highlight Cyber Cyan for Subheadings */
+    background: none !important;
+    -webkit-text-fill-color: initial !important;
+    margin-top: 2rem !important;
+}
+
+/* Emphasize important text elements in Dark mode */
+strong {
+    color: #00f2fe !important; /* Cyan neon for highlights */
+    font-weight: 700 !important;
+}
+
+/* Page Subheader Highlight Section */
+.page-subheader-highlight {
+    background: linear-gradient(90deg, rgba(6, 182, 212, 0.18) 0%, rgba(3, 7, 18, 0) 100%);
+    border-left: 5px solid #00f2fe;
+    padding: 0.85rem 1.5rem;
+    border-radius: 0 10px 10px 0;
+    font-family: 'Space Grotesk', 'Inter', sans-serif;
+    font-weight: 800;
+    font-size: 1.15rem;
+    color: #00f2fe !important; /* Highlight cyan subheader text */
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 12px rgba(6, 182, 212, 0.05);
+}
+
+/* Tech Landing Banner */
+.tech-banner {
+    background: linear-gradient(135deg, rgba(15, 23, 42, 0.8) 0%, rgba(30, 27, 75, 0.8) 100%);
+    padding: 3rem 2.5rem;
+    border-radius: 20px;
+    border: 3px solid #00f2fe; /* Neon Cyan Border */
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 2.5rem;
+}
+
+.tech-banner::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0; height: 6px;
+    background: linear-gradient(90deg, #00f2fe, #4f46e5, #ec4899);
+}
+
+.tech-banner h1 {
+    font-size: 3rem !important;
+    font-weight: 800 !important;
+    margin: 0 0 0.75rem 0 !important;
+    background: linear-gradient(135deg, #ffffff 0%, #00f2fe 60%, #ec4899 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.tech-banner p {
+    font-size: 1.2rem;
+    color: #cbd5e1 !important;
+    margin: 0 !important;
+    font-weight: 600;
+    line-height: 1.6;
+}
+
+/* Custom Card Container for Metrics (Glassmorphism Neon Highlighted) */
+.metric-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 3rem;
+}
+
+.glass-card {
+    background: rgba(10, 15, 30, 0.65) !important;
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 2px solid transparent !important;
+    background-clip: padding-box !important;
+    border-radius: 18px;
+    padding: 1.75rem;
+    box-shadow: 0 10px 30px rgba(0, 242, 254, 0.05);
+    position: relative;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    /* Neon Border Glow Effect using gradient */
+    background-image: linear-gradient(rgba(10, 15, 30, 0.95), rgba(10, 15, 30, 0.95)), linear-gradient(135deg, #00f2fe 0%, #4facfe 100%) !important;
+    background-origin: border-box !important;
+    background-clip: padding-box, border-box !important;
+}
+
+.glass-card::after {
+    content: '// SYS_METRIC';
+    position: absolute;
+    top: 10px; right: 15px;
+    font-family: monospace;
+    font-size: 0.65rem;
+    color: #00f2fe;
+    font-weight: 700;
+    opacity: 0.8;
+}
+
+.glass-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 20px 35px rgba(0, 242, 254, 0.15), 0 10px 10px rgba(0, 242, 254, 0.08);
+}
+
+.glass-card .card-title {
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: #00f2fe !important; /* Metric Card Title Cyan */
+    margin-bottom: 0.75rem;
+    font-weight: 800;
+}
+
+.glass-card .card-value {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: #ffffff;
+    margin: 0;
+    background: linear-gradient(135deg, #ffffff 0%, #00f2fe 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.glass-card .card-subtitle {
+    font-size: 0.9rem;
+    color: #cbd5e1 !important;
+    margin-top: 0.5rem;
+    font-weight: 700; /* Bold subtitle */
+}
+
+/* Quick Navigation Cards (Highlighted Tech) */
+.nav-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.nav-card {
+    background: rgba(10, 15, 30, 0.6) !important;
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 2px solid transparent !important;
+    background-clip: padding-box !important;
+    border-radius: 18px;
+    padding: 2.25rem 2rem;
+    text-decoration: none !important;
+    color: inherit !important;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 10px 30px rgba(139, 92, 246, 0.08);
+    cursor: pointer;
+    background-image: linear-gradient(rgba(10, 15, 30, 0.95), rgba(10, 15, 30, 0.95)), linear-gradient(135deg, #8b5cf6 0%, #ec4899 100%) !important;
+    background-origin: border-box !important;
+    background-clip: padding-box, border-box !important;
+}
+
+.nav-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 25px 40px rgba(139, 92, 246, 0.2), 0 10px 10px rgba(139, 92, 246, 0.1);
+}
+
+.nav-card .nav-title {
+    font-size: 1.4rem;
+    font-weight: 800;
+    color: #00f2fe !important; /* Highlighted card titles */
+    margin-bottom: 0.75rem;
+    position: relative;
+    padding-bottom: 0.5rem;
+}
+
+.nav-card .nav-title::after {
+    content: '';
+    position: absolute;
+    bottom: 0; left: 0;
+    width: 3rem; height: 3px;
+    background: linear-gradient(90deg, #8b5cf6, #ec4899);
+    transition: width 0.3s ease;
+}
+
+.nav-card:hover .nav-title::after {
+    width: 6rem;
+}
+
+.nav-card .nav-desc {
+    font-size: 1rem;
+    color: #cbd5e1;
+    line-height: 1.6;
+    margin: 0;
+    font-weight: 600;
+}
+
+/* Ghi đè nhãn các Widget của Streamlit (Labels) */
+label[data-testid="stWidgetLabel"] p {
+    color: #00f2fe !important; /* Widget Label Cyan Highlight */
+    font-weight: 800 !important;
+    font-size: 1.05rem !important;
+}
+
+/* Ghi đè selectbox, multiselect, inputs của Streamlit sang màu tối */
+div[data-baseweb="select"], div[data-baseweb="input"], input, select, textarea,
+div[data-baseweb="select"] > div, div[data-baseweb="input"] > div,
+div[role="combobox"] {
+    background-color: #0f172a !important;
+    background: #0f172a !important;
+    border-color: rgba(255, 255, 255, 0.12) !important;
+    color: #f1f5f9 !important;
+}
+
+/* Highlight style cho các ô input selectbox đơn có dropdown - ÁP DỤNG TRỰC TIẾP LÊN THẺ CON VẼ VIỀN */
+.stSelectbox div[data-baseweb="select"] > div {
+    border: 2px solid rgba(99, 102, 241, 0.4) !important; /* Indigo border */
+    border-radius: 8px !important;
+    background-color: #0f172a !important;
+    transition: all 0.2s ease-in-out !important;
+}
+
+.stSelectbox:hover div[data-baseweb="select"] > div,
+.stSelectbox div[data-baseweb="select"]:focus-within > div {
+    border-color: #00f2fe !important; /* Cyan neon glow border */
+    box-shadow: 0 0 10px rgba(0, 242, 254, 0.3) !important;
+}
+
+/* Chữ hiển thị bên trong ô chọn đơn (selectbox) */
+.stSelectbox [data-testid="stSelectboxSelectedValue"] *,
+.stSelectbox div[aria-selected="true"] *,
+.stSelectbox div[data-baseweb="select"] span,
+.stSelectbox div[data-baseweb="select"] p {
+    color: #00f2fe !important; /* Cyber Cyan text for selected value */
+    font-weight: 800 !important;
+}
+
+/* Đảm bảo text được chọn, nhãn con, và placeholder có màu tối rõ ràng - CHỈ ÁP DỤNG TRÊN CÁC KHỐI INPUT CHÍNH (KHÔNG ĐÈ LÊN TAGS) */
+div[data-baseweb="select"] > div,
+div[data-baseweb="select"] [role="button"],
+div[data-baseweb="input"] input,
+.stSelectbox > div {
+    color: #f1f5f9 !important;
+    background-color: transparent !important;
+}
+
+/* GHI ĐÈ TRIỆT ĐỂ CHO TẤT CẢ CÁC TAG MULTISELECT TRONG TOÀN BỘ DASHBOARD - CHÍNH XÁC VỚI SPECIFICITY CAO (Dark Mode) */
+.stMultiSelect div[data-testid="stMultiSelectItem"]:nth-of-type(5n+1),
+.stMultiSelect span[data-testid="stMultiSelectItem"]:nth-of-type(5n+1),
+.stMultiSelect [data-baseweb="tag"]:nth-of-type(5n+1),
+div[data-baseweb="tag"]:nth-of-type(5n+1) {
+    background: linear-gradient(135deg, rgba(6, 182, 212, 0.15) 0%, rgba(0, 242, 254, 0.05) 100%) !important;
+    border: 2px solid #00f2fe !important; /* Neon Cyan */
+    color: #00f2fe !important;
+}
+.stMultiSelect div[data-testid="stMultiSelectItem"]:nth-of-type(5n+1) *,
+.stMultiSelect span[data-testid="stMultiSelectItem"]:nth-of-type(5n+1) *,
+.stMultiSelect [data-baseweb="tag"]:nth-of-type(5n+1) *,
+div[data-baseweb="tag"]:nth-of-type(5n+1) * {
+    color: #00f2fe !important;
+    background-color: transparent !important;
+}
+
+.stMultiSelect div[data-testid="stMultiSelectItem"]:nth-of-type(5n+2),
+.stMultiSelect span[data-testid="stMultiSelectItem"]:nth-of-type(5n+2),
+.stMultiSelect [data-baseweb="tag"]:nth-of-type(5n+2),
+div[data-baseweb="tag"]:nth-of-type(5n+2) {
+    background: linear-gradient(135deg, rgba(16, 185, 129, 0.15) 0%, rgba(52, 211, 153, 0.05) 100%) !important;
+    border: 2px solid #10b981 !important; /* Neon Emerald */
+    color: #10b981 !important;
+}
+.stMultiSelect div[data-testid="stMultiSelectItem"]:nth-of-type(5n+2) *,
+.stMultiSelect span[data-testid="stMultiSelectItem"]:nth-of-type(5n+2) *,
+.stMultiSelect [data-baseweb="tag"]:nth-of-type(5n+2) *,
+div[data-baseweb="tag"]:nth-of-type(5n+2) * {
+    color: #10b981 !important;
+    background-color: transparent !important;
+}
+
+.stMultiSelect div[data-testid="stMultiSelectItem"]:nth-of-type(5n+3),
+.stMultiSelect span[data-testid="stMultiSelectItem"]:nth-of-type(5n+3),
+.stMultiSelect [data-baseweb="tag"]:nth-of-type(5n+3),
+div[data-baseweb="tag"]:nth-of-type(5n+3) {
+    background: linear-gradient(135deg, rgba(245, 158, 11, 0.15) 0%, rgba(253, 230, 138, 0.05) 100%) !important;
+    border: 2px solid #f59e0b !important; /* Neon Amber */
+    color: #f59e0b !important;
+}
+.stMultiSelect div[data-testid="stMultiSelectItem"]:nth-of-type(5n+3) *,
+.stMultiSelect span[data-testid="stMultiSelectItem"]:nth-of-type(5n+3) *,
+.stMultiSelect [data-baseweb="tag"]:nth-of-type(5n+3) *,
+div[data-baseweb="tag"]:nth-of-type(5n+3) * {
+    color: #f59e0b !important;
+    background-color: transparent !important;
+}
+
+.stMultiSelect div[data-testid="stMultiSelectItem"]:nth-of-type(5n+4),
+.stMultiSelect span[data-testid="stMultiSelectItem"]:nth-of-type(5n+4),
+.stMultiSelect [data-baseweb="tag"]:nth-of-type(5n+4),
+div[data-baseweb="tag"]:nth-of-type(5n+4) {
+    background: linear-gradient(135deg, rgba(244, 63, 94, 0.15) 0%, rgba(251, 113, 133, 0.05) 100%) !important;
+    border: 2px solid #f43f5e !important; /* Neon Rose */
+    color: #f43f5e !important;
+}
+.stMultiSelect div[data-testid="stMultiSelectItem"]:nth-of-type(5n+4) *,
+.stMultiSelect span[data-testid="stMultiSelectItem"]:nth-of-type(5n+4) *,
+.stMultiSelect [data-baseweb="tag"]:nth-of-type(5n+4) *,
+div[data-baseweb="tag"]:nth-of-type(5n+4) * {
+    color: #f43f5e !important;
+    background-color: transparent !important;
+}
+
+.stMultiSelect div[data-testid="stMultiSelectItem"]:nth-of-type(5n),
+.stMultiSelect span[data-testid="stMultiSelectItem"]:nth-of-type(5n),
+.stMultiSelect [data-baseweb="tag"]:nth-of-type(5n),
+div[data-baseweb="tag"]:nth-of-type(5n) {
+    background: linear-gradient(135deg, rgba(99, 102, 241, 0.15) 0%, rgba(129, 140, 248, 0.05) 100%) !important;
+    border: 2px solid #818cf8 !important; /* Neon Indigo */
+    color: #818cf8 !important;
+}
+.stMultiSelect div[data-testid="stMultiSelectItem"]:nth-of-type(5n) *,
+.stMultiSelect span[data-testid="stMultiSelectItem"]:nth-of-type(5n) *,
+.stMultiSelect [data-baseweb="tag"]:nth-of-type(5n) *,
+div[data-baseweb="tag"]:nth-of-type(5n) * {
+    color: #818cf8 !important;
+    background-color: transparent !important;
+}
+
+/* Base style for tag spacing and font weights */
+div[data-testid="stMultiSelectItem"],
+span[data-testid="stMultiSelectItem"],
+div[data-baseweb="tag"] {
+    border-radius: 6px !important;
+    font-weight: 700 !important;
+    padding: 0.25rem 0.65rem !important;
+    box-shadow: 0 0 10px rgba(0, 242, 254, 0.05) !important;
+    margin: 2px !important;
+    display: inline-flex !important;
+    align-items: center !important;
+}
+
+div[data-baseweb="input"] input {
+    background-color: #0f172a !important;
+    color: #f1f5f9 !important;
+}
+
+/* Ghi đè triệt để Dropdown list box của Streamlit (BaseWeb Popover) để không bị màu đen */
+div[data-baseweb="popover"],
+div[data-baseweb="popover"] *,
+div[role="listbox"],
+div[role="listbox"] *,
+div[role="option"] {
+    background-color: #0f172a !important;
+    background: #0f172a !important;
+    color: #f1f5f9 !important;
+}
+
+/* Ghi đè nền của dropdown list tuyển chọn khi hover */
+div[role="option"]:hover, div[role="option"][aria-selected="true"] {
+    background-color: #1e1b4b !important;
+    background: #1e1b4b !important;
+    color: #818cf8 !important;
+}
+
+/* SAFE DATAFRAME OVERRIDES: Avoid children overrides to keep Glide Data Grid visible */
+div[data-testid="stDataFrame"] {
+    border: 2px solid rgba(255, 255, 255, 0.08) !important;
+    border-radius: 12px !important;
+    overflow: hidden !important;
+}
+
+/* Khung viền highlight thiết kế riêng cho các biểu đồ Plotly trong Giao diện Tối */
+div[data-testid="stPlotlyChart"] {
+    background-color: rgba(10, 15, 30, 0.65) !important;
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 2px solid rgba(99, 102, 241, 0.25) !important;
+    border-radius: 20px !important;
+    padding: 1.5rem !important;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35) !important;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+}
+
+div[data-testid="stPlotlyChart"]:hover {
+    border-color: #00f2fe !important; /* Border turns cyan neon on hover */
+    box-shadow: 0 15px 35px rgba(0, 242, 254, 0.2) !important;
+}
+
+/* Rounded Input Form styling */
+div[data-testid="stForm"] {
+    background-color: rgba(10, 15, 30, 0.7) !important;
+    backdrop-filter: blur(16px) !important;
+    -webkit-backdrop-filter: blur(16px) !important;
+    border: 2px solid rgba(255, 255, 255, 0.08) !important;
+    border-radius: 20px !important;
+    padding: 2.5rem !important;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.3) !important;
+}
+
+/* Custom Button & Download Button Styling */
+div.stButton > button, 
+div[data-testid="stFormSubmitButton"] > button,
+.stDownloadButton > button {
+    background: linear-gradient(90deg, #4f46e5 0%, #3b82f6 100%) !important;
+    color: #ffffff !important;
+    border: none !important;
+    border-radius: 8px !important;
+    padding: 0.85rem 2.25rem !important;
+    font-weight: 700 !important;
+    font-size: 1.05rem !important;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1) !important;
+    box-shadow: 0 4px 15px rgba(79, 70, 229, 0.3) !important;
+    letter-spacing: 0.025em !important;
+}
+
+div.stButton > button:hover, 
+div[data-testid="stFormSubmitButton"] > button:hover,
+.stDownloadButton > button:hover {
+    transform: translateY(-2px) !important;
+    box-shadow: 0 8px 25px rgba(79, 70, 229, 0.45) !important;
+    filter: brightness(1.1);
+}
+
+/* Simulated System Status Indicator */
+.system-status-indicator {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 1rem;
+    font-size: 0.8rem;
+    font-family: monospace;
+    color: #00f2fe; /* High Contrast Cyan */
+    margin-bottom: 1.5rem;
+    padding-right: 0.5rem;
+    font-weight: 800;
+}
+
+.status-dot {
+    width: 10px;
+    height: 10px;
+    background-color: #10b981;
+    border-radius: 50%;
+    box-shadow: 0 0 10px #10b981;
+    animation: statusPulse 1.5s infinite alternate;
+}
+
+@keyframes statusPulse {
+    from { opacity: 0.4; }
+    to { opacity: 1; }
+}
+
+/* Simulated Job Offer Card */
+.job-offer-container {
+    background: linear-gradient(145deg, rgba(30, 27, 75, 0.6) 0%, rgba(10, 15, 30, 0.95) 100%);
+    border: 3px solid #00f2fe; /* Glowing Cyan Border */
+    border-radius: 20px;
+    padding: 2.25rem;
+    box-shadow: 0 15px 35px rgba(0, 242, 254, 0.15);
+    position: relative;
+    overflow: hidden;
+    margin-top: 1.5rem;
+}
+
+.job-offer-watermark {
+    position: absolute;
+    right: -20px;
+    bottom: -20px;
+    font-size: 8rem;
+    font-weight: 900;
+    color: rgba(0, 242, 254, 0.03);
+    pointer-events: none;
+    user-select: none;
+}
+
+.job-offer-header {
+    border-bottom: 2px solid rgba(0, 242, 254, 0.2);
+    padding-bottom: 1rem;
+    margin-bottom: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.job-offer-title {
+    font-size: 1.45rem;
+    font-weight: 800;
+    color: #00f2fe;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.job-offer-company {
+    font-size: 0.9rem;
+    color: #818cf8;
+    font-family: monospace;
+    font-weight: 700;
+}
+
+.job-offer-salary {
+    font-size: 3rem;
+    font-weight: 800;
+    color: #ffffff;
+    text-align: center;
+    margin: 1.5rem 0;
+    background: linear-gradient(to right, #ffffff, #00f2fe);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.job-offer-details {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    font-size: 1rem;
+    color: #cbd5e1 !important;
+    margin-bottom: 1.5rem;
+    border-top: 1.5px dashed rgba(255,255,255,0.08) !important;
+    border-bottom: 1.5px dashed rgba(255,255,255,0.08) !important;
+    padding: 1rem 0;
+    font-weight: 700; /* Bold values */
+}
+
+.job-offer-details strong {
+    color: #00f2fe !important; /* Cyan highlight for labels */
+}
+
+.job-offer-benefits {
+    font-size: 0.9rem;
+    color: #cbd5e1;
+    line-height: 1.6;
+    font-weight: 600;
+}
+
+.job-offer-benefits strong {
+    color: #00f2fe !important;
+}
+
+/* Benchmark Card (Solid Dark Highlight) */
+.benchmark-card {
+    background: rgba(10, 15, 30, 0.8) !important;
+    border: 3px solid #10b981 !important; /* Highlight */
+    border-radius: 20px;
+    padding: 2rem;
+    box-shadow: 0 12px 25px rgba(16, 185, 129, 0.15);
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.benchmark-card .bench-label {
+    font-size: 1.1rem;
+    color: #10b981 !important; /* Green highlighted label */
+    font-weight: 800;
+    margin-bottom: 0.5rem;
+}
+
+.benchmark-card .bench-value {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: #10b981;
+    margin: 0.5rem 0;
+}
+
+.prediction-result-card {
+    background: rgba(10, 15, 30, 0.8) !important;
+    border: 3px solid #6366f1 !important; /* Highlight */
+    border-radius: 20px;
+    padding: 2rem;
+    box-shadow: 0 12px 25px rgba(99, 102, 241, 0.15);
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.prediction-result-card .pred-value {
+    font-size: 2.75rem;
+    font-weight: 800;
+    color: #818cf8;
+}
+
+.prediction-result-card .pred-label {
+    font-size: 1.1rem;
+    color: #818cf8 !important;
+    font-weight: 800;
+}
+
+/* Salary Range Visualizer CSS (Glow Theme) */
+.salary-visualizer-container {
+    padding: 2.25rem 1.5rem 1.5rem 1.5rem;
+    background: rgba(10, 15, 30, 0.7);
+    border: 2px solid rgba(255, 255, 255, 0.05);
+    border-radius: 20px;
+    margin-top: 2rem;
+    box-shadow: inset 0 2px 4px rgba(0,0,0,0.3);
+}
+
+.salary-visualizer-title {
+    font-size: 0.95rem;
+    text-transform: uppercase;
+    letter-spacing: 0.075em;
+    color: #00f2fe; /* Highlight Visualizer Title */
+    margin-bottom: 2.25rem;
+    text-align: center;
+    font-weight: 800;
+}
+
+.salary-visualizer-track {
+    height: 14px;
+    background: linear-gradient(to right, #10b981 0%, #3b82f6 35%, #8b5cf6 65%, #f43f5e 100%) !important;
+    border-radius: 7px;
+    position: relative;
+    margin-bottom: 2rem;
+}
+
+.salary-visualizer-pointer {
+    width: 28px;
+    height: 28px;
+    background: #ffffff;
+    border: 5px solid #6366f1;
+    border-radius: 50%;
+    position: absolute;
+    top: -7px;
+    transform: translateX(-50%);
+    box-shadow: 0 0 15px #6366f1, 0 0 30px #6366f1;
+    z-index: 10;
+    transition: left 0.5s ease-out;
+}
+
+.salary-visualizer-current-label {
+    position: absolute;
+    top: -32px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #6366f1;
+    color: #ffffff;
+    padding: 3px 8px;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    font-weight: 800;
+    white-space: nowrap;
+    box-shadow: 0 3px 10px rgba(99, 102, 241, 0.5);
+}
+
+.salary-visualizer-labels {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.9rem;
+    color: #cbd5e1;
+    font-weight: 700;
+}
+
+.salary-visualizer-min {
+    color: #10b981;
+}
+
+.salary-visualizer-max {
+    color: #f43f5e;
+}
+
+hr {
+    border-color: rgba(255, 255, 255, 0.08) !important;
+}
+
+/* CRITICAL ULTIMATE OVERRIDES AT THE BOTTOM OF THE FILE TO PREVENT ANY CASCADING CONFLICTS */
+
+/* Dropdown Option 1 (e.g. "Weekly") styling */
+[role="listbox"] > *:nth-child(5n+1),
+[role="listbox"] > *:nth-child(5n+1) [role="option"],
+[role="listbox"] > *:nth-child(5n+1) div,
+[role="listbox"] > *:nth-child(5n+1) span {
+    background: linear-gradient(135deg, rgba(6, 182, 212, 0.15) 0%, rgba(3, 7, 18, 0.95) 100%) !important;
+    color: #00f2fe !important;
+    font-weight: 800 !important;
+    border-left: 4px solid #00f2fe !important;
+}
+
+[role="listbox"] > *:nth-child(5n+1):hover,
+[role="listbox"] > *:nth-child(5n+1):hover [role="option"],
+[role="listbox"] > *:nth-child(5n+1):hover div,
+[role="listbox"] > *:nth-child(5n+1):hover span {
+    background: linear-gradient(135deg, rgba(6, 182, 212, 0.3) 0%, rgba(3, 7, 18, 0.95) 100%) !important;
+}
+
+/* Dropdown Option 2 (e.g. "Monthly") styling */
+[role="listbox"] > *:nth-child(5n+2),
+[role="listbox"] > *:nth-child(5n+2) [role="option"],
+[role="listbox"] > *:nth-child(5n+2) div,
+[role="listbox"] > *:nth-child(5n+2) span {
+    background: linear-gradient(135deg, rgba(99, 102, 241, 0.15) 0%, rgba(3, 7, 18, 0.95) 100%) !important;
+    color: #818cf8 !important;
+    font-weight: 800 !important;
+    border-left: 4px solid #818cf8 !important;
+}
+
+[role="listbox"] > *:nth-child(5n+2):hover,
+[role="listbox"] > *:nth-child(5n+2):hover [role="option"],
+[role="listbox"] > *:nth-child(5n+2):hover div,
+[role="listbox"] > *:nth-child(5n+2):hover span {
+    background: linear-gradient(135deg, rgba(99, 102, 241, 0.3) 0%, rgba(3, 7, 18, 0.95) 100%) !important;
+}
+
+/* Dropdown Option 3 styling */
+[role="listbox"] > *:nth-child(5n+3),
+[role="listbox"] > *:nth-child(5n+3) [role="option"],
+[role="listbox"] > *:nth-child(5n+3) div,
+[role="listbox"] > *:nth-child(5n+3) span {
+    background: linear-gradient(135deg, rgba(16, 185, 129, 0.15) 0%, rgba(3, 7, 18, 0.95) 100%) !important;
+    color: #10b981 !important;
+    font-weight: 800 !important;
+    border-left: 4px solid #10b981 !important;
+}
+
+[role="listbox"] > *:nth-child(5n+3):hover,
+[role="listbox"] > *:nth-child(5n+3):hover [role="option"],
+[role="listbox"] > *:nth-child(5n+3):hover div,
+[role="listbox"] > *:nth-child(5n+3):hover span {
+    background: linear-gradient(135deg, rgba(16, 185, 129, 0.3) 0%, rgba(3, 7, 18, 0.95) 100%) !important;
+}
+
+/* Dropdown Option 4 styling */
+[role="listbox"] > *:nth-child(5n+4),
+[role="listbox"] > *:nth-child(5n+4) [role="option"],
+[role="listbox"] > *:nth-child(5n+4) div,
+[role="listbox"] > *:nth-child(5n+4) span {
+    background: linear-gradient(135deg, rgba(245, 158, 11, 0.15) 0%, rgba(3, 7, 18, 0.95) 100%) !important;
+    color: #f59e0b !important;
+    font-weight: 800 !important;
+    border-left: 4px solid #f59e0b !important;
+}
+
+[role="listbox"] > *:nth-child(5n+4):hover,
+[role="listbox"] > *:nth-child(5n+4):hover [role="option"],
+[role="listbox"] > *:nth-child(5n+4):hover div,
+[role="listbox"] > *:nth-child(5n+4):hover span {
+    background: linear-gradient(135deg, rgba(245, 158, 11, 0.3) 0%, rgba(3, 7, 18, 0.95) 100%) !important;
+}
+
+/* Dropdown Option 5 styling */
+[role="listbox"] > *:nth-child(5n),
+[role="listbox"] > *:nth-child(5n) [role="option"],
+[role="listbox"] > *:nth-child(5n) div,
+[role="listbox"] > *:nth-child(5n) span {
+    background: linear-gradient(135deg, rgba(244, 63, 94, 0.15) 0%, rgba(3, 7, 18, 0.95) 100%) !important;
+    color: #f43f5e !important;
+    font-weight: 800 !important;
+    border-left: 4px solid #f43f5e !important;
+}
+
+[role="listbox"] > *:nth-child(5n):hover,
+[role="listbox"] > *:nth-child(5n):hover [role="option"],
+[role="listbox"] > *:nth-child(5n):hover div,
+[role="listbox"] > *:nth-child(5n):hover span {
+    background: linear-gradient(135deg, rgba(244, 63, 94, 0.3) 0%, rgba(3, 7, 18, 0.95) 100%) !important;
+}
+
+/* Ẩn dải trang trí và các nút deploy, hamburger ở góc phải header */
+div[data-testid="stDecoration"],
+header[data-testid="stHeader"] div[data-testid="stHeaderActionElements"],
+header[data-testid="stHeader"] [data-testid="stAppDeployButton"] {
+    display: none !important;
+    visibility: hidden !important;
+}
+
+/* Làm trong suốt header để không che nội dung và cho phép click chuột */
+header[data-testid="stHeader"] {
+    background-color: transparent !important;
+    background: transparent !important;
+    box-shadow: none !important;
+    border: none !important;
+    pointer-events: none !important;
+}
+
+/* Style cho nút duy nhất hiển thị ở header chính là nút toggle Sidebar */
+header[data-testid="stHeader"] button {
+    pointer-events: auto !important;
+    display: flex !important;
+    visibility: visible !important;
+    background-color: rgba(15, 23, 42, 0.9) !important;
+    border: 2px solid rgba(0, 242, 254, 0.4) !important;
+    border-radius: 50% !important;
+    box-shadow: 0 4px 15px rgba(0, 242, 254, 0.2) !important;
+    margin-left: 1rem !important;
+    transition: all 0.2s ease-in-out !important;
+}
+
+header[data-testid="stHeader"] button i,
+header[data-testid="stHeader"] button svg {
+    color: #00f2fe !important;
+}
+
+header[data-testid="stHeader"] button:hover {
+    border-color: #00f2fe !important;
+    box-shadow: 0 6px 20px rgba(0, 242, 254, 0.35) !important;
+    transform: scale(1.08) !important;
+}
+
+/* Custom styling for Streamlit Toggle Switch (st.toggle) in Dark Mode */
+div[data-testid="stCheckbox"] {
+    background-color: rgba(10, 15, 30, 0.6) !important;
+    border: 2px solid rgba(0, 242, 254, 0.3) !important;
+    border-radius: 20px !important;
+    padding: 0.5rem 1rem !important;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.35) !important;
+}
+
+div[data-testid="stCheckbox"]:hover {
+    border-color: #00f2fe !important;
+    box-shadow: 0 6px 20px rgba(0, 242, 254, 0.18) !important;
+}
+
+/* Style the track of st.toggle */
+div[data-testid="stCheckbox"] div[role="switch"] {
+    background-color: #1e293b !important;
+    border: 1px solid #334155 !important;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+}
+
+div[data-testid="stCheckbox"] div[role="switch"][aria-checked="true"] {
+    background-color: #00f2fe !important;
+    border-color: #00c2cb !important;
+    box-shadow: 0 0 8px #00f2fe !important;
+}
+
+/* Style the knob (nút gạt tròn) */
+div[data-testid="stCheckbox"] div[role="switch"] > div {
+    background-color: #ffffff !important;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.85) !important;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+}
